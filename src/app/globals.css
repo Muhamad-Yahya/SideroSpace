@@ -113,6 +113,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .top-left { top: 12px; left: 12px; display: flex; align-items: center; gap: 7px; }
 .top-right { top: 12px; right: 12px; }
 .bottom-left { bottom: 12px; left: 12px; display: flex; align-items: center; gap: 7px; }
+.frame-load-warning { bottom: 12px; left: 50%; max-width: calc(100% - 150px); transform: translateX(-50%); color: #ffb69b; text-align: center; }
 .record-dot { width: 6px; height: 6px; border-radius: 50%; background: #ff9c62; }
 .crosshair { font-size: 14px; color: #b39bff; }
 .fullscreen-button { position: absolute; z-index: 2; bottom: 12px; right: 12px; border: 1px solid #ffffff29; border-radius: 5px; padding: 7px; background: #080b12bd; color: #e0e5f0; cursor: pointer; }

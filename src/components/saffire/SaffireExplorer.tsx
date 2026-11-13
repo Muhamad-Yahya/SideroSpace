@@ -43,7 +43,15 @@ type Frame = {
   timestampUtc: string;
 };
 
+type FrameImageEntry = {
+  image: HTMLImageElement;
+  promise: Promise<boolean>;
+  state: "loading" | "ready" | "failed";
+  cancel: () => void;
+};
+
 const DATA_PATH = "/data/saffire/f1c1";
+const PRELOAD_AHEAD = 4;
 
 export default function SaffireExplorer() {
   const [frames, setFrames] = useState<Frame[]>([]);
@@ -55,8 +63,98 @@ export default function SaffireExplorer() {
   const [showInfo, setShowInfo] = useState(false);
   const [fullscreen, setFullscreen] = useState(false);
   const [showFullscreen, setShowFullscreen] = useState(false);
+  const [frameError, setFrameError] = useState("");
 
   const viewerRef = useRef<HTMLDivElement>(null);
+  const frameListRef = useRef<Frame[]>([]);
+  const frameImagesRef = useRef(new Map<number, FrameImageEntry>());
+  const playbackActiveRef = useRef(false);
+  const playbackSessionRef = useRef(0);
+  const navigationRequestRef = useRef(0);
+
+  const loadFrame = useCallback((frameIndex: number) => {
+    const frame = frameListRef.current[frameIndex];
+    if (!frame) return Promise.resolve(false);
+
+    const cached = frameImagesRef.current.get(frameIndex);
+    if (cached) return cached.promise;
+
+    const image = new Image();
+    let resolveFrame!: (ready: boolean) => void;
+    const promise = new Promise<boolean>((resolve) => {
+      resolveFrame = resolve;
+    });
+    const entry: FrameImageEntry = {
+      image,
+      promise,
+      state: "loading",
+      cancel: () => {},
+    };
+    frameImagesRef.current.set(frameIndex, entry);
+
+    let settled = false;
+    const finish = (ready: boolean) => {
+      if (settled) return;
+      settled = true;
+      entry.state = ready ? "ready" : "failed";
+      image.onload = null;
+      image.onerror = null;
+      resolveFrame(ready);
+    };
+    const finishAfterDecode = () => {
+      if (typeof image.decode !== "function") {
+        finish(true);
+        return;
+      }
+
+      void image.decode().then(
+        () => finish(true),
+        () => finish(image.naturalWidth > 0)
+      );
+    };
+
+    entry.cancel = () => {
+      if (entry.state !== "loading") return;
+      image.onload = null;
+      image.onerror = null;
+      image.removeAttribute("src");
+      finish(false);
+    };
+
+    image.decoding = "async";
+    image.onload = finishAfterDecode;
+    image.onerror = () => finish(false);
+    image.src = `${DATA_PATH}/${encodeURIComponent(frame.filename)}`;
+
+    if (image.complete) {
+      if (image.naturalWidth > 0) finishAfterDecode();
+      else finish(false);
+    }
+
+    return promise;
+  }, []);
+
+  const trimFrameImages = useCallback(
+    (centerIndex: number, extraIndex?: number) => {
+      const keep = new Set<number>();
+      for (
+        let frameIndex = centerIndex;
+        frameIndex <=
+        Math.min(frameListRef.current.length - 1, centerIndex + PRELOAD_AHEAD);
+        frameIndex++
+      ) {
+        keep.add(frameIndex);
+      }
+      if (extraIndex !== undefined) keep.add(extraIndex);
+
+      for (const [frameIndex, entry] of frameImagesRef.current) {
+        if (keep.has(frameIndex)) continue;
+        frameImagesRef.current.delete(frameIndex);
+        entry.cancel();
+      }
+    },
+    []
+  );
 
   // Load the local SAFFIRE image manifest.
   useEffect(() => {
@@ -70,23 +168,46 @@ export default function SaffireExplorer() {
 
         return response.json();
       })
-      .then((data: Frame[]) => {
+      .then(async (data: Frame[]) => {
         if (!active) return;
 
         if (!Array.isArray(data) || data.length === 0) {
           throw new Error("The manifest contains no frames.");
         }
 
-        setFrames(data);
         const requestedFrame = new URLSearchParams(window.location.search).get(
           "frame"
         );
+        let initialIndex = 0;
         if (requestedFrame && /^\d+$/.test(requestedFrame)) {
           const frameIndex = data.findIndex(
             (frame) => String(frame.frame).padStart(4, "0") === requestedFrame
           );
-          if (frameIndex >= 0) setIndex(frameIndex);
+          if (frameIndex >= 0) initialIndex = frameIndex;
         }
+
+        frameListRef.current = data;
+        const lastStartupFrame = Math.min(
+          data.length - 1,
+          initialIndex + PRELOAD_AHEAD
+        );
+        while (
+          initialIndex <= lastStartupFrame &&
+          !(await loadFrame(initialIndex))
+        ) {
+          if (!active) return;
+          setFrameError(
+            `Frame ${String(data[initialIndex].frame).padStart(4, "0")} could not be loaded; trying the next frame.`
+          );
+          initialIndex++;
+        }
+
+        if (initialIndex > lastStartupFrame) {
+          throw new Error("Could not load an available SAFFIRE frame.");
+        }
+
+        setFrames(data);
+        setIndex(initialIndex);
         setLoading(false);
       })
       .catch((err: unknown) => {
@@ -104,44 +225,85 @@ export default function SaffireExplorer() {
     return () => {
       active = false;
     };
-  }, []);
+  }, [loadFrame]);
 
+  // Keep only the current frame and a small lookahead window in memory.
   useEffect(() => {
-    if (!showFullscreen) return;
+    if (frames.length === 0) return;
 
-    const onKeyDown = (event: KeyboardEvent) => {
-      if (event.key === "Escape") setShowFullscreen(false);
-      if (event.key === "ArrowRight") {
-        setIndex((currentIndex) =>
-          Math.min(frames.length - 1, currentIndex + 1)
-        );
-      }
-      if (event.key === "ArrowLeft") {
-        setIndex((currentIndex) => Math.max(0, currentIndex - 1));
-      }
-    };
+    trimFrameImages(index);
+    for (
+      let frameIndex = index;
+      frameIndex <= Math.min(frames.length - 1, index + PRELOAD_AHEAD);
+      frameIndex++
+    ) {
+      void loadFrame(frameIndex);
+    }
+  }, [frames, index, loadFrame, trimFrameImages]);
 
-    window.addEventListener("keydown", onKeyDown);
-    return () => window.removeEventListener("keydown", onKeyDown);
-  }, [showFullscreen, frames.length]);
-
-  // Frame-by-frame playback.
+  // Frame-by-frame playback waits for each next image to be decoded.
   useEffect(() => {
     if (!playing || frames.length === 0) return;
 
-    const interval = window.setInterval(() => {
-      setIndex((currentIndex) => {
-        if (currentIndex >= frames.length - 1) {
-          setPlaying(false);
-          return 0;
+    const session = playbackSessionRef.current;
+    let active = true;
+    const isCurrentSession = () =>
+      active &&
+      playbackActiveRef.current &&
+      playbackSessionRef.current === session;
+
+    const timeout = window.setTimeout(() => {
+      const advance = async () => {
+        let nextIndex = index + 1;
+
+        while (nextIndex < frames.length) {
+          const ready = await loadFrame(nextIndex);
+          if (!isCurrentSession()) return;
+
+          if (ready) {
+            setIndex(nextIndex);
+            return;
+          }
+
+          setFrameError(
+            `Frame ${String(frames[nextIndex].frame).padStart(4, "0")} could not be loaded and was skipped.`
+          );
+          nextIndex++;
         }
 
-        return currentIndex + 1;
-      });
+        if (!isCurrentSession()) return;
+
+        playbackActiveRef.current = false;
+        playbackSessionRef.current++;
+        setPlaying(false);
+
+        const resetRequest = ++navigationRequestRef.current;
+        const firstFrameReady = await loadFrame(0);
+        if (resetRequest !== navigationRequestRef.current) return;
+
+        if (firstFrameReady) setIndex(0);
+        else setFrameError("The first frame could not be reloaded.");
+      };
+
+      void advance();
     }, 34 / Number(speed));
 
-    return () => window.clearInterval(interval);
-  }, [playing, speed, frames.length]);
+    return () => {
+      active = false;
+      window.clearTimeout(timeout);
+    };
+  }, [frames, index, loadFrame, playing, speed]);
+
+  useEffect(
+    () => () => {
+      playbackActiveRef.current = false;
+      playbackSessionRef.current++;
+      navigationRequestRef.current++;
+      frameImagesRef.current.forEach((entry) => entry.cancel());
+      frameImagesRef.current.clear();
+    },
+    []
+  );
 
   // Keep fullscreen state synchronized with browser controls.
   useEffect(() => {
@@ -174,16 +336,82 @@ export default function SaffireExplorer() {
   const togglePlayback = useCallback(() => {
     if (frames.length === 0) return;
 
-    if (index >= frames.length - 1) {
-      setIndex(0);
+    if (playbackActiveRef.current) {
+      playbackActiveRef.current = false;
+      playbackSessionRef.current++;
+      navigationRequestRef.current++;
+      setPlaying(false);
+      return;
     }
 
-    setPlaying((value) => !value);
-  }, [index, frames.length]);
+    const session = ++playbackSessionRef.current;
+    navigationRequestRef.current++;
+    playbackActiveRef.current = true;
 
-  const goTo = (nextIndex: number) => {
-    setIndex(Math.max(0, Math.min(frames.length - 1, nextIndex)));
-  };
+    if (index >= frames.length - 1) {
+      void loadFrame(0).then((ready) => {
+        if (
+          !ready ||
+          !playbackActiveRef.current ||
+          playbackSessionRef.current !== session
+        ) {
+          if (!ready && playbackSessionRef.current === session) {
+            playbackActiveRef.current = false;
+            playbackSessionRef.current++;
+            setFrameError("The first frame could not be reloaded.");
+          }
+          return;
+        }
+
+        setIndex(0);
+        setPlaying(true);
+      });
+      return;
+    }
+
+    setPlaying(true);
+  }, [frames.length, index, loadFrame]);
+
+  const goTo = useCallback(
+    (nextIndex: number) => {
+      if (frames.length === 0) return;
+
+      playbackActiveRef.current = false;
+      playbackSessionRef.current++;
+      setPlaying(false);
+
+      const targetIndex = Math.max(0, Math.min(frames.length - 1, nextIndex));
+      const request = ++navigationRequestRef.current;
+      trimFrameImages(index, targetIndex);
+
+      void loadFrame(targetIndex).then((ready) => {
+        if (request !== navigationRequestRef.current) return;
+        if (!ready) {
+          setFrameError(
+            `Frame ${String(frames[targetIndex].frame).padStart(4, "0")} could not be loaded; the current frame was kept.`
+          );
+          return;
+        }
+
+        setFrameError("");
+        setIndex(targetIndex);
+      });
+    },
+    [frames, index, loadFrame, trimFrameImages]
+  );
+
+  useEffect(() => {
+    if (!showFullscreen) return;
+
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setShowFullscreen(false);
+      if (event.key === "ArrowRight") goTo(index + 1);
+      if (event.key === "ArrowLeft") goTo(index - 1);
+    };
+
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [goTo, index, showFullscreen]);
 
   const toggleFullscreen = async () => {
     if (!viewerRef.current) return;
@@ -452,8 +680,19 @@ export default function SaffireExplorer() {
                     )}`}
                     alt={`SAFFIRE-I camera F1C1, frame ${current.frame}`}
                     draggable={false}
+                    onError={() =>
+                      setFrameError(
+                        `Frame ${String(current.frame).padStart(4, "0")} failed to display.`
+                      )
+                    }
                   />
                 ) : null}
+
+                {frameError && (
+                  <div className="image-overlay frame-load-warning" role="status">
+                    {frameError}
+                  </div>
+                )}
 
                 <div className="image-overlay bottom-left">
                   <span className="crosshair">+</span>
@@ -482,10 +721,7 @@ export default function SaffireExplorer() {
                   <button
                     className="control-button"
                     aria-label="First frame"
-                    onClick={() => {
-                      setPlaying(false);
-                      goTo(0);
-                    }}
+                    onClick={() => goTo(0)}
                     disabled={!frames.length}
                   >
                     <SkipBack size={17} />
@@ -494,10 +730,7 @@ export default function SaffireExplorer() {
                   <button
                     className="control-button"
                     aria-label="Previous frame"
-                    onClick={() => {
-                      setPlaying(false);
-                      goTo(index - 1);
-                    }}
+                    onClick={() => goTo(index - 1)}
                     disabled={!frames.length || index === 0}
                   >
                     <ChevronLeft size={20} />
@@ -521,10 +754,7 @@ export default function SaffireExplorer() {
                   <button
                     className="control-button"
                     aria-label="Next frame"
-                    onClick={() => {
-                      setPlaying(false);
-                      goTo(index + 1);
-                    }}
+                    onClick={() => goTo(index + 1)}
                     disabled={
                       !frames.length || index === frames.length - 1
                     }
@@ -535,10 +765,7 @@ export default function SaffireExplorer() {
                   <button
                     className="control-button"
                     aria-label="Last frame"
-                    onClick={() => {
-                      setPlaying(false);
-                      goTo(frames.length - 1);
-                    }}
+                    onClick={() => goTo(frames.length - 1)}
                     disabled={!frames.length}
                   >
                     <SkipForward size={17} />
@@ -581,10 +808,7 @@ export default function SaffireExplorer() {
                   min={0}
                   max={Math.max(0, frames.length - 1)}
                   value={index}
-                  onChange={(event) => {
-                    setPlaying(false);
-                    goTo(Number(event.target.value));
-                  }}
+                  onChange={(event) => goTo(Number(event.target.value))}
                   disabled={!frames.length}
                   style={
                     {
@@ -775,6 +999,11 @@ export default function SaffireExplorer() {
             src={`${DATA_PATH}/${encodeURIComponent(current.filename)}`}
             alt={current.filename}
             onClick={(event) => event.stopPropagation()}
+            onError={() =>
+              setFrameError(
+                `Frame ${String(current.frame).padStart(4, "0")} failed to display.`
+              )
+            }
           />
           <button
             className="obs-lightbox-arrow obs-lightbox-right"
