@@ -341,10 +341,10 @@ export default function ResearchLibraryPage() {
           </div>
           <figure className="research-hero-visual">
             <Image
-              src="/images/c22.png"
+              src="/images/c22.webp"
               alt="Spacecraft imagery representing the research library"
               fill
-              priority
+              preload
               sizes="(max-width: 640px) 100vw, 32vw"
               className="research-hero-image"
             />

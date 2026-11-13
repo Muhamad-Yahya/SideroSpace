@@ -10,7 +10,7 @@ export default function FinalCTASection() {
       {/* Background */}
       <div className="absolute inset-0">
         <Image
-          src="/images/earth-horizon.jpg"
+          src="/images/earth-horizon.webp"
           alt="Earth's horizon viewed from space — atmospheric glow"
           fill
           sizes="100vw"

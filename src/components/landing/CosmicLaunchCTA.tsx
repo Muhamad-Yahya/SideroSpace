@@ -9,7 +9,7 @@ export default function CosmicLaunchCTA() {
       <div
         aria-hidden="true"
         className="pointer-events-none absolute inset-0 bg-cover bg-center opacity-20"
-        style={{ backgroundImage: "url('/images/sat.jpg')" }}
+        style={{ backgroundImage: "url('/images/sat.webp')" }}
       />
       <div
         aria-hidden="true"

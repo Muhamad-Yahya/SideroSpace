@@ -86,7 +86,7 @@ export default function ZeroGPhysicsSection() {
             {/* Microgravity Flame Image with HUD Scanline & Telemetry */}
             <div className="relative mt-5 aspect-[16/9] w-full overflow-hidden rounded-xl border border-blue-500/30 bg-black">
               <Image
-                src="/images/microgravity-flame.jpg"
+                src="/images/microgravity-flame.webp"
                 alt="Microgravity Flame Experiment"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"

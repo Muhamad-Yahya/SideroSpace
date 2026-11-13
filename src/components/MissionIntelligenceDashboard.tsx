@@ -279,10 +279,10 @@ export default function MissionIntelligenceDashboard({
         </div>
         <figure className="dashboard-hero-visual">
           <Image
-            src="/images/Earth22.png"
+            src="/images/Earth22.webp"
             alt="Earth"
             fill
-            priority
+            preload
             sizes="(max-width: 760px) 100vw, 35vw"
             className="dashboard-hero-image"
           />

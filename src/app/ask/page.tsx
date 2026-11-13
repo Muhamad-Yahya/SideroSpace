@@ -367,10 +367,9 @@ export default function AskPage() {
 
             <figure className="relative hidden aspect-[3/2] w-full max-w-[400px] justify-self-end lg:block">
               <Image
-                src="/images/sat1.png"
+                src="/images/sat1.webp"
                 alt="Saturn and its rings against a star-filled sky"
                 fill
-                priority
                 sizes="(min-width: 1024px) 400px, 0px"
                 className="object-contain"
               />

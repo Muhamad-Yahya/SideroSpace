@@ -27,10 +27,9 @@ export default function CreatorSection() {
             <div className="md:col-span-5 flex justify-center">
               <div className="relative aspect-square w-full max-w-[280px] sm:max-w-[320px] overflow-hidden rounded-2xl border-2 border-blue-400/30 bg-blue-950/40 shadow-[0_0_30px_rgba(59,130,246,0.25)] group">
                 <Image
-                  src="/images/ME.png"
+                  src="/images/ME.webp"
                   alt="SideroSpace Creator"
                   fill
-                  priority
                   sizes="(max-width: 768px) 280px, 320px"
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
                 />

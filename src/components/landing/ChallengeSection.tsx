@@ -9,7 +9,7 @@ export default function ChallengeSection() {
       {/* Background image */}
       <div className="absolute inset-0">
         <Image
-          src="/images/microgravity-flame.jpg"
+          src="/images/microgravity-flame.webp"
           alt="Microgravity flame experiment showing spherical combustion behavior"
           fill
           sizes="100vw"

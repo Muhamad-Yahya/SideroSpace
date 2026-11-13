@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="public/images/HeroSection.jpeg" alt="SideroSpace hero section" width="960" />
+  <img src="public/images/HeroSection.webp" alt="SideroSpace hero section" width="960" />
 </p>
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.4.2-000000?logo=next.js)](https://nextjs.org/)

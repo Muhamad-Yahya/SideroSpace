@@ -63,7 +63,7 @@ export default function InsightsSection() {
           <SectionReveal delay={150}>
             <div className="relative aspect-[4/3] overflow-hidden rounded-2xl border border-white/[0.06]">
               <Image
-                src="/images/spacecraft-combustion.jpg"
+                src="/images/spacecraft-combustion.webp"
                 alt="Spacecraft combustion research — analyzing fire behavior for space safety"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"

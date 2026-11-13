@@ -719,11 +719,11 @@ export default function InsightsPage() {
 
           <div className="relative min-h-[260px] overflow-hidden rounded-2xl border border-white/[0.12] bg-[#09090f] sm:min-h-[360px] lg:min-h-[420px]">
             <Image
-              src="/images/F2.jpg"
+              src="/images/F2.webp"
               alt="Microgravity fire research imagery"
               fill
-              priority
-              sizes="(max-width: 1024px) 100vw, 50vw"
+              preload
+              sizes="(max-width: 639px) calc(100vw - 100px), (max-width: 1023px) calc(100vw - 146px), (max-width: 1279px) calc((100vw - 240px) / 2), 520px"
               className="object-cover"
             />
             <div
@@ -841,7 +841,7 @@ export default function InsightsPage() {
                 description: "Explore findings from individual experiments.",
                 icon: Lightbulb,
                 accent: "amber",
-                image: "/images/I1.jpg",
+                image: "/images/I1.webp",
               },
               {
                 id: "conclusions",
@@ -849,7 +849,7 @@ export default function InsightsPage() {
                 description: "See what the evidence suggests across studies.",
                 icon: Compass,
                 accent: "violet",
-                image: "/images/I2.jpg",
+                image: "/images/I2.webp",
               },
               {
                 id: "applications",
@@ -857,7 +857,7 @@ export default function InsightsPage() {
                 description: "Connect research to spacecraft fire safety.",
                 icon: Shield,
                 accent: "cyan",
-                image: "/images/I3.jpg",
+                image: "/images/I3.webp",
               },
               {
                 id: "gaps",
@@ -865,7 +865,7 @@ export default function InsightsPage() {
                 description: "Explore open questions and areas for study.",
                 icon: Microscope,
                 accent: "rose",
-                image: "/images/i4.jpg",
+                image: "/images/i4.webp",
               },
             ].map((tab) => (
               <button
@@ -885,7 +885,7 @@ export default function InsightsPage() {
                     src={tab.image}
                     alt=""
                     fill
-                    sizes="(min-width: 1280px) 140px, (min-width: 640px) 50vw, 100vw"
+                    sizes="(min-width: 1280px) 140px, (min-width: 640px) 25vw, 50vw"
                     className="object-cover object-center"
                   />
                 </span>

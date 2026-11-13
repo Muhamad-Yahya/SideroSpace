@@ -245,10 +245,10 @@ export default function HeroSection() {
           }}
         >
           <Image
-            src="/images/earth.jpg"
+            src="/images/earth.webp"
             alt="Earth viewed from space"
             fill
-            priority
+            preload
             sizes="100vw"
             className="object-cover object-[center_80%] opacity-90"
           />

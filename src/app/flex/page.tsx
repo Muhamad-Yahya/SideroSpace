@@ -299,7 +299,7 @@ export default function FlexExplorer() {
               src="/images/flame.jpg"
               alt="A small luminous droplet flame against a dark background"
               fill
-              priority
+              preload
               sizes="(max-width: 700px) 100vw, 48vw"
               className="flex-hero-image"
             />

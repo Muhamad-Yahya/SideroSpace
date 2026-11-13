@@ -394,10 +394,10 @@ export default function BassIIPage() {
 
           <figure className="bass-hero-art">
             <Image
-              src="/images/spacecraft-combustion.jpg"
+              src="/images/spacecraft-combustion.webp"
               alt="A solid-fuel sample burning inside a spacecraft combustion test chamber"
               fill
-              priority
+              preload
               sizes="(max-width: 800px) 100vw, 40vw"
               className="bass-hero-image"
             />

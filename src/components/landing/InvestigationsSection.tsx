@@ -9,7 +9,7 @@ const investigations = [
     id: "flex",
     name: "FLEX",
     fullName: "Flame Extinguishment Experiment",
-    image: "/images/microgravity-flame.jpg",
+    image: "/images/microgravity-flame.webp",
     imageAlt: "FLEX experiment — droplet combustion in microgravity",
     records: "274",
     recordType: "CSV records",
