@@ -23,7 +23,7 @@ const navGroups = [
     links: [
       {
         label: "GitHub",
-        href: "https://github.com/adimail/SideroSpace",
+        href: "https://github.com/Muhamad-Yahya/SideroSpace",
         external: true,
       },
       {
@@ -97,7 +97,7 @@ export default function Footer() {
             </p>
           </div>
           <Link
-            href="https://github.com/adimail/SideroSpace"
+            href="https://github.com/Muhamad-Yahya/SideroSpace"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-[11px] text-slate-500 transition-colors hover:text-white"

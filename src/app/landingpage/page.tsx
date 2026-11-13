@@ -23,7 +23,7 @@ export default function LandingPage() {
         {/* 2. Project Overview: Audited telemetry and dataset records ribbon */}
         <SpaceTelemetryMetrics />
 
-        {/* 3. The NASA Space Apps Challenge: 'Flames in Freefall' context & purpose */}
+        {/* 3. The NASA Space Apps Challenge: 'Flame in Freefall' context & purpose */}
         <SpaceAppsChallengeSection />
 
         {/* 4. Platform Capabilities: All 7 interactive modules & tools */}

@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import type { KeyboardEvent, MouseEvent } from "react";
 import {
   Activity,
   BookOpen,
@@ -47,11 +48,36 @@ export default function WorkspaceNavigation() {
     isActive(href)
   );
 
+  const closeNavigationMenus = (event: MouseEvent<HTMLAnchorElement>) => {
+    event.currentTarget
+      .closest(".site-header")
+      ?.querySelectorAll<HTMLDetailsElement>("details[open]")
+      .forEach((details) => {
+        details.open = false;
+      });
+  };
+
+  const closeNavigationMenusOnEscape = (
+    event: KeyboardEvent<HTMLElement>
+  ) => {
+    if (event.key !== "Escape") return;
+
+    const openMenus =
+      event.currentTarget.querySelectorAll<HTMLDetailsElement>("details[open]");
+    if (openMenus.length === 0) return;
+
+    openMenus.forEach((details) => {
+      details.open = false;
+    });
+    openMenus[0].querySelector("summary")?.focus();
+  };
+
   const renderExperimentLinks = (className: string) =>
     experimentLinks.map(({ href, label, icon: Icon }) => (
       <Link
         key={href}
         href={href}
+        onClick={closeNavigationMenus}
         aria-current={isActive(href) ? "page" : undefined}
         className={`${className}${isActive(href) ? " active" : ""}`}
       >
@@ -61,8 +87,13 @@ export default function WorkspaceNavigation() {
     ));
 
   return (
-    <header className="site-header">
-      <Link className="site-brand" href="/" aria-label="SideroSpace home">
+    <header className="site-header" onKeyDown={closeNavigationMenusOnEscape}>
+      <Link
+        className="site-brand"
+        href="/"
+        onClick={closeNavigationMenus}
+        aria-label="SideroSpace home"
+      >
         <span className="site-brand-mark">
           <Orbit size={19} strokeWidth={1.7} aria-hidden="true" />
         </span>
@@ -75,6 +106,7 @@ export default function WorkspaceNavigation() {
       <nav className="site-nav-desktop" aria-label="Main navigation">
         <Link
           href="/dashboard"
+          onClick={closeNavigationMenus}
           aria-current={isActive("/dashboard") ? "page" : undefined}
           className={`site-nav-link${isActive("/dashboard") ? " active" : ""}`}
         >
@@ -106,6 +138,7 @@ export default function WorkspaceNavigation() {
           <Link
             key={href}
             href={href}
+            onClick={closeNavigationMenus}
             aria-current={isActive(href) ? "page" : undefined}
             className={`site-nav-link${isActive(href) ? " active" : ""}`}
           >
@@ -130,6 +163,7 @@ export default function WorkspaceNavigation() {
         <nav className="site-nav-mobile-menu" aria-label="Main navigation">
           <Link
             href="/dashboard"
+            onClick={closeNavigationMenus}
             aria-current={isActive("/dashboard") ? "page" : undefined}
           >
             <Activity size={15} aria-hidden="true" />
@@ -157,6 +191,7 @@ export default function WorkspaceNavigation() {
             <Link
               key={href}
               href={href}
+              onClick={closeNavigationMenus}
               aria-current={isActive(href) ? "page" : undefined}
             >
               <Icon size={15} aria-hidden="true" />

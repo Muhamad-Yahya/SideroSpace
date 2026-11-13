@@ -15,7 +15,7 @@ export default function SpaceAppsChallengeSection() {
           </div>
 
           <h2 className="mt-4 text-3xl sm:text-5xl font-extrabold tracking-tight text-white uppercase">
-            Challenge: &ldquo;Flames in Freefall&rdquo;
+            Challenge: &ldquo;Flame in Freefall&rdquo;
           </h2>
 
           <p className="mt-4 max-w-3xl text-sm sm:text-base text-slate-300 leading-relaxed font-normal">
@@ -42,7 +42,7 @@ export default function SpaceAppsChallengeSection() {
               </h3>
 
               <p className="mt-3 text-xs sm:text-sm text-slate-300 leading-relaxed">
-                The &ldquo;Flames in Freefall&rdquo; challenge investigates combustion dynamics in the absence of Earth&apos;s natural buoyant convection. Without gravity pulling dense, cold air down and pushing buoyant hot gases up, flames burn with altered shapes, temperatures, and transport mechanics.
+                The &ldquo;Flame in Freefall&rdquo; challenge investigates combustion dynamics in the absence of Earth&apos;s natural buoyant convection. Without gravity pulling dense, cold air down and pushing buoyant hot gases up, flames burn with altered shapes, temperatures, and transport mechanics.
               </p>
 
               <div className="mt-5 space-y-2 border-t border-white/[0.06] pt-4 text-xs font-mono text-slate-400">

@@ -219,7 +219,7 @@ export default function HeroSection() {
           </Link>
 
           <Link
-            href="https://github.com/adimail/SideroSpace"
+            href="https://github.com/Muhamad-Yahya/SideroSpace"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 rounded-full border border-blue-400/30 bg-blue-950/40 px-7 py-3.5 text-sm font-medium text-blue-100 backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:border-blue-300/60 hover:bg-blue-900/50 hover:text-white hover:shadow-[0_0_20px_rgba(59,130,246,0.25)]"

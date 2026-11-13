@@ -9,7 +9,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript)](https://www.typescriptlang.org/)
 [![NASA Space Apps Challenge](https://img.shields.io/badge/NASA%20Space%20Apps-2026-0b3d91)](https://www.spaceappschallenge.org/)
 
-[Explore the repository](https://github.com/adimail/SideroSpace) · [Features](docs/FEATURES.md) · [Data & evidence](docs/DATA_AND_EVIDENCE.md) · [Demo guide](docs/DEMO_GUIDE.md)
+[Explore the repository](https://github.com/Muhamad-Yahya/SideroSpace) · [Features](docs/FEATURES.md) · [Data & evidence](docs/DATA_AND_EVIDENCE.md) · [Demo guide](docs/DEMO_GUIDE.md)
 
 # SideroSpace
 
@@ -27,7 +27,7 @@ Combustion in microgravity does not behave exactly as it does on Earth: gravity-
 
 **SideroSpace brings selected material from three spaceflight combustion investigations into an accessible workspace.** Explore the local experiment records and image sequence, compare supported measurements, and follow research questions to indexed source passages—while keeping each dataset's coverage and limitations visible.
 
-The project was developed for the **NASA Space Apps Challenge 2026** challenge **“Flames in Freefall.”** It is an independent project, not a NASA product.
+The project was developed for the **NASA Space Apps Challenge 2026** challenge **“Flame in Freefall.”** It is an independent project, not a NASA product.
 
 ## What you can explore
 
@@ -100,7 +100,7 @@ The passage index is generated from available source material; it is not a compl
 **Requirements:** Node.js and npm. No application environment variables are required.
 
 ```bash
-git clone https://github.com/adimail/SideroSpace.git
+git clone https://github.com/Muhamad-Yahya/SideroSpace.git
 cd SideroSpace
 npm install
 npm run dev
@@ -133,6 +133,7 @@ docs/             Architecture, feature, data, design, demo and setup guides
 - [Features & route inventory](docs/FEATURES.md)
 - [Architecture & data flow](docs/ARCHITECTURE.md)
 - [Data, evidence & limitations](docs/DATA_AND_EVIDENCE.md)
+- [Data processing methodology](docs/DATA_METHODOLOGY.md)
 - [Getting started](docs/GETTING_STARTED.md)
 - [Demo guide](docs/DEMO_GUIDE.md)
 - [Design notes](docs/DESIGN.md)
@@ -151,7 +152,7 @@ More detail is documented in [Data &amp; Evidence](docs/DATA_AND_EVIDENCE.md) an
 
 ## Creator & acknowledgements
 
-Created independently by **Muhammad Yahya**, computer science student and software engineer, for the NASA Space Apps Challenge 2026 challenge **“Flames in Freefall.”**
+Created independently by **Muhammad Yahya**, computer science student and software engineer, for the NASA Space Apps Challenge 2026 challenge **“Flame in Freefall.”**
 
 We acknowledge NASA and the NASA Space Apps Challenge as the sources of the investigation context and challenge prompt. Their mention does not imply review, sponsorship, or endorsement of SideroSpace.
 

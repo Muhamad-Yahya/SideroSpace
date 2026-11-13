@@ -38,7 +38,7 @@ export default function CosmicLaunchCTA() {
           </Link>
 
           <Link
-            href="https://github.com/adimail/SideroSpace"
+            href="https://github.com/Muhamad-Yahya/SideroSpace"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2.5 rounded-full border border-white/10 bg-white/[0.04] px-7 py-4 text-sm font-semibold text-slate-200 backdrop-blur-md transition-all duration-300 hover:border-white/25 hover:bg-white/[0.08] hover:text-white hover:scale-[1.02]"

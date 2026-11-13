@@ -51,7 +51,7 @@ export default function FinalCTASection() {
           </Link>
 
           <Link
-            href="https://github.com/adimail/SideroSpace"
+            href="https://github.com/Muhamad-Yahya/SideroSpace"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 rounded-full border border-white/15 bg-white/[0.04] px-8 py-4 text-sm font-medium text-white backdrop-blur-md transition-all duration-300 hover:-translate-y-0.5 hover:border-blue-300/40 hover:bg-white/[0.09]"

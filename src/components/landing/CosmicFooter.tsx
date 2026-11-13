@@ -24,7 +24,7 @@ export default function CosmicFooter() {
             Research
           </Link>
           <Link
-            href="https://github.com/adimail/SideroSpace"
+            href="https://github.com/Muhamad-Yahya/SideroSpace"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-400 transition-colors"

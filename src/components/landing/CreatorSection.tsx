@@ -65,7 +65,7 @@ export default function CreatorSection() {
               </p>
 
               <p className="mt-3 text-xs sm:text-sm text-slate-400 leading-relaxed font-normal">
-                I created SideroSpace independently for the NASA Space Apps Challenge 2026 (&ldquo;Flames in Freefall&rdquo;) to transform complex microgravity combustion flight archives from FLEX, BASS-II, and SAFFIRE-I into an accessible, structured research intelligence platform.
+                I created SideroSpace independently for the NASA Space Apps Challenge 2026 (&ldquo;Flame in Freefall&rdquo;) to transform complex microgravity combustion flight archives from FLEX, BASS-II, and SAFFIRE-I into an accessible, structured research intelligence platform.
               </p>
 
               {/* Focus tags */}
@@ -99,7 +99,7 @@ export default function CreatorSection() {
 
                 {/* GitHub Repository */}
                 <Link
-                  href="https://github.com/adimail/SideroSpace"
+                  href="https://github.com/Muhamad-Yahya/SideroSpace"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] px-5 py-2.5 text-xs font-mono font-medium text-slate-300 hover:border-white/30 hover:bg-white/[0.08] hover:text-white transition-all"
