@@ -1,0 +1,4586 @@
+﻿[
+    {
+        "frame":  1,
+        "filename":  "F1C1-1465936971405.jpeg",
+        "timestampMs":  1465936971405,
+        "timestampUtc":  "2016-06-14T20:42:51.4050000Z"
+    },
+    {
+        "frame":  2,
+        "filename":  "F1C1-1465936971439.jpeg",
+        "timestampMs":  1465936971439,
+        "timestampUtc":  "2016-06-14T20:42:51.4390000Z"
+    },
+    {
+        "frame":  3,
+        "filename":  "F1C1-1465936971469.jpeg",
+        "timestampMs":  1465936971469,
+        "timestampUtc":  "2016-06-14T20:42:51.4690000Z"
+    },
+    {
+        "frame":  4,
+        "filename":  "F1C1-1465936971502.jpeg",
+        "timestampMs":  1465936971502,
+        "timestampUtc":  "2016-06-14T20:42:51.5020000Z"
+    },
+    {
+        "frame":  5,
+        "filename":  "F1C1-1465936971532.jpeg",
+        "timestampMs":  1465936971532,
+        "timestampUtc":  "2016-06-14T20:42:51.5320000Z"
+    },
+    {
+        "frame":  6,
+        "filename":  "F1C1-1465936971566.jpeg",
+        "timestampMs":  1465936971566,
+        "timestampUtc":  "2016-06-14T20:42:51.5660000Z"
+    },
+    {
+        "frame":  7,
+        "filename":  "F1C1-1465936971596.jpeg",
+        "timestampMs":  1465936971596,
+        "timestampUtc":  "2016-06-14T20:42:51.5960000Z"
+    },
+    {
+        "frame":  8,
+        "filename":  "F1C1-1465936971630.jpeg",
+        "timestampMs":  1465936971630,
+        "timestampUtc":  "2016-06-14T20:42:51.6300000Z"
+    },
+    {
+        "frame":  9,
+        "filename":  "F1C1-1465936971663.jpeg",
+        "timestampMs":  1465936971663,
+        "timestampUtc":  "2016-06-14T20:42:51.6630000Z"
+    },
+    {
+        "frame":  10,
+        "filename":  "F1C1-1465936971697.jpeg",
+        "timestampMs":  1465936971697,
+        "timestampUtc":  "2016-06-14T20:42:51.6970000Z"
+    },
+    {
+        "frame":  11,
+        "filename":  "F1C1-1465936971730.jpeg",
+        "timestampMs":  1465936971730,
+        "timestampUtc":  "2016-06-14T20:42:51.7300000Z"
+    },
+    {
+        "frame":  12,
+        "filename":  "F1C1-1465936971764.jpeg",
+        "timestampMs":  1465936971764,
+        "timestampUtc":  "2016-06-14T20:42:51.7640000Z"
+    },
+    {
+        "frame":  13,
+        "filename":  "F1C1-1465936971797.jpeg",
+        "timestampMs":  1465936971797,
+        "timestampUtc":  "2016-06-14T20:42:51.7970000Z"
+    },
+    {
+        "frame":  14,
+        "filename":  "F1C1-1465936971831.jpeg",
+        "timestampMs":  1465936971831,
+        "timestampUtc":  "2016-06-14T20:42:51.8310000Z"
+    },
+    {
+        "frame":  15,
+        "filename":  "F1C1-1465936971864.jpeg",
+        "timestampMs":  1465936971864,
+        "timestampUtc":  "2016-06-14T20:42:51.8640000Z"
+    },
+    {
+        "frame":  16,
+        "filename":  "F1C1-1465936971898.jpeg",
+        "timestampMs":  1465936971898,
+        "timestampUtc":  "2016-06-14T20:42:51.8980000Z"
+    },
+    {
+        "frame":  17,
+        "filename":  "F1C1-1465936971931.jpeg",
+        "timestampMs":  1465936971931,
+        "timestampUtc":  "2016-06-14T20:42:51.9310000Z"
+    },
+    {
+        "frame":  18,
+        "filename":  "F1C1-1465936971965.jpeg",
+        "timestampMs":  1465936971965,
+        "timestampUtc":  "2016-06-14T20:42:51.9650000Z"
+    },
+    {
+        "frame":  19,
+        "filename":  "F1C1-1465936971998.jpeg",
+        "timestampMs":  1465936971998,
+        "timestampUtc":  "2016-06-14T20:42:51.9980000Z"
+    },
+    {
+        "frame":  20,
+        "filename":  "F1C1-1465936972031.jpeg",
+        "timestampMs":  1465936972031,
+        "timestampUtc":  "2016-06-14T20:42:52.0310000Z"
+    },
+    {
+        "frame":  21,
+        "filename":  "F1C1-1465936972065.jpeg",
+        "timestampMs":  1465936972065,
+        "timestampUtc":  "2016-06-14T20:42:52.0650000Z"
+    },
+    {
+        "frame":  22,
+        "filename":  "F1C1-1465936972098.jpeg",
+        "timestampMs":  1465936972098,
+        "timestampUtc":  "2016-06-14T20:42:52.0980000Z"
+    },
+    {
+        "frame":  23,
+        "filename":  "F1C1-1465936972132.jpeg",
+        "timestampMs":  1465936972132,
+        "timestampUtc":  "2016-06-14T20:42:52.1320000Z"
+    },
+    {
+        "frame":  24,
+        "filename":  "F1C1-1465936972165.jpeg",
+        "timestampMs":  1465936972165,
+        "timestampUtc":  "2016-06-14T20:42:52.1650000Z"
+    },
+    {
+        "frame":  25,
+        "filename":  "F1C1-1465936972198.jpeg",
+        "timestampMs":  1465936972198,
+        "timestampUtc":  "2016-06-14T20:42:52.1980000Z"
+    },
+    {
+        "frame":  26,
+        "filename":  "F1C1-1465936972232.jpeg",
+        "timestampMs":  1465936972232,
+        "timestampUtc":  "2016-06-14T20:42:52.2320000Z"
+    },
+    {
+        "frame":  27,
+        "filename":  "F1C1-1465936972298.jpeg",
+        "timestampMs":  1465936972298,
+        "timestampUtc":  "2016-06-14T20:42:52.2980000Z"
+    },
+    {
+        "frame":  28,
+        "filename":  "F1C1-1465936972332.jpeg",
+        "timestampMs":  1465936972332,
+        "timestampUtc":  "2016-06-14T20:42:52.3320000Z"
+    },
+    {
+        "frame":  29,
+        "filename":  "F1C1-1465936972365.jpeg",
+        "timestampMs":  1465936972365,
+        "timestampUtc":  "2016-06-14T20:42:52.3650000Z"
+    },
+    {
+        "frame":  30,
+        "filename":  "F1C1-1465936972398.jpeg",
+        "timestampMs":  1465936972398,
+        "timestampUtc":  "2016-06-14T20:42:52.3980000Z"
+    },
+    {
+        "frame":  31,
+        "filename":  "F1C1-1465936972432.jpeg",
+        "timestampMs":  1465936972432,
+        "timestampUtc":  "2016-06-14T20:42:52.4320000Z"
+    },
+    {
+        "frame":  32,
+        "filename":  "F1C1-1465936972465.jpeg",
+        "timestampMs":  1465936972465,
+        "timestampUtc":  "2016-06-14T20:42:52.4650000Z"
+    },
+    {
+        "frame":  33,
+        "filename":  "F1C1-1465936972499.jpeg",
+        "timestampMs":  1465936972499,
+        "timestampUtc":  "2016-06-14T20:42:52.4990000Z"
+    },
+    {
+        "frame":  34,
+        "filename":  "F1C1-1465936972532.jpeg",
+        "timestampMs":  1465936972532,
+        "timestampUtc":  "2016-06-14T20:42:52.5320000Z"
+    },
+    {
+        "frame":  35,
+        "filename":  "F1C1-1465936972565.jpeg",
+        "timestampMs":  1465936972565,
+        "timestampUtc":  "2016-06-14T20:42:52.5650000Z"
+    },
+    {
+        "frame":  36,
+        "filename":  "F1C1-1465936972632.jpeg",
+        "timestampMs":  1465936972632,
+        "timestampUtc":  "2016-06-14T20:42:52.6320000Z"
+    },
+    {
+        "frame":  37,
+        "filename":  "F1C1-1465936972665.jpeg",
+        "timestampMs":  1465936972665,
+        "timestampUtc":  "2016-06-14T20:42:52.6650000Z"
+    },
+    {
+        "frame":  38,
+        "filename":  "F1C1-1465936972699.jpeg",
+        "timestampMs":  1465936972699,
+        "timestampUtc":  "2016-06-14T20:42:52.6990000Z"
+    },
+    {
+        "frame":  39,
+        "filename":  "F1C1-1465936972732.jpeg",
+        "timestampMs":  1465936972732,
+        "timestampUtc":  "2016-06-14T20:42:52.7320000Z"
+    },
+    {
+        "frame":  40,
+        "filename":  "F1C1-1465936972766.jpeg",
+        "timestampMs":  1465936972766,
+        "timestampUtc":  "2016-06-14T20:42:52.7660000Z"
+    },
+    {
+        "frame":  41,
+        "filename":  "F1C1-1465936972802.jpeg",
+        "timestampMs":  1465936972802,
+        "timestampUtc":  "2016-06-14T20:42:52.8020000Z"
+    },
+    {
+        "frame":  42,
+        "filename":  "F1C1-1465936972832.jpeg",
+        "timestampMs":  1465936972832,
+        "timestampUtc":  "2016-06-14T20:42:52.8320000Z"
+    },
+    {
+        "frame":  43,
+        "filename":  "F1C1-1465936972869.jpeg",
+        "timestampMs":  1465936972869,
+        "timestampUtc":  "2016-06-14T20:42:52.8690000Z"
+    },
+    {
+        "frame":  44,
+        "filename":  "F1C1-1465936972899.jpeg",
+        "timestampMs":  1465936972899,
+        "timestampUtc":  "2016-06-14T20:42:52.8990000Z"
+    },
+    {
+        "frame":  45,
+        "filename":  "F1C1-1465936972932.jpeg",
+        "timestampMs":  1465936972932,
+        "timestampUtc":  "2016-06-14T20:42:52.9320000Z"
+    },
+    {
+        "frame":  46,
+        "filename":  "F1C1-1465936972965.jpeg",
+        "timestampMs":  1465936972965,
+        "timestampUtc":  "2016-06-14T20:42:52.9650000Z"
+    },
+    {
+        "frame":  47,
+        "filename":  "F1C1-1465936973032.jpeg",
+        "timestampMs":  1465936973032,
+        "timestampUtc":  "2016-06-14T20:42:53.0320000Z"
+    },
+    {
+        "frame":  48,
+        "filename":  "F1C1-1465936973065.jpeg",
+        "timestampMs":  1465936973065,
+        "timestampUtc":  "2016-06-14T20:42:53.0650000Z"
+    },
+    {
+        "frame":  49,
+        "filename":  "F1C1-1465936973100.jpeg",
+        "timestampMs":  1465936973100,
+        "timestampUtc":  "2016-06-14T20:42:53.1000000Z"
+    },
+    {
+        "frame":  50,
+        "filename":  "F1C1-1465936973132.jpeg",
+        "timestampMs":  1465936973132,
+        "timestampUtc":  "2016-06-14T20:42:53.1320000Z"
+    },
+    {
+        "frame":  51,
+        "filename":  "F1C1-1465936973165.jpeg",
+        "timestampMs":  1465936973165,
+        "timestampUtc":  "2016-06-14T20:42:53.1650000Z"
+    },
+    {
+        "frame":  52,
+        "filename":  "F1C1-1465936973233.jpeg",
+        "timestampMs":  1465936973233,
+        "timestampUtc":  "2016-06-14T20:42:53.2330000Z"
+    },
+    {
+        "frame":  53,
+        "filename":  "F1C1-1465936973265.jpeg",
+        "timestampMs":  1465936973265,
+        "timestampUtc":  "2016-06-14T20:42:53.2650000Z"
+    },
+    {
+        "frame":  54,
+        "filename":  "F1C1-1465936973332.jpeg",
+        "timestampMs":  1465936973332,
+        "timestampUtc":  "2016-06-14T20:42:53.3320000Z"
+    },
+    {
+        "frame":  55,
+        "filename":  "F1C1-1465936973365.jpeg",
+        "timestampMs":  1465936973365,
+        "timestampUtc":  "2016-06-14T20:42:53.3650000Z"
+    },
+    {
+        "frame":  56,
+        "filename":  "F1C1-1465936973398.jpeg",
+        "timestampMs":  1465936973398,
+        "timestampUtc":  "2016-06-14T20:42:53.3980000Z"
+    },
+    {
+        "frame":  57,
+        "filename":  "F1C1-1465936973435.jpeg",
+        "timestampMs":  1465936973435,
+        "timestampUtc":  "2016-06-14T20:42:53.4350000Z"
+    },
+    {
+        "frame":  58,
+        "filename":  "F1C1-1465936973465.jpeg",
+        "timestampMs":  1465936973465,
+        "timestampUtc":  "2016-06-14T20:42:53.4650000Z"
+    },
+    {
+        "frame":  59,
+        "filename":  "F1C1-1465936973532.jpeg",
+        "timestampMs":  1465936973532,
+        "timestampUtc":  "2016-06-14T20:42:53.5320000Z"
+    },
+    {
+        "frame":  60,
+        "filename":  "F1C1-1465936973565.jpeg",
+        "timestampMs":  1465936973565,
+        "timestampUtc":  "2016-06-14T20:42:53.5650000Z"
+    },
+    {
+        "frame":  61,
+        "filename":  "F1C1-1465936973599.jpeg",
+        "timestampMs":  1465936973599,
+        "timestampUtc":  "2016-06-14T20:42:53.5990000Z"
+    },
+    {
+        "frame":  62,
+        "filename":  "F1C1-1465936973632.jpeg",
+        "timestampMs":  1465936973632,
+        "timestampUtc":  "2016-06-14T20:42:53.6320000Z"
+    },
+    {
+        "frame":  63,
+        "filename":  "F1C1-1465936973665.jpeg",
+        "timestampMs":  1465936973665,
+        "timestampUtc":  "2016-06-14T20:42:53.6650000Z"
+    },
+    {
+        "frame":  64,
+        "filename":  "F1C1-1465936973699.jpeg",
+        "timestampMs":  1465936973699,
+        "timestampUtc":  "2016-06-14T20:42:53.6990000Z"
+    },
+    {
+        "frame":  65,
+        "filename":  "F1C1-1465936973732.jpeg",
+        "timestampMs":  1465936973732,
+        "timestampUtc":  "2016-06-14T20:42:53.7320000Z"
+    },
+    {
+        "frame":  66,
+        "filename":  "F1C1-1465936973766.jpeg",
+        "timestampMs":  1465936973766,
+        "timestampUtc":  "2016-06-14T20:42:53.7660000Z"
+    },
+    {
+        "frame":  67,
+        "filename":  "F1C1-1465936973799.jpeg",
+        "timestampMs":  1465936973799,
+        "timestampUtc":  "2016-06-14T20:42:53.7990000Z"
+    },
+    {
+        "frame":  68,
+        "filename":  "F1C1-1465936973833.jpeg",
+        "timestampMs":  1465936973833,
+        "timestampUtc":  "2016-06-14T20:42:53.8330000Z"
+    },
+    {
+        "frame":  69,
+        "filename":  "F1C1-1465936973866.jpeg",
+        "timestampMs":  1465936973866,
+        "timestampUtc":  "2016-06-14T20:42:53.8660000Z"
+    },
+    {
+        "frame":  70,
+        "filename":  "F1C1-1465936973899.jpeg",
+        "timestampMs":  1465936973899,
+        "timestampUtc":  "2016-06-14T20:42:53.8990000Z"
+    },
+    {
+        "frame":  71,
+        "filename":  "F1C1-1465936973965.jpeg",
+        "timestampMs":  1465936973965,
+        "timestampUtc":  "2016-06-14T20:42:53.9650000Z"
+    },
+    {
+        "frame":  72,
+        "filename":  "F1C1-1465936973999.jpeg",
+        "timestampMs":  1465936973999,
+        "timestampUtc":  "2016-06-14T20:42:53.9990000Z"
+    },
+    {
+        "frame":  73,
+        "filename":  "F1C1-1465936974032.jpeg",
+        "timestampMs":  1465936974032,
+        "timestampUtc":  "2016-06-14T20:42:54.0320000Z"
+    },
+    {
+        "frame":  74,
+        "filename":  "F1C1-1465936974099.jpeg",
+        "timestampMs":  1465936974099,
+        "timestampUtc":  "2016-06-14T20:42:54.0990000Z"
+    },
+    {
+        "frame":  75,
+        "filename":  "F1C1-1465936974133.jpeg",
+        "timestampMs":  1465936974133,
+        "timestampUtc":  "2016-06-14T20:42:54.1330000Z"
+    },
+    {
+        "frame":  76,
+        "filename":  "F1C1-1465936974198.jpeg",
+        "timestampMs":  1465936974198,
+        "timestampUtc":  "2016-06-14T20:42:54.1980000Z"
+    },
+    {
+        "frame":  77,
+        "filename":  "F1C1-1465936974232.jpeg",
+        "timestampMs":  1465936974232,
+        "timestampUtc":  "2016-06-14T20:42:54.2320000Z"
+    },
+    {
+        "frame":  78,
+        "filename":  "F1C1-1465936974266.jpeg",
+        "timestampMs":  1465936974266,
+        "timestampUtc":  "2016-06-14T20:42:54.2660000Z"
+    },
+    {
+        "frame":  79,
+        "filename":  "F1C1-1465936974302.jpeg",
+        "timestampMs":  1465936974302,
+        "timestampUtc":  "2016-06-14T20:42:54.3020000Z"
+    },
+    {
+        "frame":  80,
+        "filename":  "F1C1-1465936974332.jpeg",
+        "timestampMs":  1465936974332,
+        "timestampUtc":  "2016-06-14T20:42:54.3320000Z"
+    },
+    {
+        "frame":  81,
+        "filename":  "F1C1-1465936974366.jpeg",
+        "timestampMs":  1465936974366,
+        "timestampUtc":  "2016-06-14T20:42:54.3660000Z"
+    },
+    {
+        "frame":  82,
+        "filename":  "F1C1-1465936974398.jpeg",
+        "timestampMs":  1465936974398,
+        "timestampUtc":  "2016-06-14T20:42:54.3980000Z"
+    },
+    {
+        "frame":  83,
+        "filename":  "F1C1-1465936974432.jpeg",
+        "timestampMs":  1465936974432,
+        "timestampUtc":  "2016-06-14T20:42:54.4320000Z"
+    },
+    {
+        "frame":  84,
+        "filename":  "F1C1-1465936974469.jpeg",
+        "timestampMs":  1465936974469,
+        "timestampUtc":  "2016-06-14T20:42:54.4690000Z"
+    },
+    {
+        "frame":  85,
+        "filename":  "F1C1-1465936974502.jpeg",
+        "timestampMs":  1465936974502,
+        "timestampUtc":  "2016-06-14T20:42:54.5020000Z"
+    },
+    {
+        "frame":  86,
+        "filename":  "F1C1-1465936974532.jpeg",
+        "timestampMs":  1465936974532,
+        "timestampUtc":  "2016-06-14T20:42:54.5320000Z"
+    },
+    {
+        "frame":  87,
+        "filename":  "F1C1-1465936974565.jpeg",
+        "timestampMs":  1465936974565,
+        "timestampUtc":  "2016-06-14T20:42:54.5650000Z"
+    },
+    {
+        "frame":  88,
+        "filename":  "F1C1-1465936974598.jpeg",
+        "timestampMs":  1465936974598,
+        "timestampUtc":  "2016-06-14T20:42:54.5980000Z"
+    },
+    {
+        "frame":  89,
+        "filename":  "F1C1-1465936974632.jpeg",
+        "timestampMs":  1465936974632,
+        "timestampUtc":  "2016-06-14T20:42:54.6320000Z"
+    },
+    {
+        "frame":  90,
+        "filename":  "F1C1-1465936974669.jpeg",
+        "timestampMs":  1465936974669,
+        "timestampUtc":  "2016-06-14T20:42:54.6690000Z"
+    },
+    {
+        "frame":  91,
+        "filename":  "F1C1-1465936974732.jpeg",
+        "timestampMs":  1465936974732,
+        "timestampUtc":  "2016-06-14T20:42:54.7320000Z"
+    },
+    {
+        "frame":  92,
+        "filename":  "F1C1-1465936974766.jpeg",
+        "timestampMs":  1465936974766,
+        "timestampUtc":  "2016-06-14T20:42:54.7660000Z"
+    },
+    {
+        "frame":  93,
+        "filename":  "F1C1-1465936974798.jpeg",
+        "timestampMs":  1465936974798,
+        "timestampUtc":  "2016-06-14T20:42:54.7980000Z"
+    },
+    {
+        "frame":  94,
+        "filename":  "F1C1-1465936974832.jpeg",
+        "timestampMs":  1465936974832,
+        "timestampUtc":  "2016-06-14T20:42:54.8320000Z"
+    },
+    {
+        "frame":  95,
+        "filename":  "F1C1-1465936974869.jpeg",
+        "timestampMs":  1465936974869,
+        "timestampUtc":  "2016-06-14T20:42:54.8690000Z"
+    },
+    {
+        "frame":  96,
+        "filename":  "F1C1-1465936974898.jpeg",
+        "timestampMs":  1465936974898,
+        "timestampUtc":  "2016-06-14T20:42:54.8980000Z"
+    },
+    {
+        "frame":  97,
+        "filename":  "F1C1-1465936974932.jpeg",
+        "timestampMs":  1465936974932,
+        "timestampUtc":  "2016-06-14T20:42:54.9320000Z"
+    },
+    {
+        "frame":  98,
+        "filename":  "F1C1-1465936974969.jpeg",
+        "timestampMs":  1465936974969,
+        "timestampUtc":  "2016-06-14T20:42:54.9690000Z"
+    },
+    {
+        "frame":  99,
+        "filename":  "F1C1-1465936975002.jpeg",
+        "timestampMs":  1465936975002,
+        "timestampUtc":  "2016-06-14T20:42:55.0020000Z"
+    },
+    {
+        "frame":  100,
+        "filename":  "F1C1-1465936975032.jpeg",
+        "timestampMs":  1465936975032,
+        "timestampUtc":  "2016-06-14T20:42:55.0320000Z"
+    },
+    {
+        "frame":  101,
+        "filename":  "F1C1-1465936975069.jpeg",
+        "timestampMs":  1465936975069,
+        "timestampUtc":  "2016-06-14T20:42:55.0690000Z"
+    },
+    {
+        "frame":  102,
+        "filename":  "F1C1-1465936975102.jpeg",
+        "timestampMs":  1465936975102,
+        "timestampUtc":  "2016-06-14T20:42:55.1020000Z"
+    },
+    {
+        "frame":  103,
+        "filename":  "F1C1-1465936975133.jpeg",
+        "timestampMs":  1465936975133,
+        "timestampUtc":  "2016-06-14T20:42:55.1330000Z"
+    },
+    {
+        "frame":  104,
+        "filename":  "F1C1-1465936975169.jpeg",
+        "timestampMs":  1465936975169,
+        "timestampUtc":  "2016-06-14T20:42:55.1690000Z"
+    },
+    {
+        "frame":  105,
+        "filename":  "F1C1-1465936975199.jpeg",
+        "timestampMs":  1465936975199,
+        "timestampUtc":  "2016-06-14T20:42:55.1990000Z"
+    },
+    {
+        "frame":  106,
+        "filename":  "F1C1-1465936975232.jpeg",
+        "timestampMs":  1465936975232,
+        "timestampUtc":  "2016-06-14T20:42:55.2320000Z"
+    },
+    {
+        "frame":  107,
+        "filename":  "F1C1-1465936975267.jpeg",
+        "timestampMs":  1465936975267,
+        "timestampUtc":  "2016-06-14T20:42:55.2670000Z"
+    },
+    {
+        "frame":  108,
+        "filename":  "F1C1-1465936975302.jpeg",
+        "timestampMs":  1465936975302,
+        "timestampUtc":  "2016-06-14T20:42:55.3020000Z"
+    },
+    {
+        "frame":  109,
+        "filename":  "F1C1-1465936975335.jpeg",
+        "timestampMs":  1465936975335,
+        "timestampUtc":  "2016-06-14T20:42:55.3350000Z"
+    },
+    {
+        "frame":  110,
+        "filename":  "F1C1-1465936975372.jpeg",
+        "timestampMs":  1465936975372,
+        "timestampUtc":  "2016-06-14T20:42:55.3720000Z"
+    },
+    {
+        "frame":  111,
+        "filename":  "F1C1-1465936975402.jpeg",
+        "timestampMs":  1465936975402,
+        "timestampUtc":  "2016-06-14T20:42:55.4020000Z"
+    },
+    {
+        "frame":  112,
+        "filename":  "F1C1-1465936975432.jpeg",
+        "timestampMs":  1465936975432,
+        "timestampUtc":  "2016-06-14T20:42:55.4320000Z"
+    },
+    {
+        "frame":  113,
+        "filename":  "F1C1-1465936975465.jpeg",
+        "timestampMs":  1465936975465,
+        "timestampUtc":  "2016-06-14T20:42:55.4650000Z"
+    },
+    {
+        "frame":  114,
+        "filename":  "F1C1-1465936975498.jpeg",
+        "timestampMs":  1465936975498,
+        "timestampUtc":  "2016-06-14T20:42:55.4980000Z"
+    },
+    {
+        "frame":  115,
+        "filename":  "F1C1-1465936975533.jpeg",
+        "timestampMs":  1465936975533,
+        "timestampUtc":  "2016-06-14T20:42:55.5330000Z"
+    },
+    {
+        "frame":  116,
+        "filename":  "F1C1-1465936975569.jpeg",
+        "timestampMs":  1465936975569,
+        "timestampUtc":  "2016-06-14T20:42:55.5690000Z"
+    },
+    {
+        "frame":  117,
+        "filename":  "F1C1-1465936975602.jpeg",
+        "timestampMs":  1465936975602,
+        "timestampUtc":  "2016-06-14T20:42:55.6020000Z"
+    },
+    {
+        "frame":  118,
+        "filename":  "F1C1-1465936975633.jpeg",
+        "timestampMs":  1465936975633,
+        "timestampUtc":  "2016-06-14T20:42:55.6330000Z"
+    },
+    {
+        "frame":  119,
+        "filename":  "F1C1-1465936975666.jpeg",
+        "timestampMs":  1465936975666,
+        "timestampUtc":  "2016-06-14T20:42:55.6660000Z"
+    },
+    {
+        "frame":  120,
+        "filename":  "F1C1-1465936975732.jpeg",
+        "timestampMs":  1465936975732,
+        "timestampUtc":  "2016-06-14T20:42:55.7320000Z"
+    },
+    {
+        "frame":  121,
+        "filename":  "F1C1-1465936975765.jpeg",
+        "timestampMs":  1465936975765,
+        "timestampUtc":  "2016-06-14T20:42:55.7650000Z"
+    },
+    {
+        "frame":  122,
+        "filename":  "F1C1-1465936975802.jpeg",
+        "timestampMs":  1465936975802,
+        "timestampUtc":  "2016-06-14T20:42:55.8020000Z"
+    },
+    {
+        "frame":  123,
+        "filename":  "F1C1-1465936975833.jpeg",
+        "timestampMs":  1465936975833,
+        "timestampUtc":  "2016-06-14T20:42:55.8330000Z"
+    },
+    {
+        "frame":  124,
+        "filename":  "F1C1-1465936975898.jpeg",
+        "timestampMs":  1465936975898,
+        "timestampUtc":  "2016-06-14T20:42:55.8980000Z"
+    },
+    {
+        "frame":  125,
+        "filename":  "F1C1-1465936975932.jpeg",
+        "timestampMs":  1465936975932,
+        "timestampUtc":  "2016-06-14T20:42:55.9320000Z"
+    },
+    {
+        "frame":  126,
+        "filename":  "F1C1-1465936975965.jpeg",
+        "timestampMs":  1465936975965,
+        "timestampUtc":  "2016-06-14T20:42:55.9650000Z"
+    },
+    {
+        "frame":  127,
+        "filename":  "F1C1-1465936975998.jpeg",
+        "timestampMs":  1465936975998,
+        "timestampUtc":  "2016-06-14T20:42:55.9980000Z"
+    },
+    {
+        "frame":  128,
+        "filename":  "F1C1-1465936976032.jpeg",
+        "timestampMs":  1465936976032,
+        "timestampUtc":  "2016-06-14T20:42:56.0320000Z"
+    },
+    {
+        "frame":  129,
+        "filename":  "F1C1-1465936976065.jpeg",
+        "timestampMs":  1465936976065,
+        "timestampUtc":  "2016-06-14T20:42:56.0650000Z"
+    },
+    {
+        "frame":  130,
+        "filename":  "F1C1-1465936976102.jpeg",
+        "timestampMs":  1465936976102,
+        "timestampUtc":  "2016-06-14T20:42:56.1020000Z"
+    },
+    {
+        "frame":  131,
+        "filename":  "F1C1-1465936976132.jpeg",
+        "timestampMs":  1465936976132,
+        "timestampUtc":  "2016-06-14T20:42:56.1320000Z"
+    },
+    {
+        "frame":  132,
+        "filename":  "F1C1-1465936976165.jpeg",
+        "timestampMs":  1465936976165,
+        "timestampUtc":  "2016-06-14T20:42:56.1650000Z"
+    },
+    {
+        "frame":  133,
+        "filename":  "F1C1-1465936976200.jpeg",
+        "timestampMs":  1465936976200,
+        "timestampUtc":  "2016-06-14T20:42:56.2000000Z"
+    },
+    {
+        "frame":  134,
+        "filename":  "F1C1-1465936976232.jpeg",
+        "timestampMs":  1465936976232,
+        "timestampUtc":  "2016-06-14T20:42:56.2320000Z"
+    },
+    {
+        "frame":  135,
+        "filename":  "F1C1-1465936976265.jpeg",
+        "timestampMs":  1465936976265,
+        "timestampUtc":  "2016-06-14T20:42:56.2650000Z"
+    },
+    {
+        "frame":  136,
+        "filename":  "F1C1-1465936976302.jpeg",
+        "timestampMs":  1465936976302,
+        "timestampUtc":  "2016-06-14T20:42:56.3020000Z"
+    },
+    {
+        "frame":  137,
+        "filename":  "F1C1-1465936976333.jpeg",
+        "timestampMs":  1465936976333,
+        "timestampUtc":  "2016-06-14T20:42:56.3330000Z"
+    },
+    {
+        "frame":  138,
+        "filename":  "F1C1-1465936976366.jpeg",
+        "timestampMs":  1465936976366,
+        "timestampUtc":  "2016-06-14T20:42:56.3660000Z"
+    },
+    {
+        "frame":  139,
+        "filename":  "F1C1-1465936976399.jpeg",
+        "timestampMs":  1465936976399,
+        "timestampUtc":  "2016-06-14T20:42:56.3990000Z"
+    },
+    {
+        "frame":  140,
+        "filename":  "F1C1-1465936976433.jpeg",
+        "timestampMs":  1465936976433,
+        "timestampUtc":  "2016-06-14T20:42:56.4330000Z"
+    },
+    {
+        "frame":  141,
+        "filename":  "F1C1-1465936976465.jpeg",
+        "timestampMs":  1465936976465,
+        "timestampUtc":  "2016-06-14T20:42:56.4650000Z"
+    },
+    {
+        "frame":  142,
+        "filename":  "F1C1-1465936976498.jpeg",
+        "timestampMs":  1465936976498,
+        "timestampUtc":  "2016-06-14T20:42:56.4980000Z"
+    },
+    {
+        "frame":  143,
+        "filename":  "F1C1-1465936976532.jpeg",
+        "timestampMs":  1465936976532,
+        "timestampUtc":  "2016-06-14T20:42:56.5320000Z"
+    },
+    {
+        "frame":  144,
+        "filename":  "F1C1-1465936976566.jpeg",
+        "timestampMs":  1465936976566,
+        "timestampUtc":  "2016-06-14T20:42:56.5660000Z"
+    },
+    {
+        "frame":  145,
+        "filename":  "F1C1-1465936976598.jpeg",
+        "timestampMs":  1465936976598,
+        "timestampUtc":  "2016-06-14T20:42:56.5980000Z"
+    },
+    {
+        "frame":  146,
+        "filename":  "F1C1-1465936976632.jpeg",
+        "timestampMs":  1465936976632,
+        "timestampUtc":  "2016-06-14T20:42:56.6320000Z"
+    },
+    {
+        "frame":  147,
+        "filename":  "F1C1-1465936976665.jpeg",
+        "timestampMs":  1465936976665,
+        "timestampUtc":  "2016-06-14T20:42:56.6650000Z"
+    },
+    {
+        "frame":  148,
+        "filename":  "F1C1-1465936976698.jpeg",
+        "timestampMs":  1465936976698,
+        "timestampUtc":  "2016-06-14T20:42:56.6980000Z"
+    },
+    {
+        "frame":  149,
+        "filename":  "F1C1-1465936976732.jpeg",
+        "timestampMs":  1465936976732,
+        "timestampUtc":  "2016-06-14T20:42:56.7320000Z"
+    },
+    {
+        "frame":  150,
+        "filename":  "F1C1-1465936976766.jpeg",
+        "timestampMs":  1465936976766,
+        "timestampUtc":  "2016-06-14T20:42:56.7660000Z"
+    },
+    {
+        "frame":  151,
+        "filename":  "F1C1-1465936976798.jpeg",
+        "timestampMs":  1465936976798,
+        "timestampUtc":  "2016-06-14T20:42:56.7980000Z"
+    },
+    {
+        "frame":  152,
+        "filename":  "F1C1-1465936976833.jpeg",
+        "timestampMs":  1465936976833,
+        "timestampUtc":  "2016-06-14T20:42:56.8330000Z"
+    },
+    {
+        "frame":  153,
+        "filename":  "F1C1-1465936976868.jpeg",
+        "timestampMs":  1465936976868,
+        "timestampUtc":  "2016-06-14T20:42:56.8680000Z"
+    },
+    {
+        "frame":  154,
+        "filename":  "F1C1-1465936976902.jpeg",
+        "timestampMs":  1465936976902,
+        "timestampUtc":  "2016-06-14T20:42:56.9020000Z"
+    },
+    {
+        "frame":  155,
+        "filename":  "F1C1-1465936976932.jpeg",
+        "timestampMs":  1465936976932,
+        "timestampUtc":  "2016-06-14T20:42:56.9320000Z"
+    },
+    {
+        "frame":  156,
+        "filename":  "F1C1-1465936976965.jpeg",
+        "timestampMs":  1465936976965,
+        "timestampUtc":  "2016-06-14T20:42:56.9650000Z"
+    },
+    {
+        "frame":  157,
+        "filename":  "F1C1-1465936977002.jpeg",
+        "timestampMs":  1465936977002,
+        "timestampUtc":  "2016-06-14T20:42:57.0020000Z"
+    },
+    {
+        "frame":  158,
+        "filename":  "F1C1-1465936977032.jpeg",
+        "timestampMs":  1465936977032,
+        "timestampUtc":  "2016-06-14T20:42:57.0320000Z"
+    },
+    {
+        "frame":  159,
+        "filename":  "F1C1-1465936977065.jpeg",
+        "timestampMs":  1465936977065,
+        "timestampUtc":  "2016-06-14T20:42:57.0650000Z"
+    },
+    {
+        "frame":  160,
+        "filename":  "F1C1-1465936977099.jpeg",
+        "timestampMs":  1465936977099,
+        "timestampUtc":  "2016-06-14T20:42:57.0990000Z"
+    },
+    {
+        "frame":  161,
+        "filename":  "F1C1-1465936977132.jpeg",
+        "timestampMs":  1465936977132,
+        "timestampUtc":  "2016-06-14T20:42:57.1320000Z"
+    },
+    {
+        "frame":  162,
+        "filename":  "F1C1-1465936977166.jpeg",
+        "timestampMs":  1465936977166,
+        "timestampUtc":  "2016-06-14T20:42:57.1660000Z"
+    },
+    {
+        "frame":  163,
+        "filename":  "F1C1-1465936977198.jpeg",
+        "timestampMs":  1465936977198,
+        "timestampUtc":  "2016-06-14T20:42:57.1980000Z"
+    },
+    {
+        "frame":  164,
+        "filename":  "F1C1-1465936977233.jpeg",
+        "timestampMs":  1465936977233,
+        "timestampUtc":  "2016-06-14T20:42:57.2330000Z"
+    },
+    {
+        "frame":  165,
+        "filename":  "F1C1-1465936977266.jpeg",
+        "timestampMs":  1465936977266,
+        "timestampUtc":  "2016-06-14T20:42:57.2660000Z"
+    },
+    {
+        "frame":  166,
+        "filename":  "F1C1-1465936977298.jpeg",
+        "timestampMs":  1465936977298,
+        "timestampUtc":  "2016-06-14T20:42:57.2980000Z"
+    },
+    {
+        "frame":  167,
+        "filename":  "F1C1-1465936977333.jpeg",
+        "timestampMs":  1465936977333,
+        "timestampUtc":  "2016-06-14T20:42:57.3330000Z"
+    },
+    {
+        "frame":  168,
+        "filename":  "F1C1-1465936977365.jpeg",
+        "timestampMs":  1465936977365,
+        "timestampUtc":  "2016-06-14T20:42:57.3650000Z"
+    },
+    {
+        "frame":  169,
+        "filename":  "F1C1-1465936977398.jpeg",
+        "timestampMs":  1465936977398,
+        "timestampUtc":  "2016-06-14T20:42:57.3980000Z"
+    },
+    {
+        "frame":  170,
+        "filename":  "F1C1-1465936977433.jpeg",
+        "timestampMs":  1465936977433,
+        "timestampUtc":  "2016-06-14T20:42:57.4330000Z"
+    },
+    {
+        "frame":  171,
+        "filename":  "F1C1-1465936977465.jpeg",
+        "timestampMs":  1465936977465,
+        "timestampUtc":  "2016-06-14T20:42:57.4650000Z"
+    },
+    {
+        "frame":  172,
+        "filename":  "F1C1-1465936977502.jpeg",
+        "timestampMs":  1465936977502,
+        "timestampUtc":  "2016-06-14T20:42:57.5020000Z"
+    },
+    {
+        "frame":  173,
+        "filename":  "F1C1-1465936977533.jpeg",
+        "timestampMs":  1465936977533,
+        "timestampUtc":  "2016-06-14T20:42:57.5330000Z"
+    },
+    {
+        "frame":  174,
+        "filename":  "F1C1-1465936977565.jpeg",
+        "timestampMs":  1465936977565,
+        "timestampUtc":  "2016-06-14T20:42:57.5650000Z"
+    },
+    {
+        "frame":  175,
+        "filename":  "F1C1-1465936977598.jpeg",
+        "timestampMs":  1465936977598,
+        "timestampUtc":  "2016-06-14T20:42:57.5980000Z"
+    },
+    {
+        "frame":  176,
+        "filename":  "F1C1-1465936977632.jpeg",
+        "timestampMs":  1465936977632,
+        "timestampUtc":  "2016-06-14T20:42:57.6320000Z"
+    },
+    {
+        "frame":  177,
+        "filename":  "F1C1-1465936977665.jpeg",
+        "timestampMs":  1465936977665,
+        "timestampUtc":  "2016-06-14T20:42:57.6650000Z"
+    },
+    {
+        "frame":  178,
+        "filename":  "F1C1-1465936977698.jpeg",
+        "timestampMs":  1465936977698,
+        "timestampUtc":  "2016-06-14T20:42:57.6980000Z"
+    },
+    {
+        "frame":  179,
+        "filename":  "F1C1-1465936977733.jpeg",
+        "timestampMs":  1465936977733,
+        "timestampUtc":  "2016-06-14T20:42:57.7330000Z"
+    },
+    {
+        "frame":  180,
+        "filename":  "F1C1-1465936977765.jpeg",
+        "timestampMs":  1465936977765,
+        "timestampUtc":  "2016-06-14T20:42:57.7650000Z"
+    },
+    {
+        "frame":  181,
+        "filename":  "F1C1-1465936977798.jpeg",
+        "timestampMs":  1465936977798,
+        "timestampUtc":  "2016-06-14T20:42:57.7980000Z"
+    },
+    {
+        "frame":  182,
+        "filename":  "F1C1-1465936977833.jpeg",
+        "timestampMs":  1465936977833,
+        "timestampUtc":  "2016-06-14T20:42:57.8330000Z"
+    },
+    {
+        "frame":  183,
+        "filename":  "F1C1-1465936977868.jpeg",
+        "timestampMs":  1465936977868,
+        "timestampUtc":  "2016-06-14T20:42:57.8680000Z"
+    },
+    {
+        "frame":  184,
+        "filename":  "F1C1-1465936977898.jpeg",
+        "timestampMs":  1465936977898,
+        "timestampUtc":  "2016-06-14T20:42:57.8980000Z"
+    },
+    {
+        "frame":  185,
+        "filename":  "F1C1-1465936977932.jpeg",
+        "timestampMs":  1465936977932,
+        "timestampUtc":  "2016-06-14T20:42:57.9320000Z"
+    },
+    {
+        "frame":  186,
+        "filename":  "F1C1-1465936977968.jpeg",
+        "timestampMs":  1465936977968,
+        "timestampUtc":  "2016-06-14T20:42:57.9680000Z"
+    },
+    {
+        "frame":  187,
+        "filename":  "F1C1-1465936978002.jpeg",
+        "timestampMs":  1465936978002,
+        "timestampUtc":  "2016-06-14T20:42:58.0020000Z"
+    },
+    {
+        "frame":  188,
+        "filename":  "F1C1-1465936978033.jpeg",
+        "timestampMs":  1465936978033,
+        "timestampUtc":  "2016-06-14T20:42:58.0330000Z"
+    },
+    {
+        "frame":  189,
+        "filename":  "F1C1-1465936978069.jpeg",
+        "timestampMs":  1465936978069,
+        "timestampUtc":  "2016-06-14T20:42:58.0690000Z"
+    },
+    {
+        "frame":  190,
+        "filename":  "F1C1-1465936978099.jpeg",
+        "timestampMs":  1465936978099,
+        "timestampUtc":  "2016-06-14T20:42:58.0990000Z"
+    },
+    {
+        "frame":  191,
+        "filename":  "F1C1-1465936978133.jpeg",
+        "timestampMs":  1465936978133,
+        "timestampUtc":  "2016-06-14T20:42:58.1330000Z"
+    },
+    {
+        "frame":  192,
+        "filename":  "F1C1-1465936978165.jpeg",
+        "timestampMs":  1465936978165,
+        "timestampUtc":  "2016-06-14T20:42:58.1650000Z"
+    },
+    {
+        "frame":  193,
+        "filename":  "F1C1-1465936978198.jpeg",
+        "timestampMs":  1465936978198,
+        "timestampUtc":  "2016-06-14T20:42:58.1980000Z"
+    },
+    {
+        "frame":  194,
+        "filename":  "F1C1-1465936978233.jpeg",
+        "timestampMs":  1465936978233,
+        "timestampUtc":  "2016-06-14T20:42:58.2330000Z"
+    },
+    {
+        "frame":  195,
+        "filename":  "F1C1-1465936978265.jpeg",
+        "timestampMs":  1465936978265,
+        "timestampUtc":  "2016-06-14T20:42:58.2650000Z"
+    },
+    {
+        "frame":  196,
+        "filename":  "F1C1-1465936978298.jpeg",
+        "timestampMs":  1465936978298,
+        "timestampUtc":  "2016-06-14T20:42:58.2980000Z"
+    },
+    {
+        "frame":  197,
+        "filename":  "F1C1-1465936978331.jpeg",
+        "timestampMs":  1465936978331,
+        "timestampUtc":  "2016-06-14T20:42:58.3310000Z"
+    },
+    {
+        "frame":  198,
+        "filename":  "F1C1-1465936978368.jpeg",
+        "timestampMs":  1465936978368,
+        "timestampUtc":  "2016-06-14T20:42:58.3680000Z"
+    },
+    {
+        "frame":  199,
+        "filename":  "F1C1-1465936978402.jpeg",
+        "timestampMs":  1465936978402,
+        "timestampUtc":  "2016-06-14T20:42:58.4020000Z"
+    },
+    {
+        "frame":  200,
+        "filename":  "F1C1-1465936978431.jpeg",
+        "timestampMs":  1465936978431,
+        "timestampUtc":  "2016-06-14T20:42:58.4310000Z"
+    },
+    {
+        "frame":  201,
+        "filename":  "F1C1-1465936978465.jpeg",
+        "timestampMs":  1465936978465,
+        "timestampUtc":  "2016-06-14T20:42:58.4650000Z"
+    },
+    {
+        "frame":  202,
+        "filename":  "F1C1-1465936978498.jpeg",
+        "timestampMs":  1465936978498,
+        "timestampUtc":  "2016-06-14T20:42:58.4980000Z"
+    },
+    {
+        "frame":  203,
+        "filename":  "F1C1-1465936978533.jpeg",
+        "timestampMs":  1465936978533,
+        "timestampUtc":  "2016-06-14T20:42:58.5330000Z"
+    },
+    {
+        "frame":  204,
+        "filename":  "F1C1-1465936978566.jpeg",
+        "timestampMs":  1465936978566,
+        "timestampUtc":  "2016-06-14T20:42:58.5660000Z"
+    },
+    {
+        "frame":  205,
+        "filename":  "F1C1-1465936978598.jpeg",
+        "timestampMs":  1465936978598,
+        "timestampUtc":  "2016-06-14T20:42:58.5980000Z"
+    },
+    {
+        "frame":  206,
+        "filename":  "F1C1-1465936978633.jpeg",
+        "timestampMs":  1465936978633,
+        "timestampUtc":  "2016-06-14T20:42:58.6330000Z"
+    },
+    {
+        "frame":  207,
+        "filename":  "F1C1-1465936978666.jpeg",
+        "timestampMs":  1465936978666,
+        "timestampUtc":  "2016-06-14T20:42:58.6660000Z"
+    },
+    {
+        "frame":  208,
+        "filename":  "F1C1-1465936978702.jpeg",
+        "timestampMs":  1465936978702,
+        "timestampUtc":  "2016-06-14T20:42:58.7020000Z"
+    },
+    {
+        "frame":  209,
+        "filename":  "F1C1-1465936978733.jpeg",
+        "timestampMs":  1465936978733,
+        "timestampUtc":  "2016-06-14T20:42:58.7330000Z"
+    },
+    {
+        "frame":  210,
+        "filename":  "F1C1-1465936978765.jpeg",
+        "timestampMs":  1465936978765,
+        "timestampUtc":  "2016-06-14T20:42:58.7650000Z"
+    },
+    {
+        "frame":  211,
+        "filename":  "F1C1-1465936978798.jpeg",
+        "timestampMs":  1465936978798,
+        "timestampUtc":  "2016-06-14T20:42:58.7980000Z"
+    },
+    {
+        "frame":  212,
+        "filename":  "F1C1-1465936978833.jpeg",
+        "timestampMs":  1465936978833,
+        "timestampUtc":  "2016-06-14T20:42:58.8330000Z"
+    },
+    {
+        "frame":  213,
+        "filename":  "F1C1-1465936978868.jpeg",
+        "timestampMs":  1465936978868,
+        "timestampUtc":  "2016-06-14T20:42:58.8680000Z"
+    },
+    {
+        "frame":  214,
+        "filename":  "F1C1-1465936978901.jpeg",
+        "timestampMs":  1465936978901,
+        "timestampUtc":  "2016-06-14T20:42:58.9010000Z"
+    },
+    {
+        "frame":  215,
+        "filename":  "F1C1-1465936978931.jpeg",
+        "timestampMs":  1465936978931,
+        "timestampUtc":  "2016-06-14T20:42:58.9310000Z"
+    },
+    {
+        "frame":  216,
+        "filename":  "F1C1-1465936978966.jpeg",
+        "timestampMs":  1465936978966,
+        "timestampUtc":  "2016-06-14T20:42:58.9660000Z"
+    },
+    {
+        "frame":  217,
+        "filename":  "F1C1-1465936979002.jpeg",
+        "timestampMs":  1465936979002,
+        "timestampUtc":  "2016-06-14T20:42:59.0020000Z"
+    },
+    {
+        "frame":  218,
+        "filename":  "F1C1-1465936979031.jpeg",
+        "timestampMs":  1465936979031,
+        "timestampUtc":  "2016-06-14T20:42:59.0310000Z"
+    },
+    {
+        "frame":  219,
+        "filename":  "F1C1-1465936979065.jpeg",
+        "timestampMs":  1465936979065,
+        "timestampUtc":  "2016-06-14T20:42:59.0650000Z"
+    },
+    {
+        "frame":  220,
+        "filename":  "F1C1-1465936979102.jpeg",
+        "timestampMs":  1465936979102,
+        "timestampUtc":  "2016-06-14T20:42:59.1020000Z"
+    },
+    {
+        "frame":  221,
+        "filename":  "F1C1-1465936979131.jpeg",
+        "timestampMs":  1465936979131,
+        "timestampUtc":  "2016-06-14T20:42:59.1310000Z"
+    },
+    {
+        "frame":  222,
+        "filename":  "F1C1-1465936979166.jpeg",
+        "timestampMs":  1465936979166,
+        "timestampUtc":  "2016-06-14T20:42:59.1660000Z"
+    },
+    {
+        "frame":  223,
+        "filename":  "F1C1-1465936979198.jpeg",
+        "timestampMs":  1465936979198,
+        "timestampUtc":  "2016-06-14T20:42:59.1980000Z"
+    },
+    {
+        "frame":  224,
+        "filename":  "F1C1-1465936979231.jpeg",
+        "timestampMs":  1465936979231,
+        "timestampUtc":  "2016-06-14T20:42:59.2310000Z"
+    },
+    {
+        "frame":  225,
+        "filename":  "F1C1-1465936979265.jpeg",
+        "timestampMs":  1465936979265,
+        "timestampUtc":  "2016-06-14T20:42:59.2650000Z"
+    },
+    {
+        "frame":  226,
+        "filename":  "F1C1-1465936979302.jpeg",
+        "timestampMs":  1465936979302,
+        "timestampUtc":  "2016-06-14T20:42:59.3020000Z"
+    },
+    {
+        "frame":  227,
+        "filename":  "F1C1-1465936979331.jpeg",
+        "timestampMs":  1465936979331,
+        "timestampUtc":  "2016-06-14T20:42:59.3310000Z"
+    },
+    {
+        "frame":  228,
+        "filename":  "F1C1-1465936979365.jpeg",
+        "timestampMs":  1465936979365,
+        "timestampUtc":  "2016-06-14T20:42:59.3650000Z"
+    },
+    {
+        "frame":  229,
+        "filename":  "F1C1-1465936979401.jpeg",
+        "timestampMs":  1465936979401,
+        "timestampUtc":  "2016-06-14T20:42:59.4010000Z"
+    },
+    {
+        "frame":  230,
+        "filename":  "F1C1-1465936979433.jpeg",
+        "timestampMs":  1465936979433,
+        "timestampUtc":  "2016-06-14T20:42:59.4330000Z"
+    },
+    {
+        "frame":  231,
+        "filename":  "F1C1-1465936979464.jpeg",
+        "timestampMs":  1465936979464,
+        "timestampUtc":  "2016-06-14T20:42:59.4640000Z"
+    },
+    {
+        "frame":  232,
+        "filename":  "F1C1-1465936979498.jpeg",
+        "timestampMs":  1465936979498,
+        "timestampUtc":  "2016-06-14T20:42:59.4980000Z"
+    },
+    {
+        "frame":  233,
+        "filename":  "F1C1-1465936979535.jpeg",
+        "timestampMs":  1465936979535,
+        "timestampUtc":  "2016-06-14T20:42:59.5350000Z"
+    },
+    {
+        "frame":  234,
+        "filename":  "F1C1-1465936979566.jpeg",
+        "timestampMs":  1465936979566,
+        "timestampUtc":  "2016-06-14T20:42:59.5660000Z"
+    },
+    {
+        "frame":  235,
+        "filename":  "F1C1-1465936979599.jpeg",
+        "timestampMs":  1465936979599,
+        "timestampUtc":  "2016-06-14T20:42:59.5990000Z"
+    },
+    {
+        "frame":  236,
+        "filename":  "F1C1-1465936979631.jpeg",
+        "timestampMs":  1465936979631,
+        "timestampUtc":  "2016-06-14T20:42:59.6310000Z"
+    },
+    {
+        "frame":  237,
+        "filename":  "F1C1-1465936979665.jpeg",
+        "timestampMs":  1465936979665,
+        "timestampUtc":  "2016-06-14T20:42:59.6650000Z"
+    },
+    {
+        "frame":  238,
+        "filename":  "F1C1-1465936979698.jpeg",
+        "timestampMs":  1465936979698,
+        "timestampUtc":  "2016-06-14T20:42:59.6980000Z"
+    },
+    {
+        "frame":  239,
+        "filename":  "F1C1-1465936979733.jpeg",
+        "timestampMs":  1465936979733,
+        "timestampUtc":  "2016-06-14T20:42:59.7330000Z"
+    },
+    {
+        "frame":  240,
+        "filename":  "F1C1-1465936979766.jpeg",
+        "timestampMs":  1465936979766,
+        "timestampUtc":  "2016-06-14T20:42:59.7660000Z"
+    },
+    {
+        "frame":  241,
+        "filename":  "F1C1-1465936979798.jpeg",
+        "timestampMs":  1465936979798,
+        "timestampUtc":  "2016-06-14T20:42:59.7980000Z"
+    },
+    {
+        "frame":  242,
+        "filename":  "F1C1-1465936979831.jpeg",
+        "timestampMs":  1465936979831,
+        "timestampUtc":  "2016-06-14T20:42:59.8310000Z"
+    },
+    {
+        "frame":  243,
+        "filename":  "F1C1-1465936979866.jpeg",
+        "timestampMs":  1465936979866,
+        "timestampUtc":  "2016-06-14T20:42:59.8660000Z"
+    },
+    {
+        "frame":  244,
+        "filename":  "F1C1-1465936979899.jpeg",
+        "timestampMs":  1465936979899,
+        "timestampUtc":  "2016-06-14T20:42:59.8990000Z"
+    },
+    {
+        "frame":  245,
+        "filename":  "F1C1-1465936979931.jpeg",
+        "timestampMs":  1465936979931,
+        "timestampUtc":  "2016-06-14T20:42:59.9310000Z"
+    },
+    {
+        "frame":  246,
+        "filename":  "F1C1-1465936979964.jpeg",
+        "timestampMs":  1465936979964,
+        "timestampUtc":  "2016-06-14T20:42:59.9640000Z"
+    },
+    {
+        "frame":  247,
+        "filename":  "F1C1-1465936980002.jpeg",
+        "timestampMs":  1465936980002,
+        "timestampUtc":  "2016-06-14T20:43:00.0020000Z"
+    },
+    {
+        "frame":  248,
+        "filename":  "F1C1-1465936980035.jpeg",
+        "timestampMs":  1465936980035,
+        "timestampUtc":  "2016-06-14T20:43:00.0350000Z"
+    },
+    {
+        "frame":  249,
+        "filename":  "F1C1-1465936980064.jpeg",
+        "timestampMs":  1465936980064,
+        "timestampUtc":  "2016-06-14T20:43:00.0640000Z"
+    },
+    {
+        "frame":  250,
+        "filename":  "F1C1-1465936980099.jpeg",
+        "timestampMs":  1465936980099,
+        "timestampUtc":  "2016-06-14T20:43:00.0990000Z"
+    },
+    {
+        "frame":  251,
+        "filename":  "F1C1-1465936980131.jpeg",
+        "timestampMs":  1465936980131,
+        "timestampUtc":  "2016-06-14T20:43:00.1310000Z"
+    },
+    {
+        "frame":  252,
+        "filename":  "F1C1-1465936980164.jpeg",
+        "timestampMs":  1465936980164,
+        "timestampUtc":  "2016-06-14T20:43:00.1640000Z"
+    },
+    {
+        "frame":  253,
+        "filename":  "F1C1-1465936980198.jpeg",
+        "timestampMs":  1465936980198,
+        "timestampUtc":  "2016-06-14T20:43:00.1980000Z"
+    },
+    {
+        "frame":  254,
+        "filename":  "F1C1-1465936980231.jpeg",
+        "timestampMs":  1465936980231,
+        "timestampUtc":  "2016-06-14T20:43:00.2310000Z"
+    },
+    {
+        "frame":  255,
+        "filename":  "F1C1-1465936980264.jpeg",
+        "timestampMs":  1465936980264,
+        "timestampUtc":  "2016-06-14T20:43:00.2640000Z"
+    },
+    {
+        "frame":  256,
+        "filename":  "F1C1-1465936980298.jpeg",
+        "timestampMs":  1465936980298,
+        "timestampUtc":  "2016-06-14T20:43:00.2980000Z"
+    },
+    {
+        "frame":  257,
+        "filename":  "F1C1-1465936980331.jpeg",
+        "timestampMs":  1465936980331,
+        "timestampUtc":  "2016-06-14T20:43:00.3310000Z"
+    },
+    {
+        "frame":  258,
+        "filename":  "F1C1-1465936980364.jpeg",
+        "timestampMs":  1465936980364,
+        "timestampUtc":  "2016-06-14T20:43:00.3640000Z"
+    },
+    {
+        "frame":  259,
+        "filename":  "F1C1-1465936980398.jpeg",
+        "timestampMs":  1465936980398,
+        "timestampUtc":  "2016-06-14T20:43:00.3980000Z"
+    },
+    {
+        "frame":  260,
+        "filename":  "F1C1-1465936980431.jpeg",
+        "timestampMs":  1465936980431,
+        "timestampUtc":  "2016-06-14T20:43:00.4310000Z"
+    },
+    {
+        "frame":  261,
+        "filename":  "F1C1-1465936980464.jpeg",
+        "timestampMs":  1465936980464,
+        "timestampUtc":  "2016-06-14T20:43:00.4640000Z"
+    },
+    {
+        "frame":  262,
+        "filename":  "F1C1-1465936980497.jpeg",
+        "timestampMs":  1465936980497,
+        "timestampUtc":  "2016-06-14T20:43:00.4970000Z"
+    },
+    {
+        "frame":  263,
+        "filename":  "F1C1-1465936980531.jpeg",
+        "timestampMs":  1465936980531,
+        "timestampUtc":  "2016-06-14T20:43:00.5310000Z"
+    },
+    {
+        "frame":  264,
+        "filename":  "F1C1-1465936980564.jpeg",
+        "timestampMs":  1465936980564,
+        "timestampUtc":  "2016-06-14T20:43:00.5640000Z"
+    },
+    {
+        "frame":  265,
+        "filename":  "F1C1-1465936980597.jpeg",
+        "timestampMs":  1465936980597,
+        "timestampUtc":  "2016-06-14T20:43:00.5970000Z"
+    },
+    {
+        "frame":  266,
+        "filename":  "F1C1-1465936980631.jpeg",
+        "timestampMs":  1465936980631,
+        "timestampUtc":  "2016-06-14T20:43:00.6310000Z"
+    },
+    {
+        "frame":  267,
+        "filename":  "F1C1-1465936980664.jpeg",
+        "timestampMs":  1465936980664,
+        "timestampUtc":  "2016-06-14T20:43:00.6640000Z"
+    },
+    {
+        "frame":  268,
+        "filename":  "F1C1-1465936980697.jpeg",
+        "timestampMs":  1465936980697,
+        "timestampUtc":  "2016-06-14T20:43:00.6970000Z"
+    },
+    {
+        "frame":  269,
+        "filename":  "F1C1-1465936980731.jpeg",
+        "timestampMs":  1465936980731,
+        "timestampUtc":  "2016-06-14T20:43:00.7310000Z"
+    },
+    {
+        "frame":  270,
+        "filename":  "F1C1-1465936980764.jpeg",
+        "timestampMs":  1465936980764,
+        "timestampUtc":  "2016-06-14T20:43:00.7640000Z"
+    },
+    {
+        "frame":  271,
+        "filename":  "F1C1-1465936980797.jpeg",
+        "timestampMs":  1465936980797,
+        "timestampUtc":  "2016-06-14T20:43:00.7970000Z"
+    },
+    {
+        "frame":  272,
+        "filename":  "F1C1-1465936980831.jpeg",
+        "timestampMs":  1465936980831,
+        "timestampUtc":  "2016-06-14T20:43:00.8310000Z"
+    },
+    {
+        "frame":  273,
+        "filename":  "F1C1-1465936980864.jpeg",
+        "timestampMs":  1465936980864,
+        "timestampUtc":  "2016-06-14T20:43:00.8640000Z"
+    },
+    {
+        "frame":  274,
+        "filename":  "F1C1-1465936980897.jpeg",
+        "timestampMs":  1465936980897,
+        "timestampUtc":  "2016-06-14T20:43:00.8970000Z"
+    },
+    {
+        "frame":  275,
+        "filename":  "F1C1-1465936980931.jpeg",
+        "timestampMs":  1465936980931,
+        "timestampUtc":  "2016-06-14T20:43:00.9310000Z"
+    },
+    {
+        "frame":  276,
+        "filename":  "F1C1-1465936980964.jpeg",
+        "timestampMs":  1465936980964,
+        "timestampUtc":  "2016-06-14T20:43:00.9640000Z"
+    },
+    {
+        "frame":  277,
+        "filename":  "F1C1-1465936980997.jpeg",
+        "timestampMs":  1465936980997,
+        "timestampUtc":  "2016-06-14T20:43:00.9970000Z"
+    },
+    {
+        "frame":  278,
+        "filename":  "F1C1-1465936981031.jpeg",
+        "timestampMs":  1465936981031,
+        "timestampUtc":  "2016-06-14T20:43:01.0310000Z"
+    },
+    {
+        "frame":  279,
+        "filename":  "F1C1-1465936981064.jpeg",
+        "timestampMs":  1465936981064,
+        "timestampUtc":  "2016-06-14T20:43:01.0640000Z"
+    },
+    {
+        "frame":  280,
+        "filename":  "F1C1-1465936981097.jpeg",
+        "timestampMs":  1465936981097,
+        "timestampUtc":  "2016-06-14T20:43:01.0970000Z"
+    },
+    {
+        "frame":  281,
+        "filename":  "F1C1-1465936981130.jpeg",
+        "timestampMs":  1465936981130,
+        "timestampUtc":  "2016-06-14T20:43:01.1300000Z"
+    },
+    {
+        "frame":  282,
+        "filename":  "F1C1-1465936981164.jpeg",
+        "timestampMs":  1465936981164,
+        "timestampUtc":  "2016-06-14T20:43:01.1640000Z"
+    },
+    {
+        "frame":  283,
+        "filename":  "F1C1-1465936981197.jpeg",
+        "timestampMs":  1465936981197,
+        "timestampUtc":  "2016-06-14T20:43:01.1970000Z"
+    },
+    {
+        "frame":  284,
+        "filename":  "F1C1-1465936981231.jpeg",
+        "timestampMs":  1465936981231,
+        "timestampUtc":  "2016-06-14T20:43:01.2310000Z"
+    },
+    {
+        "frame":  285,
+        "filename":  "F1C1-1465936981264.jpeg",
+        "timestampMs":  1465936981264,
+        "timestampUtc":  "2016-06-14T20:43:01.2640000Z"
+    },
+    {
+        "frame":  286,
+        "filename":  "F1C1-1465936981297.jpeg",
+        "timestampMs":  1465936981297,
+        "timestampUtc":  "2016-06-14T20:43:01.2970000Z"
+    },
+    {
+        "frame":  287,
+        "filename":  "F1C1-1465936981330.jpeg",
+        "timestampMs":  1465936981330,
+        "timestampUtc":  "2016-06-14T20:43:01.3300000Z"
+    },
+    {
+        "frame":  288,
+        "filename":  "F1C1-1465936981364.jpeg",
+        "timestampMs":  1465936981364,
+        "timestampUtc":  "2016-06-14T20:43:01.3640000Z"
+    },
+    {
+        "frame":  289,
+        "filename":  "F1C1-1465936981397.jpeg",
+        "timestampMs":  1465936981397,
+        "timestampUtc":  "2016-06-14T20:43:01.3970000Z"
+    },
+    {
+        "frame":  290,
+        "filename":  "F1C1-1465936981431.jpeg",
+        "timestampMs":  1465936981431,
+        "timestampUtc":  "2016-06-14T20:43:01.4310000Z"
+    },
+    {
+        "frame":  291,
+        "filename":  "F1C1-1465936981464.jpeg",
+        "timestampMs":  1465936981464,
+        "timestampUtc":  "2016-06-14T20:43:01.4640000Z"
+    },
+    {
+        "frame":  292,
+        "filename":  "F1C1-1465936981497.jpeg",
+        "timestampMs":  1465936981497,
+        "timestampUtc":  "2016-06-14T20:43:01.4970000Z"
+    },
+    {
+        "frame":  293,
+        "filename":  "F1C1-1465936981530.jpeg",
+        "timestampMs":  1465936981530,
+        "timestampUtc":  "2016-06-14T20:43:01.5300000Z"
+    },
+    {
+        "frame":  294,
+        "filename":  "F1C1-1465936981564.jpeg",
+        "timestampMs":  1465936981564,
+        "timestampUtc":  "2016-06-14T20:43:01.5640000Z"
+    },
+    {
+        "frame":  295,
+        "filename":  "F1C1-1465936981597.jpeg",
+        "timestampMs":  1465936981597,
+        "timestampUtc":  "2016-06-14T20:43:01.5970000Z"
+    },
+    {
+        "frame":  296,
+        "filename":  "F1C1-1465936981633.jpeg",
+        "timestampMs":  1465936981633,
+        "timestampUtc":  "2016-06-14T20:43:01.6330000Z"
+    },
+    {
+        "frame":  297,
+        "filename":  "F1C1-1465936981664.jpeg",
+        "timestampMs":  1465936981664,
+        "timestampUtc":  "2016-06-14T20:43:01.6640000Z"
+    },
+    {
+        "frame":  298,
+        "filename":  "F1C1-1465936981697.jpeg",
+        "timestampMs":  1465936981697,
+        "timestampUtc":  "2016-06-14T20:43:01.6970000Z"
+    },
+    {
+        "frame":  299,
+        "filename":  "F1C1-1465936981730.jpeg",
+        "timestampMs":  1465936981730,
+        "timestampUtc":  "2016-06-14T20:43:01.7300000Z"
+    },
+    {
+        "frame":  300,
+        "filename":  "F1C1-1465936981766.jpeg",
+        "timestampMs":  1465936981766,
+        "timestampUtc":  "2016-06-14T20:43:01.7660000Z"
+    },
+    {
+        "frame":  301,
+        "filename":  "F1C1-1465936981801.jpeg",
+        "timestampMs":  1465936981801,
+        "timestampUtc":  "2016-06-14T20:43:01.8010000Z"
+    },
+    {
+        "frame":  302,
+        "filename":  "F1C1-1465936981831.jpeg",
+        "timestampMs":  1465936981831,
+        "timestampUtc":  "2016-06-14T20:43:01.8310000Z"
+    },
+    {
+        "frame":  303,
+        "filename":  "F1C1-1465936981864.jpeg",
+        "timestampMs":  1465936981864,
+        "timestampUtc":  "2016-06-14T20:43:01.8640000Z"
+    },
+    {
+        "frame":  304,
+        "filename":  "F1C1-1465936981897.jpeg",
+        "timestampMs":  1465936981897,
+        "timestampUtc":  "2016-06-14T20:43:01.8970000Z"
+    },
+    {
+        "frame":  305,
+        "filename":  "F1C1-1465936981933.jpeg",
+        "timestampMs":  1465936981933,
+        "timestampUtc":  "2016-06-14T20:43:01.9330000Z"
+    },
+    {
+        "frame":  306,
+        "filename":  "F1C1-1465936981966.jpeg",
+        "timestampMs":  1465936981966,
+        "timestampUtc":  "2016-06-14T20:43:01.9660000Z"
+    },
+    {
+        "frame":  307,
+        "filename":  "F1C1-1465936981997.jpeg",
+        "timestampMs":  1465936981997,
+        "timestampUtc":  "2016-06-14T20:43:01.9970000Z"
+    },
+    {
+        "frame":  308,
+        "filename":  "F1C1-1465936982034.jpeg",
+        "timestampMs":  1465936982034,
+        "timestampUtc":  "2016-06-14T20:43:02.0340000Z"
+    },
+    {
+        "frame":  309,
+        "filename":  "F1C1-1465936982064.jpeg",
+        "timestampMs":  1465936982064,
+        "timestampUtc":  "2016-06-14T20:43:02.0640000Z"
+    },
+    {
+        "frame":  310,
+        "filename":  "F1C1-1465936982097.jpeg",
+        "timestampMs":  1465936982097,
+        "timestampUtc":  "2016-06-14T20:43:02.0970000Z"
+    },
+    {
+        "frame":  311,
+        "filename":  "F1C1-1465936982134.jpeg",
+        "timestampMs":  1465936982134,
+        "timestampUtc":  "2016-06-14T20:43:02.1340000Z"
+    },
+    {
+        "frame":  312,
+        "filename":  "F1C1-1465936982166.jpeg",
+        "timestampMs":  1465936982166,
+        "timestampUtc":  "2016-06-14T20:43:02.1660000Z"
+    },
+    {
+        "frame":  313,
+        "filename":  "F1C1-1465936982197.jpeg",
+        "timestampMs":  1465936982197,
+        "timestampUtc":  "2016-06-14T20:43:02.1970000Z"
+    },
+    {
+        "frame":  314,
+        "filename":  "F1C1-1465936982233.jpeg",
+        "timestampMs":  1465936982233,
+        "timestampUtc":  "2016-06-14T20:43:02.2330000Z"
+    },
+    {
+        "frame":  315,
+        "filename":  "F1C1-1465936982267.jpeg",
+        "timestampMs":  1465936982267,
+        "timestampUtc":  "2016-06-14T20:43:02.2670000Z"
+    },
+    {
+        "frame":  316,
+        "filename":  "F1C1-1465936982297.jpeg",
+        "timestampMs":  1465936982297,
+        "timestampUtc":  "2016-06-14T20:43:02.2970000Z"
+    },
+    {
+        "frame":  317,
+        "filename":  "F1C1-1465936982331.jpeg",
+        "timestampMs":  1465936982331,
+        "timestampUtc":  "2016-06-14T20:43:02.3310000Z"
+    },
+    {
+        "frame":  318,
+        "filename":  "F1C1-1465936982365.jpeg",
+        "timestampMs":  1465936982365,
+        "timestampUtc":  "2016-06-14T20:43:02.3650000Z"
+    },
+    {
+        "frame":  319,
+        "filename":  "F1C1-1465936982400.jpeg",
+        "timestampMs":  1465936982400,
+        "timestampUtc":  "2016-06-14T20:43:02.4000000Z"
+    },
+    {
+        "frame":  320,
+        "filename":  "F1C1-1465936982433.jpeg",
+        "timestampMs":  1465936982433,
+        "timestampUtc":  "2016-06-14T20:43:02.4330000Z"
+    },
+    {
+        "frame":  321,
+        "filename":  "F1C1-1465936982467.jpeg",
+        "timestampMs":  1465936982467,
+        "timestampUtc":  "2016-06-14T20:43:02.4670000Z"
+    },
+    {
+        "frame":  322,
+        "filename":  "F1C1-1465936982497.jpeg",
+        "timestampMs":  1465936982497,
+        "timestampUtc":  "2016-06-14T20:43:02.4970000Z"
+    },
+    {
+        "frame":  323,
+        "filename":  "F1C1-1465936982533.jpeg",
+        "timestampMs":  1465936982533,
+        "timestampUtc":  "2016-06-14T20:43:02.5330000Z"
+    },
+    {
+        "frame":  324,
+        "filename":  "F1C1-1465936982566.jpeg",
+        "timestampMs":  1465936982566,
+        "timestampUtc":  "2016-06-14T20:43:02.5660000Z"
+    },
+    {
+        "frame":  325,
+        "filename":  "F1C1-1465936982599.jpeg",
+        "timestampMs":  1465936982599,
+        "timestampUtc":  "2016-06-14T20:43:02.5990000Z"
+    },
+    {
+        "frame":  326,
+        "filename":  "F1C1-1465936982631.jpeg",
+        "timestampMs":  1465936982631,
+        "timestampUtc":  "2016-06-14T20:43:02.6310000Z"
+    },
+    {
+        "frame":  327,
+        "filename":  "F1C1-1465936982664.jpeg",
+        "timestampMs":  1465936982664,
+        "timestampUtc":  "2016-06-14T20:43:02.6640000Z"
+    },
+    {
+        "frame":  328,
+        "filename":  "F1C1-1465936982697.jpeg",
+        "timestampMs":  1465936982697,
+        "timestampUtc":  "2016-06-14T20:43:02.6970000Z"
+    },
+    {
+        "frame":  329,
+        "filename":  "F1C1-1465936982733.jpeg",
+        "timestampMs":  1465936982733,
+        "timestampUtc":  "2016-06-14T20:43:02.7330000Z"
+    },
+    {
+        "frame":  330,
+        "filename":  "F1C1-1465936982766.jpeg",
+        "timestampMs":  1465936982766,
+        "timestampUtc":  "2016-06-14T20:43:02.7660000Z"
+    },
+    {
+        "frame":  331,
+        "filename":  "F1C1-1465936982797.jpeg",
+        "timestampMs":  1465936982797,
+        "timestampUtc":  "2016-06-14T20:43:02.7970000Z"
+    },
+    {
+        "frame":  332,
+        "filename":  "F1C1-1465936982831.jpeg",
+        "timestampMs":  1465936982831,
+        "timestampUtc":  "2016-06-14T20:43:02.8310000Z"
+    },
+    {
+        "frame":  333,
+        "filename":  "F1C1-1465936982867.jpeg",
+        "timestampMs":  1465936982867,
+        "timestampUtc":  "2016-06-14T20:43:02.8670000Z"
+    },
+    {
+        "frame":  334,
+        "filename":  "F1C1-1465936982901.jpeg",
+        "timestampMs":  1465936982901,
+        "timestampUtc":  "2016-06-14T20:43:02.9010000Z"
+    },
+    {
+        "frame":  335,
+        "filename":  "F1C1-1465936982933.jpeg",
+        "timestampMs":  1465936982933,
+        "timestampUtc":  "2016-06-14T20:43:02.9330000Z"
+    },
+    {
+        "frame":  336,
+        "filename":  "F1C1-1465936982966.jpeg",
+        "timestampMs":  1465936982966,
+        "timestampUtc":  "2016-06-14T20:43:02.9660000Z"
+    },
+    {
+        "frame":  337,
+        "filename":  "F1C1-1465936982997.jpeg",
+        "timestampMs":  1465936982997,
+        "timestampUtc":  "2016-06-14T20:43:02.9970000Z"
+    },
+    {
+        "frame":  338,
+        "filename":  "F1C1-1465936983031.jpeg",
+        "timestampMs":  1465936983031,
+        "timestampUtc":  "2016-06-14T20:43:03.0310000Z"
+    },
+    {
+        "frame":  339,
+        "filename":  "F1C1-1465936983064.jpeg",
+        "timestampMs":  1465936983064,
+        "timestampUtc":  "2016-06-14T20:43:03.0640000Z"
+    },
+    {
+        "frame":  340,
+        "filename":  "F1C1-1465936983099.jpeg",
+        "timestampMs":  1465936983099,
+        "timestampUtc":  "2016-06-14T20:43:03.0990000Z"
+    },
+    {
+        "frame":  341,
+        "filename":  "F1C1-1465936983133.jpeg",
+        "timestampMs":  1465936983133,
+        "timestampUtc":  "2016-06-14T20:43:03.1330000Z"
+    },
+    {
+        "frame":  342,
+        "filename":  "F1C1-1465936983166.jpeg",
+        "timestampMs":  1465936983166,
+        "timestampUtc":  "2016-06-14T20:43:03.1660000Z"
+    },
+    {
+        "frame":  343,
+        "filename":  "F1C1-1465936983198.jpeg",
+        "timestampMs":  1465936983198,
+        "timestampUtc":  "2016-06-14T20:43:03.1980000Z"
+    },
+    {
+        "frame":  344,
+        "filename":  "F1C1-1465936983231.jpeg",
+        "timestampMs":  1465936983231,
+        "timestampUtc":  "2016-06-14T20:43:03.2310000Z"
+    },
+    {
+        "frame":  345,
+        "filename":  "F1C1-1465936983264.jpeg",
+        "timestampMs":  1465936983264,
+        "timestampUtc":  "2016-06-14T20:43:03.2640000Z"
+    },
+    {
+        "frame":  346,
+        "filename":  "F1C1-1465936983299.jpeg",
+        "timestampMs":  1465936983299,
+        "timestampUtc":  "2016-06-14T20:43:03.2990000Z"
+    },
+    {
+        "frame":  347,
+        "filename":  "F1C1-1465936983333.jpeg",
+        "timestampMs":  1465936983333,
+        "timestampUtc":  "2016-06-14T20:43:03.3330000Z"
+    },
+    {
+        "frame":  348,
+        "filename":  "F1C1-1465936983368.jpeg",
+        "timestampMs":  1465936983368,
+        "timestampUtc":  "2016-06-14T20:43:03.3680000Z"
+    },
+    {
+        "frame":  349,
+        "filename":  "F1C1-1465936983433.jpeg",
+        "timestampMs":  1465936983433,
+        "timestampUtc":  "2016-06-14T20:43:03.4330000Z"
+    },
+    {
+        "frame":  350,
+        "filename":  "F1C1-1465936983468.jpeg",
+        "timestampMs":  1465936983468,
+        "timestampUtc":  "2016-06-14T20:43:03.4680000Z"
+    },
+    {
+        "frame":  351,
+        "filename":  "F1C1-1465936983501.jpeg",
+        "timestampMs":  1465936983501,
+        "timestampUtc":  "2016-06-14T20:43:03.5010000Z"
+    },
+    {
+        "frame":  352,
+        "filename":  "F1C1-1465936983531.jpeg",
+        "timestampMs":  1465936983531,
+        "timestampUtc":  "2016-06-14T20:43:03.5310000Z"
+    },
+    {
+        "frame":  353,
+        "filename":  "F1C1-1465936983564.jpeg",
+        "timestampMs":  1465936983564,
+        "timestampUtc":  "2016-06-14T20:43:03.5640000Z"
+    },
+    {
+        "frame":  354,
+        "filename":  "F1C1-1465936983599.jpeg",
+        "timestampMs":  1465936983599,
+        "timestampUtc":  "2016-06-14T20:43:03.5990000Z"
+    },
+    {
+        "frame":  355,
+        "filename":  "F1C1-1465936983664.jpeg",
+        "timestampMs":  1465936983664,
+        "timestampUtc":  "2016-06-14T20:43:03.6640000Z"
+    },
+    {
+        "frame":  356,
+        "filename":  "F1C1-1465936983699.jpeg",
+        "timestampMs":  1465936983699,
+        "timestampUtc":  "2016-06-14T20:43:03.6990000Z"
+    },
+    {
+        "frame":  357,
+        "filename":  "F1C1-1465936983764.jpeg",
+        "timestampMs":  1465936983764,
+        "timestampUtc":  "2016-06-14T20:43:03.7640000Z"
+    },
+    {
+        "frame":  358,
+        "filename":  "F1C1-1465936983806.jpeg",
+        "timestampMs":  1465936983806,
+        "timestampUtc":  "2016-06-14T20:43:03.8060000Z"
+    },
+    {
+        "frame":  359,
+        "filename":  "F1C1-1465936983831.jpeg",
+        "timestampMs":  1465936983831,
+        "timestampUtc":  "2016-06-14T20:43:03.8310000Z"
+    },
+    {
+        "frame":  360,
+        "filename":  "F1C1-1465936983866.jpeg",
+        "timestampMs":  1465936983866,
+        "timestampUtc":  "2016-06-14T20:43:03.8660000Z"
+    },
+    {
+        "frame":  361,
+        "filename":  "F1C1-1465936983899.jpeg",
+        "timestampMs":  1465936983899,
+        "timestampUtc":  "2016-06-14T20:43:03.8990000Z"
+    },
+    {
+        "frame":  362,
+        "filename":  "F1C1-1465936983933.jpeg",
+        "timestampMs":  1465936983933,
+        "timestampUtc":  "2016-06-14T20:43:03.9330000Z"
+    },
+    {
+        "frame":  363,
+        "filename":  "F1C1-1465936983968.jpeg",
+        "timestampMs":  1465936983968,
+        "timestampUtc":  "2016-06-14T20:43:03.9680000Z"
+    },
+    {
+        "frame":  364,
+        "filename":  "F1C1-1465936984031.jpeg",
+        "timestampMs":  1465936984031,
+        "timestampUtc":  "2016-06-14T20:43:04.0310000Z"
+    },
+    {
+        "frame":  365,
+        "filename":  "F1C1-1465936984068.jpeg",
+        "timestampMs":  1465936984068,
+        "timestampUtc":  "2016-06-14T20:43:04.0680000Z"
+    },
+    {
+        "frame":  366,
+        "filename":  "F1C1-1465936984098.jpeg",
+        "timestampMs":  1465936984098,
+        "timestampUtc":  "2016-06-14T20:43:04.0980000Z"
+    },
+    {
+        "frame":  367,
+        "filename":  "F1C1-1465936984131.jpeg",
+        "timestampMs":  1465936984131,
+        "timestampUtc":  "2016-06-14T20:43:04.1310000Z"
+    },
+    {
+        "frame":  368,
+        "filename":  "F1C1-1465936984168.jpeg",
+        "timestampMs":  1465936984168,
+        "timestampUtc":  "2016-06-14T20:43:04.1680000Z"
+    },
+    {
+        "frame":  369,
+        "filename":  "F1C1-1465936984199.jpeg",
+        "timestampMs":  1465936984199,
+        "timestampUtc":  "2016-06-14T20:43:04.1990000Z"
+    },
+    {
+        "frame":  370,
+        "filename":  "F1C1-1465936984266.jpeg",
+        "timestampMs":  1465936984266,
+        "timestampUtc":  "2016-06-14T20:43:04.2660000Z"
+    },
+    {
+        "frame":  371,
+        "filename":  "F1C1-1465936984299.jpeg",
+        "timestampMs":  1465936984299,
+        "timestampUtc":  "2016-06-14T20:43:04.2990000Z"
+    },
+    {
+        "frame":  372,
+        "filename":  "F1C1-1465936984331.jpeg",
+        "timestampMs":  1465936984331,
+        "timestampUtc":  "2016-06-14T20:43:04.3310000Z"
+    },
+    {
+        "frame":  373,
+        "filename":  "F1C1-1465936984364.jpeg",
+        "timestampMs":  1465936984364,
+        "timestampUtc":  "2016-06-14T20:43:04.3640000Z"
+    },
+    {
+        "frame":  374,
+        "filename":  "F1C1-1465936984398.jpeg",
+        "timestampMs":  1465936984398,
+        "timestampUtc":  "2016-06-14T20:43:04.3980000Z"
+    },
+    {
+        "frame":  375,
+        "filename":  "F1C1-1465936984431.jpeg",
+        "timestampMs":  1465936984431,
+        "timestampUtc":  "2016-06-14T20:43:04.4310000Z"
+    },
+    {
+        "frame":  376,
+        "filename":  "F1C1-1465936984466.jpeg",
+        "timestampMs":  1465936984466,
+        "timestampUtc":  "2016-06-14T20:43:04.4660000Z"
+    },
+    {
+        "frame":  377,
+        "filename":  "F1C1-1465936984499.jpeg",
+        "timestampMs":  1465936984499,
+        "timestampUtc":  "2016-06-14T20:43:04.4990000Z"
+    },
+    {
+        "frame":  378,
+        "filename":  "F1C1-1465936984531.jpeg",
+        "timestampMs":  1465936984531,
+        "timestampUtc":  "2016-06-14T20:43:04.5310000Z"
+    },
+    {
+        "frame":  379,
+        "filename":  "F1C1-1465936984564.jpeg",
+        "timestampMs":  1465936984564,
+        "timestampUtc":  "2016-06-14T20:43:04.5640000Z"
+    },
+    {
+        "frame":  380,
+        "filename":  "F1C1-1465936984597.jpeg",
+        "timestampMs":  1465936984597,
+        "timestampUtc":  "2016-06-14T20:43:04.5970000Z"
+    },
+    {
+        "frame":  381,
+        "filename":  "F1C1-1465936984633.jpeg",
+        "timestampMs":  1465936984633,
+        "timestampUtc":  "2016-06-14T20:43:04.6330000Z"
+    },
+    {
+        "frame":  382,
+        "filename":  "F1C1-1465936984667.jpeg",
+        "timestampMs":  1465936984667,
+        "timestampUtc":  "2016-06-14T20:43:04.6670000Z"
+    },
+    {
+        "frame":  383,
+        "filename":  "F1C1-1465936984701.jpeg",
+        "timestampMs":  1465936984701,
+        "timestampUtc":  "2016-06-14T20:43:04.7010000Z"
+    },
+    {
+        "frame":  384,
+        "filename":  "F1C1-1465936984733.jpeg",
+        "timestampMs":  1465936984733,
+        "timestampUtc":  "2016-06-14T20:43:04.7330000Z"
+    },
+    {
+        "frame":  385,
+        "filename":  "F1C1-1465936984766.jpeg",
+        "timestampMs":  1465936984766,
+        "timestampUtc":  "2016-06-14T20:43:04.7660000Z"
+    },
+    {
+        "frame":  386,
+        "filename":  "F1C1-1465936984797.jpeg",
+        "timestampMs":  1465936984797,
+        "timestampUtc":  "2016-06-14T20:43:04.7970000Z"
+    },
+    {
+        "frame":  387,
+        "filename":  "F1C1-1465936984831.jpeg",
+        "timestampMs":  1465936984831,
+        "timestampUtc":  "2016-06-14T20:43:04.8310000Z"
+    },
+    {
+        "frame":  388,
+        "filename":  "F1C1-1465936984866.jpeg",
+        "timestampMs":  1465936984866,
+        "timestampUtc":  "2016-06-14T20:43:04.8660000Z"
+    },
+    {
+        "frame":  389,
+        "filename":  "F1C1-1465936984898.jpeg",
+        "timestampMs":  1465936984898,
+        "timestampUtc":  "2016-06-14T20:43:04.8980000Z"
+    },
+    {
+        "frame":  390,
+        "filename":  "F1C1-1465936984964.jpeg",
+        "timestampMs":  1465936984964,
+        "timestampUtc":  "2016-06-14T20:43:04.9640000Z"
+    },
+    {
+        "frame":  391,
+        "filename":  "F1C1-1465936984997.jpeg",
+        "timestampMs":  1465936984997,
+        "timestampUtc":  "2016-06-14T20:43:04.9970000Z"
+    },
+    {
+        "frame":  392,
+        "filename":  "F1C1-1465936985033.jpeg",
+        "timestampMs":  1465936985033,
+        "timestampUtc":  "2016-06-14T20:43:05.0330000Z"
+    },
+    {
+        "frame":  393,
+        "filename":  "F1C1-1465936985066.jpeg",
+        "timestampMs":  1465936985066,
+        "timestampUtc":  "2016-06-14T20:43:05.0660000Z"
+    },
+    {
+        "frame":  394,
+        "filename":  "F1C1-1465936985099.jpeg",
+        "timestampMs":  1465936985099,
+        "timestampUtc":  "2016-06-14T20:43:05.0990000Z"
+    },
+    {
+        "frame":  395,
+        "filename":  "F1C1-1465936985133.jpeg",
+        "timestampMs":  1465936985133,
+        "timestampUtc":  "2016-06-14T20:43:05.1330000Z"
+    },
+    {
+        "frame":  396,
+        "filename":  "F1C1-1465936985164.jpeg",
+        "timestampMs":  1465936985164,
+        "timestampUtc":  "2016-06-14T20:43:05.1640000Z"
+    },
+    {
+        "frame":  397,
+        "filename":  "F1C1-1465936985201.jpeg",
+        "timestampMs":  1465936985201,
+        "timestampUtc":  "2016-06-14T20:43:05.2010000Z"
+    },
+    {
+        "frame":  398,
+        "filename":  "F1C1-1465936985231.jpeg",
+        "timestampMs":  1465936985231,
+        "timestampUtc":  "2016-06-14T20:43:05.2310000Z"
+    },
+    {
+        "frame":  399,
+        "filename":  "F1C1-1465936985264.jpeg",
+        "timestampMs":  1465936985264,
+        "timestampUtc":  "2016-06-14T20:43:05.2640000Z"
+    },
+    {
+        "frame":  400,
+        "filename":  "F1C1-1465936985302.jpeg",
+        "timestampMs":  1465936985302,
+        "timestampUtc":  "2016-06-14T20:43:05.3020000Z"
+    },
+    {
+        "frame":  401,
+        "filename":  "F1C1-1465936985331.jpeg",
+        "timestampMs":  1465936985331,
+        "timestampUtc":  "2016-06-14T20:43:05.3310000Z"
+    },
+    {
+        "frame":  402,
+        "filename":  "F1C1-1465936985368.jpeg",
+        "timestampMs":  1465936985368,
+        "timestampUtc":  "2016-06-14T20:43:05.3680000Z"
+    },
+    {
+        "frame":  403,
+        "filename":  "F1C1-1465936985397.jpeg",
+        "timestampMs":  1465936985397,
+        "timestampUtc":  "2016-06-14T20:43:05.3970000Z"
+    },
+    {
+        "frame":  404,
+        "filename":  "F1C1-1465936985431.jpeg",
+        "timestampMs":  1465936985431,
+        "timestampUtc":  "2016-06-14T20:43:05.4310000Z"
+    },
+    {
+        "frame":  405,
+        "filename":  "F1C1-1465936985464.jpeg",
+        "timestampMs":  1465936985464,
+        "timestampUtc":  "2016-06-14T20:43:05.4640000Z"
+    },
+    {
+        "frame":  406,
+        "filename":  "F1C1-1465936985501.jpeg",
+        "timestampMs":  1465936985501,
+        "timestampUtc":  "2016-06-14T20:43:05.5010000Z"
+    },
+    {
+        "frame":  407,
+        "filename":  "F1C1-1465936985533.jpeg",
+        "timestampMs":  1465936985533,
+        "timestampUtc":  "2016-06-14T20:43:05.5330000Z"
+    },
+    {
+        "frame":  408,
+        "filename":  "F1C1-1465936985566.jpeg",
+        "timestampMs":  1465936985566,
+        "timestampUtc":  "2016-06-14T20:43:05.5660000Z"
+    },
+    {
+        "frame":  409,
+        "filename":  "F1C1-1465936985600.jpeg",
+        "timestampMs":  1465936985600,
+        "timestampUtc":  "2016-06-14T20:43:05.6000000Z"
+    },
+    {
+        "frame":  410,
+        "filename":  "F1C1-1465936985631.jpeg",
+        "timestampMs":  1465936985631,
+        "timestampUtc":  "2016-06-14T20:43:05.6310000Z"
+    },
+    {
+        "frame":  411,
+        "filename":  "F1C1-1465936985664.jpeg",
+        "timestampMs":  1465936985664,
+        "timestampUtc":  "2016-06-14T20:43:05.6640000Z"
+    },
+    {
+        "frame":  412,
+        "filename":  "F1C1-1465936985733.jpeg",
+        "timestampMs":  1465936985733,
+        "timestampUtc":  "2016-06-14T20:43:05.7330000Z"
+    },
+    {
+        "frame":  413,
+        "filename":  "F1C1-1465936985764.jpeg",
+        "timestampMs":  1465936985764,
+        "timestampUtc":  "2016-06-14T20:43:05.7640000Z"
+    },
+    {
+        "frame":  414,
+        "filename":  "F1C1-1465936985799.jpeg",
+        "timestampMs":  1465936985799,
+        "timestampUtc":  "2016-06-14T20:43:05.7990000Z"
+    },
+    {
+        "frame":  415,
+        "filename":  "F1C1-1465936985833.jpeg",
+        "timestampMs":  1465936985833,
+        "timestampUtc":  "2016-06-14T20:43:05.8330000Z"
+    },
+    {
+        "frame":  416,
+        "filename":  "F1C1-1465936985866.jpeg",
+        "timestampMs":  1465936985866,
+        "timestampUtc":  "2016-06-14T20:43:05.8660000Z"
+    },
+    {
+        "frame":  417,
+        "filename":  "F1C1-1465936985897.jpeg",
+        "timestampMs":  1465936985897,
+        "timestampUtc":  "2016-06-14T20:43:05.8970000Z"
+    },
+    {
+        "frame":  418,
+        "filename":  "F1C1-1465936985931.jpeg",
+        "timestampMs":  1465936985931,
+        "timestampUtc":  "2016-06-14T20:43:05.9310000Z"
+    },
+    {
+        "frame":  419,
+        "filename":  "F1C1-1465936985966.jpeg",
+        "timestampMs":  1465936985966,
+        "timestampUtc":  "2016-06-14T20:43:05.9660000Z"
+    },
+    {
+        "frame":  420,
+        "filename":  "F1C1-1465936986001.jpeg",
+        "timestampMs":  1465936986001,
+        "timestampUtc":  "2016-06-14T20:43:06.0010000Z"
+    },
+    {
+        "frame":  421,
+        "filename":  "F1C1-1465936986031.jpeg",
+        "timestampMs":  1465936986031,
+        "timestampUtc":  "2016-06-14T20:43:06.0310000Z"
+    },
+    {
+        "frame":  422,
+        "filename":  "F1C1-1465936986066.jpeg",
+        "timestampMs":  1465936986066,
+        "timestampUtc":  "2016-06-14T20:43:06.0660000Z"
+    },
+    {
+        "frame":  423,
+        "filename":  "F1C1-1465936986097.jpeg",
+        "timestampMs":  1465936986097,
+        "timestampUtc":  "2016-06-14T20:43:06.0970000Z"
+    },
+    {
+        "frame":  424,
+        "filename":  "F1C1-1465936986133.jpeg",
+        "timestampMs":  1465936986133,
+        "timestampUtc":  "2016-06-14T20:43:06.1330000Z"
+    },
+    {
+        "frame":  425,
+        "filename":  "F1C1-1465936986164.jpeg",
+        "timestampMs":  1465936986164,
+        "timestampUtc":  "2016-06-14T20:43:06.1640000Z"
+    },
+    {
+        "frame":  426,
+        "filename":  "F1C1-1465936986201.jpeg",
+        "timestampMs":  1465936986201,
+        "timestampUtc":  "2016-06-14T20:43:06.2010000Z"
+    },
+    {
+        "frame":  427,
+        "filename":  "F1C1-1465936986231.jpeg",
+        "timestampMs":  1465936986231,
+        "timestampUtc":  "2016-06-14T20:43:06.2310000Z"
+    },
+    {
+        "frame":  428,
+        "filename":  "F1C1-1465936986266.jpeg",
+        "timestampMs":  1465936986266,
+        "timestampUtc":  "2016-06-14T20:43:06.2660000Z"
+    },
+    {
+        "frame":  429,
+        "filename":  "F1C1-1465936986299.jpeg",
+        "timestampMs":  1465936986299,
+        "timestampUtc":  "2016-06-14T20:43:06.2990000Z"
+    },
+    {
+        "frame":  430,
+        "filename":  "F1C1-1465936986333.jpeg",
+        "timestampMs":  1465936986333,
+        "timestampUtc":  "2016-06-14T20:43:06.3330000Z"
+    },
+    {
+        "frame":  431,
+        "filename":  "F1C1-1465936986364.jpeg",
+        "timestampMs":  1465936986364,
+        "timestampUtc":  "2016-06-14T20:43:06.3640000Z"
+    },
+    {
+        "frame":  432,
+        "filename":  "F1C1-1465936986397.jpeg",
+        "timestampMs":  1465936986397,
+        "timestampUtc":  "2016-06-14T20:43:06.3970000Z"
+    },
+    {
+        "frame":  433,
+        "filename":  "F1C1-1465936986431.jpeg",
+        "timestampMs":  1465936986431,
+        "timestampUtc":  "2016-06-14T20:43:06.4310000Z"
+    },
+    {
+        "frame":  434,
+        "filename":  "F1C1-1465936986466.jpeg",
+        "timestampMs":  1465936986466,
+        "timestampUtc":  "2016-06-14T20:43:06.4660000Z"
+    },
+    {
+        "frame":  435,
+        "filename":  "F1C1-1465936986500.jpeg",
+        "timestampMs":  1465936986500,
+        "timestampUtc":  "2016-06-14T20:43:06.5000000Z"
+    },
+    {
+        "frame":  436,
+        "filename":  "F1C1-1465936986568.jpeg",
+        "timestampMs":  1465936986568,
+        "timestampUtc":  "2016-06-14T20:43:06.5680000Z"
+    },
+    {
+        "frame":  437,
+        "filename":  "F1C1-1465936986599.jpeg",
+        "timestampMs":  1465936986599,
+        "timestampUtc":  "2016-06-14T20:43:06.5990000Z"
+    },
+    {
+        "frame":  438,
+        "filename":  "F1C1-1465936986634.jpeg",
+        "timestampMs":  1465936986634,
+        "timestampUtc":  "2016-06-14T20:43:06.6340000Z"
+    },
+    {
+        "frame":  439,
+        "filename":  "F1C1-1465936986666.jpeg",
+        "timestampMs":  1465936986666,
+        "timestampUtc":  "2016-06-14T20:43:06.6660000Z"
+    },
+    {
+        "frame":  440,
+        "filename":  "F1C1-1465936986764.jpeg",
+        "timestampMs":  1465936986764,
+        "timestampUtc":  "2016-06-14T20:43:06.7640000Z"
+    },
+    {
+        "frame":  441,
+        "filename":  "F1C1-1465936986801.jpeg",
+        "timestampMs":  1465936986801,
+        "timestampUtc":  "2016-06-14T20:43:06.8010000Z"
+    },
+    {
+        "frame":  442,
+        "filename":  "F1C1-1465936986835.jpeg",
+        "timestampMs":  1465936986835,
+        "timestampUtc":  "2016-06-14T20:43:06.8350000Z"
+    },
+    {
+        "frame":  443,
+        "filename":  "F1C1-1465936986867.jpeg",
+        "timestampMs":  1465936986867,
+        "timestampUtc":  "2016-06-14T20:43:06.8670000Z"
+    },
+    {
+        "frame":  444,
+        "filename":  "F1C1-1465936986897.jpeg",
+        "timestampMs":  1465936986897,
+        "timestampUtc":  "2016-06-14T20:43:06.8970000Z"
+    },
+    {
+        "frame":  445,
+        "filename":  "F1C1-1465936986934.jpeg",
+        "timestampMs":  1465936986934,
+        "timestampUtc":  "2016-06-14T20:43:06.9340000Z"
+    },
+    {
+        "frame":  446,
+        "filename":  "F1C1-1465936986966.jpeg",
+        "timestampMs":  1465936986966,
+        "timestampUtc":  "2016-06-14T20:43:06.9660000Z"
+    },
+    {
+        "frame":  447,
+        "filename":  "F1C1-1465936986999.jpeg",
+        "timestampMs":  1465936986999,
+        "timestampUtc":  "2016-06-14T20:43:06.9990000Z"
+    },
+    {
+        "frame":  448,
+        "filename":  "F1C1-1465936987031.jpeg",
+        "timestampMs":  1465936987031,
+        "timestampUtc":  "2016-06-14T20:43:07.0310000Z"
+    },
+    {
+        "frame":  449,
+        "filename":  "F1C1-1465936987066.jpeg",
+        "timestampMs":  1465936987066,
+        "timestampUtc":  "2016-06-14T20:43:07.0660000Z"
+    },
+    {
+        "frame":  450,
+        "filename":  "F1C1-1465936987097.jpeg",
+        "timestampMs":  1465936987097,
+        "timestampUtc":  "2016-06-14T20:43:07.0970000Z"
+    },
+    {
+        "frame":  451,
+        "filename":  "F1C1-1465936987131.jpeg",
+        "timestampMs":  1465936987131,
+        "timestampUtc":  "2016-06-14T20:43:07.1310000Z"
+    },
+    {
+        "frame":  452,
+        "filename":  "F1C1-1465936987164.jpeg",
+        "timestampMs":  1465936987164,
+        "timestampUtc":  "2016-06-14T20:43:07.1640000Z"
+    },
+    {
+        "frame":  453,
+        "filename":  "F1C1-1465936987199.jpeg",
+        "timestampMs":  1465936987199,
+        "timestampUtc":  "2016-06-14T20:43:07.1990000Z"
+    },
+    {
+        "frame":  454,
+        "filename":  "F1C1-1465936987234.jpeg",
+        "timestampMs":  1465936987234,
+        "timestampUtc":  "2016-06-14T20:43:07.2340000Z"
+    },
+    {
+        "frame":  455,
+        "filename":  "F1C1-1465936987267.jpeg",
+        "timestampMs":  1465936987267,
+        "timestampUtc":  "2016-06-14T20:43:07.2670000Z"
+    },
+    {
+        "frame":  456,
+        "filename":  "F1C1-1465936987301.jpeg",
+        "timestampMs":  1465936987301,
+        "timestampUtc":  "2016-06-14T20:43:07.3010000Z"
+    },
+    {
+        "frame":  457,
+        "filename":  "F1C1-1465936987334.jpeg",
+        "timestampMs":  1465936987334,
+        "timestampUtc":  "2016-06-14T20:43:07.3340000Z"
+    },
+    {
+        "frame":  458,
+        "filename":  "F1C1-1465936987364.jpeg",
+        "timestampMs":  1465936987364,
+        "timestampUtc":  "2016-06-14T20:43:07.3640000Z"
+    },
+    {
+        "frame":  459,
+        "filename":  "F1C1-1465936987399.jpeg",
+        "timestampMs":  1465936987399,
+        "timestampUtc":  "2016-06-14T20:43:07.3990000Z"
+    },
+    {
+        "frame":  460,
+        "filename":  "F1C1-1465936987433.jpeg",
+        "timestampMs":  1465936987433,
+        "timestampUtc":  "2016-06-14T20:43:07.4330000Z"
+    },
+    {
+        "frame":  461,
+        "filename":  "F1C1-1465936987467.jpeg",
+        "timestampMs":  1465936987467,
+        "timestampUtc":  "2016-06-14T20:43:07.4670000Z"
+    },
+    {
+        "frame":  462,
+        "filename":  "F1C1-1465936987497.jpeg",
+        "timestampMs":  1465936987497,
+        "timestampUtc":  "2016-06-14T20:43:07.4970000Z"
+    },
+    {
+        "frame":  463,
+        "filename":  "F1C1-1465936987531.jpeg",
+        "timestampMs":  1465936987531,
+        "timestampUtc":  "2016-06-14T20:43:07.5310000Z"
+    },
+    {
+        "frame":  464,
+        "filename":  "F1C1-1465936987564.jpeg",
+        "timestampMs":  1465936987564,
+        "timestampUtc":  "2016-06-14T20:43:07.5640000Z"
+    },
+    {
+        "frame":  465,
+        "filename":  "F1C1-1465936987599.jpeg",
+        "timestampMs":  1465936987599,
+        "timestampUtc":  "2016-06-14T20:43:07.5990000Z"
+    },
+    {
+        "frame":  466,
+        "filename":  "F1C1-1465936987633.jpeg",
+        "timestampMs":  1465936987633,
+        "timestampUtc":  "2016-06-14T20:43:07.6330000Z"
+    },
+    {
+        "frame":  467,
+        "filename":  "F1C1-1465936987668.jpeg",
+        "timestampMs":  1465936987668,
+        "timestampUtc":  "2016-06-14T20:43:07.6680000Z"
+    },
+    {
+        "frame":  468,
+        "filename":  "F1C1-1465936987697.jpeg",
+        "timestampMs":  1465936987697,
+        "timestampUtc":  "2016-06-14T20:43:07.6970000Z"
+    },
+    {
+        "frame":  469,
+        "filename":  "F1C1-1465936987733.jpeg",
+        "timestampMs":  1465936987733,
+        "timestampUtc":  "2016-06-14T20:43:07.7330000Z"
+    },
+    {
+        "frame":  470,
+        "filename":  "F1C1-1465936987767.jpeg",
+        "timestampMs":  1465936987767,
+        "timestampUtc":  "2016-06-14T20:43:07.7670000Z"
+    },
+    {
+        "frame":  471,
+        "filename":  "F1C1-1465936987797.jpeg",
+        "timestampMs":  1465936987797,
+        "timestampUtc":  "2016-06-14T20:43:07.7970000Z"
+    },
+    {
+        "frame":  472,
+        "filename":  "F1C1-1465936987831.jpeg",
+        "timestampMs":  1465936987831,
+        "timestampUtc":  "2016-06-14T20:43:07.8310000Z"
+    },
+    {
+        "frame":  473,
+        "filename":  "F1C1-1465936987866.jpeg",
+        "timestampMs":  1465936987866,
+        "timestampUtc":  "2016-06-14T20:43:07.8660000Z"
+    },
+    {
+        "frame":  474,
+        "filename":  "F1C1-1465936987897.jpeg",
+        "timestampMs":  1465936987897,
+        "timestampUtc":  "2016-06-14T20:43:07.8970000Z"
+    },
+    {
+        "frame":  475,
+        "filename":  "F1C1-1465936987934.jpeg",
+        "timestampMs":  1465936987934,
+        "timestampUtc":  "2016-06-14T20:43:07.9340000Z"
+    },
+    {
+        "frame":  476,
+        "filename":  "F1C1-1465936987964.jpeg",
+        "timestampMs":  1465936987964,
+        "timestampUtc":  "2016-06-14T20:43:07.9640000Z"
+    },
+    {
+        "frame":  477,
+        "filename":  "F1C1-1465936987999.jpeg",
+        "timestampMs":  1465936987999,
+        "timestampUtc":  "2016-06-14T20:43:07.9990000Z"
+    },
+    {
+        "frame":  478,
+        "filename":  "F1C1-1465936988064.jpeg",
+        "timestampMs":  1465936988064,
+        "timestampUtc":  "2016-06-14T20:43:08.0640000Z"
+    },
+    {
+        "frame":  479,
+        "filename":  "F1C1-1465936988097.jpeg",
+        "timestampMs":  1465936988097,
+        "timestampUtc":  "2016-06-14T20:43:08.0970000Z"
+    },
+    {
+        "frame":  480,
+        "filename":  "F1C1-1465936988133.jpeg",
+        "timestampMs":  1465936988133,
+        "timestampUtc":  "2016-06-14T20:43:08.1330000Z"
+    },
+    {
+        "frame":  481,
+        "filename":  "F1C1-1465936988164.jpeg",
+        "timestampMs":  1465936988164,
+        "timestampUtc":  "2016-06-14T20:43:08.1640000Z"
+    },
+    {
+        "frame":  482,
+        "filename":  "F1C1-1465936988264.jpeg",
+        "timestampMs":  1465936988264,
+        "timestampUtc":  "2016-06-14T20:43:08.2640000Z"
+    },
+    {
+        "frame":  483,
+        "filename":  "F1C1-1465936988301.jpeg",
+        "timestampMs":  1465936988301,
+        "timestampUtc":  "2016-06-14T20:43:08.3010000Z"
+    },
+    {
+        "frame":  484,
+        "filename":  "F1C1-1465936988333.jpeg",
+        "timestampMs":  1465936988333,
+        "timestampUtc":  "2016-06-14T20:43:08.3330000Z"
+    },
+    {
+        "frame":  485,
+        "filename":  "F1C1-1465936988368.jpeg",
+        "timestampMs":  1465936988368,
+        "timestampUtc":  "2016-06-14T20:43:08.3680000Z"
+    },
+    {
+        "frame":  486,
+        "filename":  "F1C1-1465936988401.jpeg",
+        "timestampMs":  1465936988401,
+        "timestampUtc":  "2016-06-14T20:43:08.4010000Z"
+    },
+    {
+        "frame":  487,
+        "filename":  "F1C1-1465936988431.jpeg",
+        "timestampMs":  1465936988431,
+        "timestampUtc":  "2016-06-14T20:43:08.4310000Z"
+    },
+    {
+        "frame":  488,
+        "filename":  "F1C1-1465936988464.jpeg",
+        "timestampMs":  1465936988464,
+        "timestampUtc":  "2016-06-14T20:43:08.4640000Z"
+    },
+    {
+        "frame":  489,
+        "filename":  "F1C1-1465936988497.jpeg",
+        "timestampMs":  1465936988497,
+        "timestampUtc":  "2016-06-14T20:43:08.4970000Z"
+    },
+    {
+        "frame":  490,
+        "filename":  "F1C1-1465936988564.jpeg",
+        "timestampMs":  1465936988564,
+        "timestampUtc":  "2016-06-14T20:43:08.5640000Z"
+    },
+    {
+        "frame":  491,
+        "filename":  "F1C1-1465936988599.jpeg",
+        "timestampMs":  1465936988599,
+        "timestampUtc":  "2016-06-14T20:43:08.5990000Z"
+    },
+    {
+        "frame":  492,
+        "filename":  "F1C1-1465936988633.jpeg",
+        "timestampMs":  1465936988633,
+        "timestampUtc":  "2016-06-14T20:43:08.6330000Z"
+    },
+    {
+        "frame":  493,
+        "filename":  "F1C1-1465936988664.jpeg",
+        "timestampMs":  1465936988664,
+        "timestampUtc":  "2016-06-14T20:43:08.6640000Z"
+    },
+    {
+        "frame":  494,
+        "filename":  "F1C1-1465936988701.jpeg",
+        "timestampMs":  1465936988701,
+        "timestampUtc":  "2016-06-14T20:43:08.7010000Z"
+    },
+    {
+        "frame":  495,
+        "filename":  "F1C1-1465936988731.jpeg",
+        "timestampMs":  1465936988731,
+        "timestampUtc":  "2016-06-14T20:43:08.7310000Z"
+    },
+    {
+        "frame":  496,
+        "filename":  "F1C1-1465936988766.jpeg",
+        "timestampMs":  1465936988766,
+        "timestampUtc":  "2016-06-14T20:43:08.7660000Z"
+    },
+    {
+        "frame":  497,
+        "filename":  "F1C1-1465936988801.jpeg",
+        "timestampMs":  1465936988801,
+        "timestampUtc":  "2016-06-14T20:43:08.8010000Z"
+    },
+    {
+        "frame":  498,
+        "filename":  "F1C1-1465936988830.jpeg",
+        "timestampMs":  1465936988830,
+        "timestampUtc":  "2016-06-14T20:43:08.8300000Z"
+    },
+    {
+        "frame":  499,
+        "filename":  "F1C1-1465936988867.jpeg",
+        "timestampMs":  1465936988867,
+        "timestampUtc":  "2016-06-14T20:43:08.8670000Z"
+    },
+    {
+        "frame":  500,
+        "filename":  "F1C1-1465936988897.jpeg",
+        "timestampMs":  1465936988897,
+        "timestampUtc":  "2016-06-14T20:43:08.8970000Z"
+    },
+    {
+        "frame":  501,
+        "filename":  "F1C1-1465936988933.jpeg",
+        "timestampMs":  1465936988933,
+        "timestampUtc":  "2016-06-14T20:43:08.9330000Z"
+    },
+    {
+        "frame":  502,
+        "filename":  "F1C1-1465936988964.jpeg",
+        "timestampMs":  1465936988964,
+        "timestampUtc":  "2016-06-14T20:43:08.9640000Z"
+    },
+    {
+        "frame":  503,
+        "filename":  "F1C1-1465936988999.jpeg",
+        "timestampMs":  1465936988999,
+        "timestampUtc":  "2016-06-14T20:43:08.9990000Z"
+    },
+    {
+        "frame":  504,
+        "filename":  "F1C1-1465936989030.jpeg",
+        "timestampMs":  1465936989030,
+        "timestampUtc":  "2016-06-14T20:43:09.0300000Z"
+    },
+    {
+        "frame":  505,
+        "filename":  "F1C1-1465936989067.jpeg",
+        "timestampMs":  1465936989067,
+        "timestampUtc":  "2016-06-14T20:43:09.0670000Z"
+    },
+    {
+        "frame":  506,
+        "filename":  "F1C1-1465936989101.jpeg",
+        "timestampMs":  1465936989101,
+        "timestampUtc":  "2016-06-14T20:43:09.1010000Z"
+    },
+    {
+        "frame":  507,
+        "filename":  "F1C1-1465936989131.jpeg",
+        "timestampMs":  1465936989131,
+        "timestampUtc":  "2016-06-14T20:43:09.1310000Z"
+    },
+    {
+        "frame":  508,
+        "filename":  "F1C1-1465936989164.jpeg",
+        "timestampMs":  1465936989164,
+        "timestampUtc":  "2016-06-14T20:43:09.1640000Z"
+    },
+    {
+        "frame":  509,
+        "filename":  "F1C1-1465936989199.jpeg",
+        "timestampMs":  1465936989199,
+        "timestampUtc":  "2016-06-14T20:43:09.1990000Z"
+    },
+    {
+        "frame":  510,
+        "filename":  "F1C1-1465936989232.jpeg",
+        "timestampMs":  1465936989232,
+        "timestampUtc":  "2016-06-14T20:43:09.2320000Z"
+    },
+    {
+        "frame":  511,
+        "filename":  "F1C1-1465936989267.jpeg",
+        "timestampMs":  1465936989267,
+        "timestampUtc":  "2016-06-14T20:43:09.2670000Z"
+    },
+    {
+        "frame":  512,
+        "filename":  "F1C1-1465936989297.jpeg",
+        "timestampMs":  1465936989297,
+        "timestampUtc":  "2016-06-14T20:43:09.2970000Z"
+    },
+    {
+        "frame":  513,
+        "filename":  "F1C1-1465936989364.jpeg",
+        "timestampMs":  1465936989364,
+        "timestampUtc":  "2016-06-14T20:43:09.3640000Z"
+    },
+    {
+        "frame":  514,
+        "filename":  "F1C1-1465936989401.jpeg",
+        "timestampMs":  1465936989401,
+        "timestampUtc":  "2016-06-14T20:43:09.4010000Z"
+    },
+    {
+        "frame":  515,
+        "filename":  "F1C1-1465936989430.jpeg",
+        "timestampMs":  1465936989430,
+        "timestampUtc":  "2016-06-14T20:43:09.4300000Z"
+    },
+    {
+        "frame":  516,
+        "filename":  "F1C1-1465936989468.jpeg",
+        "timestampMs":  1465936989468,
+        "timestampUtc":  "2016-06-14T20:43:09.4680000Z"
+    },
+    {
+        "frame":  517,
+        "filename":  "F1C1-1465936989499.jpeg",
+        "timestampMs":  1465936989499,
+        "timestampUtc":  "2016-06-14T20:43:09.4990000Z"
+    },
+    {
+        "frame":  518,
+        "filename":  "F1C1-1465936989533.jpeg",
+        "timestampMs":  1465936989533,
+        "timestampUtc":  "2016-06-14T20:43:09.5330000Z"
+    },
+    {
+        "frame":  519,
+        "filename":  "F1C1-1465936989564.jpeg",
+        "timestampMs":  1465936989564,
+        "timestampUtc":  "2016-06-14T20:43:09.5640000Z"
+    },
+    {
+        "frame":  520,
+        "filename":  "F1C1-1465936989601.jpeg",
+        "timestampMs":  1465936989601,
+        "timestampUtc":  "2016-06-14T20:43:09.6010000Z"
+    },
+    {
+        "frame":  521,
+        "filename":  "F1C1-1465936989633.jpeg",
+        "timestampMs":  1465936989633,
+        "timestampUtc":  "2016-06-14T20:43:09.6330000Z"
+    },
+    {
+        "frame":  522,
+        "filename":  "F1C1-1465936989666.jpeg",
+        "timestampMs":  1465936989666,
+        "timestampUtc":  "2016-06-14T20:43:09.6660000Z"
+    },
+    {
+        "frame":  523,
+        "filename":  "F1C1-1465936989699.jpeg",
+        "timestampMs":  1465936989699,
+        "timestampUtc":  "2016-06-14T20:43:09.6990000Z"
+    },
+    {
+        "frame":  524,
+        "filename":  "F1C1-1465936989732.jpeg",
+        "timestampMs":  1465936989732,
+        "timestampUtc":  "2016-06-14T20:43:09.7320000Z"
+    },
+    {
+        "frame":  525,
+        "filename":  "F1C1-1465936989767.jpeg",
+        "timestampMs":  1465936989767,
+        "timestampUtc":  "2016-06-14T20:43:09.7670000Z"
+    },
+    {
+        "frame":  526,
+        "filename":  "F1C1-1465936989801.jpeg",
+        "timestampMs":  1465936989801,
+        "timestampUtc":  "2016-06-14T20:43:09.8010000Z"
+    },
+    {
+        "frame":  527,
+        "filename":  "F1C1-1465936989830.jpeg",
+        "timestampMs":  1465936989830,
+        "timestampUtc":  "2016-06-14T20:43:09.8300000Z"
+    },
+    {
+        "frame":  528,
+        "filename":  "F1C1-1465936989866.jpeg",
+        "timestampMs":  1465936989866,
+        "timestampUtc":  "2016-06-14T20:43:09.8660000Z"
+    },
+    {
+        "frame":  529,
+        "filename":  "F1C1-1465936989897.jpeg",
+        "timestampMs":  1465936989897,
+        "timestampUtc":  "2016-06-14T20:43:09.8970000Z"
+    },
+    {
+        "frame":  530,
+        "filename":  "F1C1-1465936989933.jpeg",
+        "timestampMs":  1465936989933,
+        "timestampUtc":  "2016-06-14T20:43:09.9330000Z"
+    },
+    {
+        "frame":  531,
+        "filename":  "F1C1-1465936989997.jpeg",
+        "timestampMs":  1465936989997,
+        "timestampUtc":  "2016-06-14T20:43:09.9970000Z"
+    },
+    {
+        "frame":  532,
+        "filename":  "F1C1-1465936990030.jpeg",
+        "timestampMs":  1465936990030,
+        "timestampUtc":  "2016-06-14T20:43:10.0300000Z"
+    },
+    {
+        "frame":  533,
+        "filename":  "F1C1-1465936990064.jpeg",
+        "timestampMs":  1465936990064,
+        "timestampUtc":  "2016-06-14T20:43:10.0640000Z"
+    },
+    {
+        "frame":  534,
+        "filename":  "F1C1-1465936990097.jpeg",
+        "timestampMs":  1465936990097,
+        "timestampUtc":  "2016-06-14T20:43:10.0970000Z"
+    },
+    {
+        "frame":  535,
+        "filename":  "F1C1-1465936990133.jpeg",
+        "timestampMs":  1465936990133,
+        "timestampUtc":  "2016-06-14T20:43:10.1330000Z"
+    },
+    {
+        "frame":  536,
+        "filename":  "F1C1-1465936990164.jpeg",
+        "timestampMs":  1465936990164,
+        "timestampUtc":  "2016-06-14T20:43:10.1640000Z"
+    },
+    {
+        "frame":  537,
+        "filename":  "F1C1-1465936990199.jpeg",
+        "timestampMs":  1465936990199,
+        "timestampUtc":  "2016-06-14T20:43:10.1990000Z"
+    },
+    {
+        "frame":  538,
+        "filename":  "F1C1-1465936990234.jpeg",
+        "timestampMs":  1465936990234,
+        "timestampUtc":  "2016-06-14T20:43:10.2340000Z"
+    },
+    {
+        "frame":  539,
+        "filename":  "F1C1-1465936990266.jpeg",
+        "timestampMs":  1465936990266,
+        "timestampUtc":  "2016-06-14T20:43:10.2660000Z"
+    },
+    {
+        "frame":  540,
+        "filename":  "F1C1-1465936990299.jpeg",
+        "timestampMs":  1465936990299,
+        "timestampUtc":  "2016-06-14T20:43:10.2990000Z"
+    },
+    {
+        "frame":  541,
+        "filename":  "F1C1-1465936990330.jpeg",
+        "timestampMs":  1465936990330,
+        "timestampUtc":  "2016-06-14T20:43:10.3300000Z"
+    },
+    {
+        "frame":  542,
+        "filename":  "F1C1-1465936990364.jpeg",
+        "timestampMs":  1465936990364,
+        "timestampUtc":  "2016-06-14T20:43:10.3640000Z"
+    },
+    {
+        "frame":  543,
+        "filename":  "F1C1-1465936990397.jpeg",
+        "timestampMs":  1465936990397,
+        "timestampUtc":  "2016-06-14T20:43:10.3970000Z"
+    },
+    {
+        "frame":  544,
+        "filename":  "F1C1-1465936990430.jpeg",
+        "timestampMs":  1465936990430,
+        "timestampUtc":  "2016-06-14T20:43:10.4300000Z"
+    },
+    {
+        "frame":  545,
+        "filename":  "F1C1-1465936990464.jpeg",
+        "timestampMs":  1465936990464,
+        "timestampUtc":  "2016-06-14T20:43:10.4640000Z"
+    },
+    {
+        "frame":  546,
+        "filename":  "F1C1-1465936990497.jpeg",
+        "timestampMs":  1465936990497,
+        "timestampUtc":  "2016-06-14T20:43:10.4970000Z"
+    },
+    {
+        "frame":  547,
+        "filename":  "F1C1-1465936990530.jpeg",
+        "timestampMs":  1465936990530,
+        "timestampUtc":  "2016-06-14T20:43:10.5300000Z"
+    },
+    {
+        "frame":  548,
+        "filename":  "F1C1-1465936990564.jpeg",
+        "timestampMs":  1465936990564,
+        "timestampUtc":  "2016-06-14T20:43:10.5640000Z"
+    },
+    {
+        "frame":  549,
+        "filename":  "F1C1-1465936990600.jpeg",
+        "timestampMs":  1465936990600,
+        "timestampUtc":  "2016-06-14T20:43:10.6000000Z"
+    },
+    {
+        "frame":  550,
+        "filename":  "F1C1-1465936990633.jpeg",
+        "timestampMs":  1465936990633,
+        "timestampUtc":  "2016-06-14T20:43:10.6330000Z"
+    },
+    {
+        "frame":  551,
+        "filename":  "F1C1-1465936990664.jpeg",
+        "timestampMs":  1465936990664,
+        "timestampUtc":  "2016-06-14T20:43:10.6640000Z"
+    },
+    {
+        "frame":  552,
+        "filename":  "F1C1-1465936990697.jpeg",
+        "timestampMs":  1465936990697,
+        "timestampUtc":  "2016-06-14T20:43:10.6970000Z"
+    },
+    {
+        "frame":  553,
+        "filename":  "F1C1-1465936990730.jpeg",
+        "timestampMs":  1465936990730,
+        "timestampUtc":  "2016-06-14T20:43:10.7300000Z"
+    },
+    {
+        "frame":  554,
+        "filename":  "F1C1-1465936990764.jpeg",
+        "timestampMs":  1465936990764,
+        "timestampUtc":  "2016-06-14T20:43:10.7640000Z"
+    },
+    {
+        "frame":  555,
+        "filename":  "F1C1-1465936990797.jpeg",
+        "timestampMs":  1465936990797,
+        "timestampUtc":  "2016-06-14T20:43:10.7970000Z"
+    },
+    {
+        "frame":  556,
+        "filename":  "F1C1-1465936990833.jpeg",
+        "timestampMs":  1465936990833,
+        "timestampUtc":  "2016-06-14T20:43:10.8330000Z"
+    },
+    {
+        "frame":  557,
+        "filename":  "F1C1-1465936990864.jpeg",
+        "timestampMs":  1465936990864,
+        "timestampUtc":  "2016-06-14T20:43:10.8640000Z"
+    },
+    {
+        "frame":  558,
+        "filename":  "F1C1-1465936990899.jpeg",
+        "timestampMs":  1465936990899,
+        "timestampUtc":  "2016-06-14T20:43:10.8990000Z"
+    },
+    {
+        "frame":  559,
+        "filename":  "F1C1-1465936990930.jpeg",
+        "timestampMs":  1465936990930,
+        "timestampUtc":  "2016-06-14T20:43:10.9300000Z"
+    },
+    {
+        "frame":  560,
+        "filename":  "F1C1-1465936990966.jpeg",
+        "timestampMs":  1465936990966,
+        "timestampUtc":  "2016-06-14T20:43:10.9660000Z"
+    },
+    {
+        "frame":  561,
+        "filename":  "F1C1-1465936991000.jpeg",
+        "timestampMs":  1465936991000,
+        "timestampUtc":  "2016-06-14T20:43:11.0000000Z"
+    },
+    {
+        "frame":  562,
+        "filename":  "F1C1-1465936991033.jpeg",
+        "timestampMs":  1465936991033,
+        "timestampUtc":  "2016-06-14T20:43:11.0330000Z"
+    },
+    {
+        "frame":  563,
+        "filename":  "F1C1-1465936991064.jpeg",
+        "timestampMs":  1465936991064,
+        "timestampUtc":  "2016-06-14T20:43:11.0640000Z"
+    },
+    {
+        "frame":  564,
+        "filename":  "F1C1-1465936991101.jpeg",
+        "timestampMs":  1465936991101,
+        "timestampUtc":  "2016-06-14T20:43:11.1010000Z"
+    },
+    {
+        "frame":  565,
+        "filename":  "F1C1-1465936991132.jpeg",
+        "timestampMs":  1465936991132,
+        "timestampUtc":  "2016-06-14T20:43:11.1320000Z"
+    },
+    {
+        "frame":  566,
+        "filename":  "F1C1-1465936991164.jpeg",
+        "timestampMs":  1465936991164,
+        "timestampUtc":  "2016-06-14T20:43:11.1640000Z"
+    },
+    {
+        "frame":  567,
+        "filename":  "F1C1-1465936991200.jpeg",
+        "timestampMs":  1465936991200,
+        "timestampUtc":  "2016-06-14T20:43:11.2000000Z"
+    },
+    {
+        "frame":  568,
+        "filename":  "F1C1-1465936991233.jpeg",
+        "timestampMs":  1465936991233,
+        "timestampUtc":  "2016-06-14T20:43:11.2330000Z"
+    },
+    {
+        "frame":  569,
+        "filename":  "F1C1-1465936991264.jpeg",
+        "timestampMs":  1465936991264,
+        "timestampUtc":  "2016-06-14T20:43:11.2640000Z"
+    },
+    {
+        "frame":  570,
+        "filename":  "F1C1-1465936991299.jpeg",
+        "timestampMs":  1465936991299,
+        "timestampUtc":  "2016-06-14T20:43:11.2990000Z"
+    },
+    {
+        "frame":  571,
+        "filename":  "F1C1-1465936991330.jpeg",
+        "timestampMs":  1465936991330,
+        "timestampUtc":  "2016-06-14T20:43:11.3300000Z"
+    },
+    {
+        "frame":  572,
+        "filename":  "F1C1-1465936991364.jpeg",
+        "timestampMs":  1465936991364,
+        "timestampUtc":  "2016-06-14T20:43:11.3640000Z"
+    },
+    {
+        "frame":  573,
+        "filename":  "F1C1-1465936991401.jpeg",
+        "timestampMs":  1465936991401,
+        "timestampUtc":  "2016-06-14T20:43:11.4010000Z"
+    },
+    {
+        "frame":  574,
+        "filename":  "F1C1-1465936991430.jpeg",
+        "timestampMs":  1465936991430,
+        "timestampUtc":  "2016-06-14T20:43:11.4300000Z"
+    },
+    {
+        "frame":  575,
+        "filename":  "F1C1-1465936991466.jpeg",
+        "timestampMs":  1465936991466,
+        "timestampUtc":  "2016-06-14T20:43:11.4660000Z"
+    },
+    {
+        "frame":  576,
+        "filename":  "F1C1-1465936991499.jpeg",
+        "timestampMs":  1465936991499,
+        "timestampUtc":  "2016-06-14T20:43:11.4990000Z"
+    },
+    {
+        "frame":  577,
+        "filename":  "F1C1-1465936991533.jpeg",
+        "timestampMs":  1465936991533,
+        "timestampUtc":  "2016-06-14T20:43:11.5330000Z"
+    },
+    {
+        "frame":  578,
+        "filename":  "F1C1-1465936991567.jpeg",
+        "timestampMs":  1465936991567,
+        "timestampUtc":  "2016-06-14T20:43:11.5670000Z"
+    },
+    {
+        "frame":  579,
+        "filename":  "F1C1-1465936991599.jpeg",
+        "timestampMs":  1465936991599,
+        "timestampUtc":  "2016-06-14T20:43:11.5990000Z"
+    },
+    {
+        "frame":  580,
+        "filename":  "F1C1-1465936991630.jpeg",
+        "timestampMs":  1465936991630,
+        "timestampUtc":  "2016-06-14T20:43:11.6300000Z"
+    },
+    {
+        "frame":  581,
+        "filename":  "F1C1-1465936991665.jpeg",
+        "timestampMs":  1465936991665,
+        "timestampUtc":  "2016-06-14T20:43:11.6650000Z"
+    },
+    {
+        "frame":  582,
+        "filename":  "F1C1-1465936991697.jpeg",
+        "timestampMs":  1465936991697,
+        "timestampUtc":  "2016-06-14T20:43:11.6970000Z"
+    },
+    {
+        "frame":  583,
+        "filename":  "F1C1-1465936991730.jpeg",
+        "timestampMs":  1465936991730,
+        "timestampUtc":  "2016-06-14T20:43:11.7300000Z"
+    },
+    {
+        "frame":  584,
+        "filename":  "F1C1-1465936991764.jpeg",
+        "timestampMs":  1465936991764,
+        "timestampUtc":  "2016-06-14T20:43:11.7640000Z"
+    },
+    {
+        "frame":  585,
+        "filename":  "F1C1-1465936991797.jpeg",
+        "timestampMs":  1465936991797,
+        "timestampUtc":  "2016-06-14T20:43:11.7970000Z"
+    },
+    {
+        "frame":  586,
+        "filename":  "F1C1-1465936991834.jpeg",
+        "timestampMs":  1465936991834,
+        "timestampUtc":  "2016-06-14T20:43:11.8340000Z"
+    },
+    {
+        "frame":  587,
+        "filename":  "F1C1-1465936991866.jpeg",
+        "timestampMs":  1465936991866,
+        "timestampUtc":  "2016-06-14T20:43:11.8660000Z"
+    },
+    {
+        "frame":  588,
+        "filename":  "F1C1-1465936991899.jpeg",
+        "timestampMs":  1465936991899,
+        "timestampUtc":  "2016-06-14T20:43:11.8990000Z"
+    },
+    {
+        "frame":  589,
+        "filename":  "F1C1-1465936991930.jpeg",
+        "timestampMs":  1465936991930,
+        "timestampUtc":  "2016-06-14T20:43:11.9300000Z"
+    },
+    {
+        "frame":  590,
+        "filename":  "F1C1-1465936991966.jpeg",
+        "timestampMs":  1465936991966,
+        "timestampUtc":  "2016-06-14T20:43:11.9660000Z"
+    },
+    {
+        "frame":  591,
+        "filename":  "F1C1-1465936991997.jpeg",
+        "timestampMs":  1465936991997,
+        "timestampUtc":  "2016-06-14T20:43:11.9970000Z"
+    },
+    {
+        "frame":  592,
+        "filename":  "F1C1-1465936992064.jpeg",
+        "timestampMs":  1465936992064,
+        "timestampUtc":  "2016-06-14T20:43:12.0640000Z"
+    },
+    {
+        "frame":  593,
+        "filename":  "F1C1-1465936992100.jpeg",
+        "timestampMs":  1465936992100,
+        "timestampUtc":  "2016-06-14T20:43:12.1000000Z"
+    },
+    {
+        "frame":  594,
+        "filename":  "F1C1-1465936992130.jpeg",
+        "timestampMs":  1465936992130,
+        "timestampUtc":  "2016-06-14T20:43:12.1300000Z"
+    },
+    {
+        "frame":  595,
+        "filename":  "F1C1-1465936992166.jpeg",
+        "timestampMs":  1465936992166,
+        "timestampUtc":  "2016-06-14T20:43:12.1660000Z"
+    },
+    {
+        "frame":  596,
+        "filename":  "F1C1-1465936992197.jpeg",
+        "timestampMs":  1465936992197,
+        "timestampUtc":  "2016-06-14T20:43:12.1970000Z"
+    },
+    {
+        "frame":  597,
+        "filename":  "F1C1-1465936992230.jpeg",
+        "timestampMs":  1465936992230,
+        "timestampUtc":  "2016-06-14T20:43:12.2300000Z"
+    },
+    {
+        "frame":  598,
+        "filename":  "F1C1-1465936992266.jpeg",
+        "timestampMs":  1465936992266,
+        "timestampUtc":  "2016-06-14T20:43:12.2660000Z"
+    },
+    {
+        "frame":  599,
+        "filename":  "F1C1-1465936992330.jpeg",
+        "timestampMs":  1465936992330,
+        "timestampUtc":  "2016-06-14T20:43:12.3300000Z"
+    },
+    {
+        "frame":  600,
+        "filename":  "F1C1-1465936992364.jpeg",
+        "timestampMs":  1465936992364,
+        "timestampUtc":  "2016-06-14T20:43:12.3640000Z"
+    },
+    {
+        "frame":  601,
+        "filename":  "F1C1-1465936992398.jpeg",
+        "timestampMs":  1465936992398,
+        "timestampUtc":  "2016-06-14T20:43:12.3980000Z"
+    },
+    {
+        "frame":  602,
+        "filename":  "F1C1-1465936992432.jpeg",
+        "timestampMs":  1465936992432,
+        "timestampUtc":  "2016-06-14T20:43:12.4320000Z"
+    },
+    {
+        "frame":  603,
+        "filename":  "F1C1-1465936992463.jpeg",
+        "timestampMs":  1465936992463,
+        "timestampUtc":  "2016-06-14T20:43:12.4630000Z"
+    },
+    {
+        "frame":  604,
+        "filename":  "F1C1-1465936992498.jpeg",
+        "timestampMs":  1465936992498,
+        "timestampUtc":  "2016-06-14T20:43:12.4980000Z"
+    },
+    {
+        "frame":  605,
+        "filename":  "F1C1-1465936992533.jpeg",
+        "timestampMs":  1465936992533,
+        "timestampUtc":  "2016-06-14T20:43:12.5330000Z"
+    },
+    {
+        "frame":  606,
+        "filename":  "F1C1-1465936992565.jpeg",
+        "timestampMs":  1465936992565,
+        "timestampUtc":  "2016-06-14T20:43:12.5650000Z"
+    },
+    {
+        "frame":  607,
+        "filename":  "F1C1-1465936992597.jpeg",
+        "timestampMs":  1465936992597,
+        "timestampUtc":  "2016-06-14T20:43:12.5970000Z"
+    },
+    {
+        "frame":  608,
+        "filename":  "F1C1-1465936992632.jpeg",
+        "timestampMs":  1465936992632,
+        "timestampUtc":  "2016-06-14T20:43:12.6320000Z"
+    },
+    {
+        "frame":  609,
+        "filename":  "F1C1-1465936992665.jpeg",
+        "timestampMs":  1465936992665,
+        "timestampUtc":  "2016-06-14T20:43:12.6650000Z"
+    },
+    {
+        "frame":  610,
+        "filename":  "F1C1-1465936992698.jpeg",
+        "timestampMs":  1465936992698,
+        "timestampUtc":  "2016-06-14T20:43:12.6980000Z"
+    },
+    {
+        "frame":  611,
+        "filename":  "F1C1-1465936992732.jpeg",
+        "timestampMs":  1465936992732,
+        "timestampUtc":  "2016-06-14T20:43:12.7320000Z"
+    },
+    {
+        "frame":  612,
+        "filename":  "F1C1-1465936992765.jpeg",
+        "timestampMs":  1465936992765,
+        "timestampUtc":  "2016-06-14T20:43:12.7650000Z"
+    },
+    {
+        "frame":  613,
+        "filename":  "F1C1-1465936992830.jpeg",
+        "timestampMs":  1465936992830,
+        "timestampUtc":  "2016-06-14T20:43:12.8300000Z"
+    },
+    {
+        "frame":  614,
+        "filename":  "F1C1-1465936992865.jpeg",
+        "timestampMs":  1465936992865,
+        "timestampUtc":  "2016-06-14T20:43:12.8650000Z"
+    },
+    {
+        "frame":  615,
+        "filename":  "F1C1-1465936992898.jpeg",
+        "timestampMs":  1465936992898,
+        "timestampUtc":  "2016-06-14T20:43:12.8980000Z"
+    },
+    {
+        "frame":  616,
+        "filename":  "F1C1-1465936992932.jpeg",
+        "timestampMs":  1465936992932,
+        "timestampUtc":  "2016-06-14T20:43:12.9320000Z"
+    },
+    {
+        "frame":  617,
+        "filename":  "F1C1-1465936992963.jpeg",
+        "timestampMs":  1465936992963,
+        "timestampUtc":  "2016-06-14T20:43:12.9630000Z"
+    },
+    {
+        "frame":  618,
+        "filename":  "F1C1-1465936992998.jpeg",
+        "timestampMs":  1465936992998,
+        "timestampUtc":  "2016-06-14T20:43:12.9980000Z"
+    },
+    {
+        "frame":  619,
+        "filename":  "F1C1-1465936993032.jpeg",
+        "timestampMs":  1465936993032,
+        "timestampUtc":  "2016-06-14T20:43:13.0320000Z"
+    },
+    {
+        "frame":  620,
+        "filename":  "F1C1-1465936993063.jpeg",
+        "timestampMs":  1465936993063,
+        "timestampUtc":  "2016-06-14T20:43:13.0630000Z"
+    },
+    {
+        "frame":  621,
+        "filename":  "F1C1-1465936993097.jpeg",
+        "timestampMs":  1465936993097,
+        "timestampUtc":  "2016-06-14T20:43:13.0970000Z"
+    },
+    {
+        "frame":  622,
+        "filename":  "F1C1-1465936993130.jpeg",
+        "timestampMs":  1465936993130,
+        "timestampUtc":  "2016-06-14T20:43:13.1300000Z"
+    },
+    {
+        "frame":  623,
+        "filename":  "F1C1-1465936993199.jpeg",
+        "timestampMs":  1465936993199,
+        "timestampUtc":  "2016-06-14T20:43:13.1990000Z"
+    },
+    {
+        "frame":  624,
+        "filename":  "F1C1-1465936993230.jpeg",
+        "timestampMs":  1465936993230,
+        "timestampUtc":  "2016-06-14T20:43:13.2300000Z"
+    },
+    {
+        "frame":  625,
+        "filename":  "F1C1-1465936993267.jpeg",
+        "timestampMs":  1465936993267,
+        "timestampUtc":  "2016-06-14T20:43:13.2670000Z"
+    },
+    {
+        "frame":  626,
+        "filename":  "F1C1-1465936993297.jpeg",
+        "timestampMs":  1465936993297,
+        "timestampUtc":  "2016-06-14T20:43:13.2970000Z"
+    },
+    {
+        "frame":  627,
+        "filename":  "F1C1-1465936993333.jpeg",
+        "timestampMs":  1465936993333,
+        "timestampUtc":  "2016-06-14T20:43:13.3330000Z"
+    },
+    {
+        "frame":  628,
+        "filename":  "F1C1-1465936993366.jpeg",
+        "timestampMs":  1465936993366,
+        "timestampUtc":  "2016-06-14T20:43:13.3660000Z"
+    },
+    {
+        "frame":  629,
+        "filename":  "F1C1-1465936993400.jpeg",
+        "timestampMs":  1465936993400,
+        "timestampUtc":  "2016-06-14T20:43:13.4000000Z"
+    },
+    {
+        "frame":  630,
+        "filename":  "F1C1-1465936993466.jpeg",
+        "timestampMs":  1465936993466,
+        "timestampUtc":  "2016-06-14T20:43:13.4660000Z"
+    },
+    {
+        "frame":  631,
+        "filename":  "F1C1-1465936993497.jpeg",
+        "timestampMs":  1465936993497,
+        "timestampUtc":  "2016-06-14T20:43:13.4970000Z"
+    },
+    {
+        "frame":  632,
+        "filename":  "F1C1-1465936993533.jpeg",
+        "timestampMs":  1465936993533,
+        "timestampUtc":  "2016-06-14T20:43:13.5330000Z"
+    },
+    {
+        "frame":  633,
+        "filename":  "F1C1-1465936993633.jpeg",
+        "timestampMs":  1465936993633,
+        "timestampUtc":  "2016-06-14T20:43:13.6330000Z"
+    },
+    {
+        "frame":  634,
+        "filename":  "F1C1-1465936993666.jpeg",
+        "timestampMs":  1465936993666,
+        "timestampUtc":  "2016-06-14T20:43:13.6660000Z"
+    },
+    {
+        "frame":  635,
+        "filename":  "F1C1-1465936993700.jpeg",
+        "timestampMs":  1465936993700,
+        "timestampUtc":  "2016-06-14T20:43:13.7000000Z"
+    },
+    {
+        "frame":  636,
+        "filename":  "F1C1-1465936993730.jpeg",
+        "timestampMs":  1465936993730,
+        "timestampUtc":  "2016-06-14T20:43:13.7300000Z"
+    },
+    {
+        "frame":  637,
+        "filename":  "F1C1-1465936993767.jpeg",
+        "timestampMs":  1465936993767,
+        "timestampUtc":  "2016-06-14T20:43:13.7670000Z"
+    },
+    {
+        "frame":  638,
+        "filename":  "F1C1-1465936993799.jpeg",
+        "timestampMs":  1465936993799,
+        "timestampUtc":  "2016-06-14T20:43:13.7990000Z"
+    },
+    {
+        "frame":  639,
+        "filename":  "F1C1-1465936993833.jpeg",
+        "timestampMs":  1465936993833,
+        "timestampUtc":  "2016-06-14T20:43:13.8330000Z"
+    },
+    {
+        "frame":  640,
+        "filename":  "F1C1-1465936993863.jpeg",
+        "timestampMs":  1465936993863,
+        "timestampUtc":  "2016-06-14T20:43:13.8630000Z"
+    },
+    {
+        "frame":  641,
+        "filename":  "F1C1-1465936993899.jpeg",
+        "timestampMs":  1465936993899,
+        "timestampUtc":  "2016-06-14T20:43:13.8990000Z"
+    },
+    {
+        "frame":  642,
+        "filename":  "F1C1-1465936993933.jpeg",
+        "timestampMs":  1465936993933,
+        "timestampUtc":  "2016-06-14T20:43:13.9330000Z"
+    },
+    {
+        "frame":  643,
+        "filename":  "F1C1-1465936993963.jpeg",
+        "timestampMs":  1465936993963,
+        "timestampUtc":  "2016-06-14T20:43:13.9630000Z"
+    },
+    {
+        "frame":  644,
+        "filename":  "F1C1-1465936993997.jpeg",
+        "timestampMs":  1465936993997,
+        "timestampUtc":  "2016-06-14T20:43:13.9970000Z"
+    },
+    {
+        "frame":  645,
+        "filename":  "F1C1-1465936994033.jpeg",
+        "timestampMs":  1465936994033,
+        "timestampUtc":  "2016-06-14T20:43:14.0330000Z"
+    },
+    {
+        "frame":  646,
+        "filename":  "F1C1-1465936994067.jpeg",
+        "timestampMs":  1465936994067,
+        "timestampUtc":  "2016-06-14T20:43:14.0670000Z"
+    },
+    {
+        "frame":  647,
+        "filename":  "F1C1-1465936994100.jpeg",
+        "timestampMs":  1465936994100,
+        "timestampUtc":  "2016-06-14T20:43:14.1000000Z"
+    },
+    {
+        "frame":  648,
+        "filename":  "F1C1-1465936994133.jpeg",
+        "timestampMs":  1465936994133,
+        "timestampUtc":  "2016-06-14T20:43:14.1330000Z"
+    },
+    {
+        "frame":  649,
+        "filename":  "F1C1-1465936994163.jpeg",
+        "timestampMs":  1465936994163,
+        "timestampUtc":  "2016-06-14T20:43:14.1630000Z"
+    },
+    {
+        "frame":  650,
+        "filename":  "F1C1-1465936994197.jpeg",
+        "timestampMs":  1465936994197,
+        "timestampUtc":  "2016-06-14T20:43:14.1970000Z"
+    },
+    {
+        "frame":  651,
+        "filename":  "F1C1-1465936994233.jpeg",
+        "timestampMs":  1465936994233,
+        "timestampUtc":  "2016-06-14T20:43:14.2330000Z"
+    },
+    {
+        "frame":  652,
+        "filename":  "F1C1-1465936994267.jpeg",
+        "timestampMs":  1465936994267,
+        "timestampUtc":  "2016-06-14T20:43:14.2670000Z"
+    },
+    {
+        "frame":  653,
+        "filename":  "F1C1-1465936994297.jpeg",
+        "timestampMs":  1465936994297,
+        "timestampUtc":  "2016-06-14T20:43:14.2970000Z"
+    },
+    {
+        "frame":  654,
+        "filename":  "F1C1-1465936994330.jpeg",
+        "timestampMs":  1465936994330,
+        "timestampUtc":  "2016-06-14T20:43:14.3300000Z"
+    },
+    {
+        "frame":  655,
+        "filename":  "F1C1-1465936994367.jpeg",
+        "timestampMs":  1465936994367,
+        "timestampUtc":  "2016-06-14T20:43:14.3670000Z"
+    },
+    {
+        "frame":  656,
+        "filename":  "F1C1-1465936994400.jpeg",
+        "timestampMs":  1465936994400,
+        "timestampUtc":  "2016-06-14T20:43:14.4000000Z"
+    },
+    {
+        "frame":  657,
+        "filename":  "F1C1-1465936994430.jpeg",
+        "timestampMs":  1465936994430,
+        "timestampUtc":  "2016-06-14T20:43:14.4300000Z"
+    },
+    {
+        "frame":  658,
+        "filename":  "F1C1-1465936994466.jpeg",
+        "timestampMs":  1465936994466,
+        "timestampUtc":  "2016-06-14T20:43:14.4660000Z"
+    },
+    {
+        "frame":  659,
+        "filename":  "F1C1-1465936994501.jpeg",
+        "timestampMs":  1465936994501,
+        "timestampUtc":  "2016-06-14T20:43:14.5010000Z"
+    },
+    {
+        "frame":  660,
+        "filename":  "F1C1-1465936994530.jpeg",
+        "timestampMs":  1465936994530,
+        "timestampUtc":  "2016-06-14T20:43:14.5300000Z"
+    },
+    {
+        "frame":  661,
+        "filename":  "F1C1-1465936994563.jpeg",
+        "timestampMs":  1465936994563,
+        "timestampUtc":  "2016-06-14T20:43:14.5630000Z"
+    },
+    {
+        "frame":  662,
+        "filename":  "F1C1-1465936994597.jpeg",
+        "timestampMs":  1465936994597,
+        "timestampUtc":  "2016-06-14T20:43:14.5970000Z"
+    },
+    {
+        "frame":  663,
+        "filename":  "F1C1-1465936994634.jpeg",
+        "timestampMs":  1465936994634,
+        "timestampUtc":  "2016-06-14T20:43:14.6340000Z"
+    },
+    {
+        "frame":  664,
+        "filename":  "F1C1-1465936994671.jpeg",
+        "timestampMs":  1465936994671,
+        "timestampUtc":  "2016-06-14T20:43:14.6710000Z"
+    },
+    {
+        "frame":  665,
+        "filename":  "F1C1-1465936994699.jpeg",
+        "timestampMs":  1465936994699,
+        "timestampUtc":  "2016-06-14T20:43:14.6990000Z"
+    },
+    {
+        "frame":  666,
+        "filename":  "F1C1-1465936994730.jpeg",
+        "timestampMs":  1465936994730,
+        "timestampUtc":  "2016-06-14T20:43:14.7300000Z"
+    },
+    {
+        "frame":  667,
+        "filename":  "F1C1-1465936994763.jpeg",
+        "timestampMs":  1465936994763,
+        "timestampUtc":  "2016-06-14T20:43:14.7630000Z"
+    },
+    {
+        "frame":  668,
+        "filename":  "F1C1-1465936994800.jpeg",
+        "timestampMs":  1465936994800,
+        "timestampUtc":  "2016-06-14T20:43:14.8000000Z"
+    },
+    {
+        "frame":  669,
+        "filename":  "F1C1-1465936994830.jpeg",
+        "timestampMs":  1465936994830,
+        "timestampUtc":  "2016-06-14T20:43:14.8300000Z"
+    },
+    {
+        "frame":  670,
+        "filename":  "F1C1-1465936994867.jpeg",
+        "timestampMs":  1465936994867,
+        "timestampUtc":  "2016-06-14T20:43:14.8670000Z"
+    },
+    {
+        "frame":  671,
+        "filename":  "F1C1-1465936994897.jpeg",
+        "timestampMs":  1465936994897,
+        "timestampUtc":  "2016-06-14T20:43:14.8970000Z"
+    },
+    {
+        "frame":  672,
+        "filename":  "F1C1-1465936994933.jpeg",
+        "timestampMs":  1465936994933,
+        "timestampUtc":  "2016-06-14T20:43:14.9330000Z"
+    },
+    {
+        "frame":  673,
+        "filename":  "F1C1-1465936994963.jpeg",
+        "timestampMs":  1465936994963,
+        "timestampUtc":  "2016-06-14T20:43:14.9630000Z"
+    },
+    {
+        "frame":  674,
+        "filename":  "F1C1-1465936994997.jpeg",
+        "timestampMs":  1465936994997,
+        "timestampUtc":  "2016-06-14T20:43:14.9970000Z"
+    },
+    {
+        "frame":  675,
+        "filename":  "F1C1-1465936995033.jpeg",
+        "timestampMs":  1465936995033,
+        "timestampUtc":  "2016-06-14T20:43:15.0330000Z"
+    },
+    {
+        "frame":  676,
+        "filename":  "F1C1-1465936995100.jpeg",
+        "timestampMs":  1465936995100,
+        "timestampUtc":  "2016-06-14T20:43:15.1000000Z"
+    },
+    {
+        "frame":  677,
+        "filename":  "F1C1-1465936995130.jpeg",
+        "timestampMs":  1465936995130,
+        "timestampUtc":  "2016-06-14T20:43:15.1300000Z"
+    },
+    {
+        "frame":  678,
+        "filename":  "F1C1-1465936995166.jpeg",
+        "timestampMs":  1465936995166,
+        "timestampUtc":  "2016-06-14T20:43:15.1660000Z"
+    },
+    {
+        "frame":  679,
+        "filename":  "F1C1-1465936995200.jpeg",
+        "timestampMs":  1465936995200,
+        "timestampUtc":  "2016-06-14T20:43:15.2000000Z"
+    },
+    {
+        "frame":  680,
+        "filename":  "F1C1-1465936995233.jpeg",
+        "timestampMs":  1465936995233,
+        "timestampUtc":  "2016-06-14T20:43:15.2330000Z"
+    },
+    {
+        "frame":  681,
+        "filename":  "F1C1-1465936995267.jpeg",
+        "timestampMs":  1465936995267,
+        "timestampUtc":  "2016-06-14T20:43:15.2670000Z"
+    },
+    {
+        "frame":  682,
+        "filename":  "F1C1-1465936995300.jpeg",
+        "timestampMs":  1465936995300,
+        "timestampUtc":  "2016-06-14T20:43:15.3000000Z"
+    },
+    {
+        "frame":  683,
+        "filename":  "F1C1-1465936995367.jpeg",
+        "timestampMs":  1465936995367,
+        "timestampUtc":  "2016-06-14T20:43:15.3670000Z"
+    },
+    {
+        "frame":  684,
+        "filename":  "F1C1-1465936995400.jpeg",
+        "timestampMs":  1465936995400,
+        "timestampUtc":  "2016-06-14T20:43:15.4000000Z"
+    },
+    {
+        "frame":  685,
+        "filename":  "F1C1-1465936995431.jpeg",
+        "timestampMs":  1465936995431,
+        "timestampUtc":  "2016-06-14T20:43:15.4310000Z"
+    },
+    {
+        "frame":  686,
+        "filename":  "F1C1-1465936995497.jpeg",
+        "timestampMs":  1465936995497,
+        "timestampUtc":  "2016-06-14T20:43:15.4970000Z"
+    },
+    {
+        "frame":  687,
+        "filename":  "F1C1-1465936995533.jpeg",
+        "timestampMs":  1465936995533,
+        "timestampUtc":  "2016-06-14T20:43:15.5330000Z"
+    },
+    {
+        "frame":  688,
+        "filename":  "F1C1-1465936995567.jpeg",
+        "timestampMs":  1465936995567,
+        "timestampUtc":  "2016-06-14T20:43:15.5670000Z"
+    },
+    {
+        "frame":  689,
+        "filename":  "F1C1-1465936995596.jpeg",
+        "timestampMs":  1465936995596,
+        "timestampUtc":  "2016-06-14T20:43:15.5960000Z"
+    },
+    {
+        "frame":  690,
+        "filename":  "F1C1-1465936995633.jpeg",
+        "timestampMs":  1465936995633,
+        "timestampUtc":  "2016-06-14T20:43:15.6330000Z"
+    },
+    {
+        "frame":  691,
+        "filename":  "F1C1-1465936995663.jpeg",
+        "timestampMs":  1465936995663,
+        "timestampUtc":  "2016-06-14T20:43:15.6630000Z"
+    },
+    {
+        "frame":  692,
+        "filename":  "F1C1-1465936995700.jpeg",
+        "timestampMs":  1465936995700,
+        "timestampUtc":  "2016-06-14T20:43:15.7000000Z"
+    },
+    {
+        "frame":  693,
+        "filename":  "F1C1-1465936995730.jpeg",
+        "timestampMs":  1465936995730,
+        "timestampUtc":  "2016-06-14T20:43:15.7300000Z"
+    },
+    {
+        "frame":  694,
+        "filename":  "F1C1-1465936995763.jpeg",
+        "timestampMs":  1465936995763,
+        "timestampUtc":  "2016-06-14T20:43:15.7630000Z"
+    },
+    {
+        "frame":  695,
+        "filename":  "F1C1-1465936995797.jpeg",
+        "timestampMs":  1465936995797,
+        "timestampUtc":  "2016-06-14T20:43:15.7970000Z"
+    },
+    {
+        "frame":  696,
+        "filename":  "F1C1-1465936995833.jpeg",
+        "timestampMs":  1465936995833,
+        "timestampUtc":  "2016-06-14T20:43:15.8330000Z"
+    },
+    {
+        "frame":  697,
+        "filename":  "F1C1-1465936995866.jpeg",
+        "timestampMs":  1465936995866,
+        "timestampUtc":  "2016-06-14T20:43:15.8660000Z"
+    },
+    {
+        "frame":  698,
+        "filename":  "F1C1-1465936995900.jpeg",
+        "timestampMs":  1465936995900,
+        "timestampUtc":  "2016-06-14T20:43:15.9000000Z"
+    },
+    {
+        "frame":  699,
+        "filename":  "F1C1-1465936995933.jpeg",
+        "timestampMs":  1465936995933,
+        "timestampUtc":  "2016-06-14T20:43:15.9330000Z"
+    },
+    {
+        "frame":  700,
+        "filename":  "F1C1-1465936995966.jpeg",
+        "timestampMs":  1465936995966,
+        "timestampUtc":  "2016-06-14T20:43:15.9660000Z"
+    },
+    {
+        "frame":  701,
+        "filename":  "F1C1-1465936995999.jpeg",
+        "timestampMs":  1465936995999,
+        "timestampUtc":  "2016-06-14T20:43:15.9990000Z"
+    },
+    {
+        "frame":  702,
+        "filename":  "F1C1-1465936996030.jpeg",
+        "timestampMs":  1465936996030,
+        "timestampUtc":  "2016-06-14T20:43:16.0300000Z"
+    },
+    {
+        "frame":  703,
+        "filename":  "F1C1-1465936996065.jpeg",
+        "timestampMs":  1465936996065,
+        "timestampUtc":  "2016-06-14T20:43:16.0650000Z"
+    },
+    {
+        "frame":  704,
+        "filename":  "F1C1-1465936996097.jpeg",
+        "timestampMs":  1465936996097,
+        "timestampUtc":  "2016-06-14T20:43:16.0970000Z"
+    },
+    {
+        "frame":  705,
+        "filename":  "F1C1-1465936996167.jpeg",
+        "timestampMs":  1465936996167,
+        "timestampUtc":  "2016-06-14T20:43:16.1670000Z"
+    },
+    {
+        "frame":  706,
+        "filename":  "F1C1-1465936996199.jpeg",
+        "timestampMs":  1465936996199,
+        "timestampUtc":  "2016-06-14T20:43:16.1990000Z"
+    },
+    {
+        "frame":  707,
+        "filename":  "F1C1-1465936996230.jpeg",
+        "timestampMs":  1465936996230,
+        "timestampUtc":  "2016-06-14T20:43:16.2300000Z"
+    },
+    {
+        "frame":  708,
+        "filename":  "F1C1-1465936996268.jpeg",
+        "timestampMs":  1465936996268,
+        "timestampUtc":  "2016-06-14T20:43:16.2680000Z"
+    },
+    {
+        "frame":  709,
+        "filename":  "F1C1-1465936996300.jpeg",
+        "timestampMs":  1465936996300,
+        "timestampUtc":  "2016-06-14T20:43:16.3000000Z"
+    },
+    {
+        "frame":  710,
+        "filename":  "F1C1-1465936996333.jpeg",
+        "timestampMs":  1465936996333,
+        "timestampUtc":  "2016-06-14T20:43:16.3330000Z"
+    },
+    {
+        "frame":  711,
+        "filename":  "F1C1-1465936996433.jpeg",
+        "timestampMs":  1465936996433,
+        "timestampUtc":  "2016-06-14T20:43:16.4330000Z"
+    },
+    {
+        "frame":  712,
+        "filename":  "F1C1-1465936996463.jpeg",
+        "timestampMs":  1465936996463,
+        "timestampUtc":  "2016-06-14T20:43:16.4630000Z"
+    },
+    {
+        "frame":  713,
+        "filename":  "F1C1-1465936996496.jpeg",
+        "timestampMs":  1465936996496,
+        "timestampUtc":  "2016-06-14T20:43:16.4960000Z"
+    },
+    {
+        "frame":  714,
+        "filename":  "F1C1-1465936996530.jpeg",
+        "timestampMs":  1465936996530,
+        "timestampUtc":  "2016-06-14T20:43:16.5300000Z"
+    },
+    {
+        "frame":  715,
+        "filename":  "F1C1-1465936996566.jpeg",
+        "timestampMs":  1465936996566,
+        "timestampUtc":  "2016-06-14T20:43:16.5660000Z"
+    },
+    {
+        "frame":  716,
+        "filename":  "F1C1-1465936996600.jpeg",
+        "timestampMs":  1465936996600,
+        "timestampUtc":  "2016-06-14T20:43:16.6000000Z"
+    },
+    {
+        "frame":  717,
+        "filename":  "F1C1-1465936996630.jpeg",
+        "timestampMs":  1465936996630,
+        "timestampUtc":  "2016-06-14T20:43:16.6300000Z"
+    },
+    {
+        "frame":  718,
+        "filename":  "F1C1-1465936996663.jpeg",
+        "timestampMs":  1465936996663,
+        "timestampUtc":  "2016-06-14T20:43:16.6630000Z"
+    },
+    {
+        "frame":  719,
+        "filename":  "F1C1-1465936996696.jpeg",
+        "timestampMs":  1465936996696,
+        "timestampUtc":  "2016-06-14T20:43:16.6960000Z"
+    },
+    {
+        "frame":  720,
+        "filename":  "F1C1-1465936996731.jpeg",
+        "timestampMs":  1465936996731,
+        "timestampUtc":  "2016-06-14T20:43:16.7310000Z"
+    },
+    {
+        "frame":  721,
+        "filename":  "F1C1-1465936996763.jpeg",
+        "timestampMs":  1465936996763,
+        "timestampUtc":  "2016-06-14T20:43:16.7630000Z"
+    },
+    {
+        "frame":  722,
+        "filename":  "F1C1-1465936996796.jpeg",
+        "timestampMs":  1465936996796,
+        "timestampUtc":  "2016-06-14T20:43:16.7960000Z"
+    },
+    {
+        "frame":  723,
+        "filename":  "F1C1-1465936996863.jpeg",
+        "timestampMs":  1465936996863,
+        "timestampUtc":  "2016-06-14T20:43:16.8630000Z"
+    },
+    {
+        "frame":  724,
+        "filename":  "F1C1-1465936996897.jpeg",
+        "timestampMs":  1465936996897,
+        "timestampUtc":  "2016-06-14T20:43:16.8970000Z"
+    },
+    {
+        "frame":  725,
+        "filename":  "F1C1-1465936996930.jpeg",
+        "timestampMs":  1465936996930,
+        "timestampUtc":  "2016-06-14T20:43:16.9300000Z"
+    },
+    {
+        "frame":  726,
+        "filename":  "F1C1-1465936996966.jpeg",
+        "timestampMs":  1465936996966,
+        "timestampUtc":  "2016-06-14T20:43:16.9660000Z"
+    },
+    {
+        "frame":  727,
+        "filename":  "F1C1-1465936996996.jpeg",
+        "timestampMs":  1465936996996,
+        "timestampUtc":  "2016-06-14T20:43:16.9960000Z"
+    },
+    {
+        "frame":  728,
+        "filename":  "F1C1-1465936997034.jpeg",
+        "timestampMs":  1465936997034,
+        "timestampUtc":  "2016-06-14T20:43:17.0340000Z"
+    },
+    {
+        "frame":  729,
+        "filename":  "F1C1-1465936997067.jpeg",
+        "timestampMs":  1465936997067,
+        "timestampUtc":  "2016-06-14T20:43:17.0670000Z"
+    },
+    {
+        "frame":  730,
+        "filename":  "F1C1-1465936997099.jpeg",
+        "timestampMs":  1465936997099,
+        "timestampUtc":  "2016-06-14T20:43:17.0990000Z"
+    },
+    {
+        "frame":  731,
+        "filename":  "F1C1-1465936997133.jpeg",
+        "timestampMs":  1465936997133,
+        "timestampUtc":  "2016-06-14T20:43:17.1330000Z"
+    },
+    {
+        "frame":  732,
+        "filename":  "F1C1-1465936997166.jpeg",
+        "timestampMs":  1465936997166,
+        "timestampUtc":  "2016-06-14T20:43:17.1660000Z"
+    },
+    {
+        "frame":  733,
+        "filename":  "F1C1-1465936997196.jpeg",
+        "timestampMs":  1465936997196,
+        "timestampUtc":  "2016-06-14T20:43:17.1960000Z"
+    },
+    {
+        "frame":  734,
+        "filename":  "F1C1-1465936997233.jpeg",
+        "timestampMs":  1465936997233,
+        "timestampUtc":  "2016-06-14T20:43:17.2330000Z"
+    },
+    {
+        "frame":  735,
+        "filename":  "F1C1-1465936997263.jpeg",
+        "timestampMs":  1465936997263,
+        "timestampUtc":  "2016-06-14T20:43:17.2630000Z"
+    },
+    {
+        "frame":  736,
+        "filename":  "F1C1-1465936997296.jpeg",
+        "timestampMs":  1465936997296,
+        "timestampUtc":  "2016-06-14T20:43:17.2960000Z"
+    },
+    {
+        "frame":  737,
+        "filename":  "F1C1-1465936997330.jpeg",
+        "timestampMs":  1465936997330,
+        "timestampUtc":  "2016-06-14T20:43:17.3300000Z"
+    },
+    {
+        "frame":  738,
+        "filename":  "F1C1-1465936997366.jpeg",
+        "timestampMs":  1465936997366,
+        "timestampUtc":  "2016-06-14T20:43:17.3660000Z"
+    },
+    {
+        "frame":  739,
+        "filename":  "F1C1-1465936997399.jpeg",
+        "timestampMs":  1465936997399,
+        "timestampUtc":  "2016-06-14T20:43:17.3990000Z"
+    },
+    {
+        "frame":  740,
+        "filename":  "F1C1-1465936997430.jpeg",
+        "timestampMs":  1465936997430,
+        "timestampUtc":  "2016-06-14T20:43:17.4300000Z"
+    },
+    {
+        "frame":  741,
+        "filename":  "F1C1-1465936997463.jpeg",
+        "timestampMs":  1465936997463,
+        "timestampUtc":  "2016-06-14T20:43:17.4630000Z"
+    },
+    {
+        "frame":  742,
+        "filename":  "F1C1-1465936997496.jpeg",
+        "timestampMs":  1465936997496,
+        "timestampUtc":  "2016-06-14T20:43:17.4960000Z"
+    },
+    {
+        "frame":  743,
+        "filename":  "F1C1-1465936997530.jpeg",
+        "timestampMs":  1465936997530,
+        "timestampUtc":  "2016-06-14T20:43:17.5300000Z"
+    },
+    {
+        "frame":  744,
+        "filename":  "F1C1-1465936997563.jpeg",
+        "timestampMs":  1465936997563,
+        "timestampUtc":  "2016-06-14T20:43:17.5630000Z"
+    },
+    {
+        "frame":  745,
+        "filename":  "F1C1-1465936997600.jpeg",
+        "timestampMs":  1465936997600,
+        "timestampUtc":  "2016-06-14T20:43:17.6000000Z"
+    },
+    {
+        "frame":  746,
+        "filename":  "F1C1-1465936997633.jpeg",
+        "timestampMs":  1465936997633,
+        "timestampUtc":  "2016-06-14T20:43:17.6330000Z"
+    },
+    {
+        "frame":  747,
+        "filename":  "F1C1-1465936997700.jpeg",
+        "timestampMs":  1465936997700,
+        "timestampUtc":  "2016-06-14T20:43:17.7000000Z"
+    },
+    {
+        "frame":  748,
+        "filename":  "F1C1-1465936997733.jpeg",
+        "timestampMs":  1465936997733,
+        "timestampUtc":  "2016-06-14T20:43:17.7330000Z"
+    },
+    {
+        "frame":  749,
+        "filename":  "F1C1-1465936997763.jpeg",
+        "timestampMs":  1465936997763,
+        "timestampUtc":  "2016-06-14T20:43:17.7630000Z"
+    },
+    {
+        "frame":  750,
+        "filename":  "F1C1-1465936997796.jpeg",
+        "timestampMs":  1465936997796,
+        "timestampUtc":  "2016-06-14T20:43:17.7960000Z"
+    },
+    {
+        "frame":  751,
+        "filename":  "F1C1-1465936997830.jpeg",
+        "timestampMs":  1465936997830,
+        "timestampUtc":  "2016-06-14T20:43:17.8300000Z"
+    },
+    {
+        "frame":  752,
+        "filename":  "F1C1-1465936997866.jpeg",
+        "timestampMs":  1465936997866,
+        "timestampUtc":  "2016-06-14T20:43:17.8660000Z"
+    },
+    {
+        "frame":  753,
+        "filename":  "F1C1-1465936997900.jpeg",
+        "timestampMs":  1465936997900,
+        "timestampUtc":  "2016-06-14T20:43:17.9000000Z"
+    },
+    {
+        "frame":  754,
+        "filename":  "F1C1-1465936997963.jpeg",
+        "timestampMs":  1465936997963,
+        "timestampUtc":  "2016-06-14T20:43:17.9630000Z"
+    },
+    {
+        "frame":  755,
+        "filename":  "F1C1-1465936997999.jpeg",
+        "timestampMs":  1465936997999,
+        "timestampUtc":  "2016-06-14T20:43:17.9990000Z"
+    },
+    {
+        "frame":  756,
+        "filename":  "F1C1-1465936998030.jpeg",
+        "timestampMs":  1465936998030,
+        "timestampUtc":  "2016-06-14T20:43:18.0300000Z"
+    },
+    {
+        "frame":  757,
+        "filename":  "F1C1-1465936998063.jpeg",
+        "timestampMs":  1465936998063,
+        "timestampUtc":  "2016-06-14T20:43:18.0630000Z"
+    },
+    {
+        "frame":  758,
+        "filename":  "F1C1-1465936998096.jpeg",
+        "timestampMs":  1465936998096,
+        "timestampUtc":  "2016-06-14T20:43:18.0960000Z"
+    },
+    {
+        "frame":  759,
+        "filename":  "F1C1-1465936998130.jpeg",
+        "timestampMs":  1465936998130,
+        "timestampUtc":  "2016-06-14T20:43:18.1300000Z"
+    },
+    {
+        "frame":  760,
+        "filename":  "F1C1-1465936998163.jpeg",
+        "timestampMs":  1465936998163,
+        "timestampUtc":  "2016-06-14T20:43:18.1630000Z"
+    },
+    {
+        "frame":  761,
+        "filename":  "F1C1-1465936998200.jpeg",
+        "timestampMs":  1465936998200,
+        "timestampUtc":  "2016-06-14T20:43:18.2000000Z"
+    },
+    {
+        "frame":  762,
+        "filename":  "F1C1-1465936998230.jpeg",
+        "timestampMs":  1465936998230,
+        "timestampUtc":  "2016-06-14T20:43:18.2300000Z"
+    },
+    {
+        "frame":  763,
+        "filename":  "F1C1-1465936998296.jpeg",
+        "timestampMs":  1465936998296,
+        "timestampUtc":  "2016-06-14T20:43:18.2960000Z"
+    },
+    {
+        "frame":  764,
+        "filename":  "F1C1-1465936998330.jpeg",
+        "timestampMs":  1465936998330,
+        "timestampUtc":  "2016-06-14T20:43:18.3300000Z"
+    }
+]
