@@ -49,6 +49,7 @@ export default function ZeroGPhysicsSection() {
                 src="/images/flame.jpg"
                 alt="Terrestrial Candle Flame"
                 fill
+                unoptimized
                 className="object-cover opacity-90"
                 sizes="(max-width: 768px) 100vw, 550px"
               />
@@ -89,6 +90,7 @@ export default function ZeroGPhysicsSection() {
                 src="/images/microgravity-flame.webp"
                 alt="Microgravity Flame Experiment"
                 fill
+                unoptimized
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
                 sizes="(max-width: 768px) 100vw, 550px"
               />

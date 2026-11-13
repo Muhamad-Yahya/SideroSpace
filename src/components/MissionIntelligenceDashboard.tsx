@@ -282,6 +282,7 @@ export default function MissionIntelligenceDashboard({
             src="/images/Earth22.webp"
             alt="Earth"
             fill
+            unoptimized
             preload
             sizes="(max-width: 760px) 100vw, 35vw"
             className="dashboard-hero-image"

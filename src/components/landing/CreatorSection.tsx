@@ -30,6 +30,7 @@ export default function CreatorSection() {
                   src="/images/ME.webp"
                   alt="SideroSpace Creator"
                   fill
+                  unoptimized
                   sizes="(max-width: 768px) 280px, 320px"
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
                 />
