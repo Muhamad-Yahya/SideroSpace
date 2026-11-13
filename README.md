@@ -10,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![NASA Space Apps Challenge](https://img.shields.io/badge/NASA%20Space%20Apps-2026-0b3d91)](https://www.spaceappschallenge.org/)
 
-[Features](docs/FEATURES.md) · [Data & evidence](docs/DATA_AND_EVIDENCE.md) · [Demo guide](docs/DEMO_GUIDE.md)
+[Features](docs/FEATURES.md) · [Data & evidence](docs/DATA_AND_EVIDENCE.md) · [Demo guide](docs/DEMO_GUIDE.md) · [Architecture](docs/ARCHITECTURE.md) · [Data methodology](docs/DATA_METHODOLOGY.md)
 
 # SideroSpace
 
