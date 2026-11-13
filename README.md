@@ -7,9 +7,10 @@
 [![Next.js](https://img.shields.io/badge/Next.js-16.4.2-000000?logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-149eca?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![NASA Space Apps Challenge](https://img.shields.io/badge/NASA%20Space%20Apps-2026-0b3d91)](https://www.spaceappschallenge.org/)
 
-[Explore the repository](https://github.com/Muhamad-Yahya/SideroSpace) · [Features](docs/FEATURES.md) · [Data & evidence](docs/DATA_AND_EVIDENCE.md) · [Demo guide](docs/DEMO_GUIDE.md)
+[Features](docs/FEATURES.md) · [Data & evidence](docs/DATA_AND_EVIDENCE.md) · [Demo guide](docs/DEMO_GUIDE.md)
 
 # SideroSpace
 
