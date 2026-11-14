@@ -139,6 +139,8 @@ docs/             Architecture, feature, data, design, demo and setup guides
 - [Demo guide](docs/DEMO_GUIDE.md)
 - [Design notes](docs/DESIGN.md)
 - [Roadmap](docs/ROADMAP.md)
+- [Project presentation](docs/Project%20Presentation/SidroSpace-Project%20Presentation.pptx)
+- [Project report](docs/Project%20Report/SideroSpace_Project_Report.docx)
 
 ## Scientific integrity and limitations
 
