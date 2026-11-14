@@ -1,8 +1,8 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { Compass, Flame, Wind, ArrowRight } from "lucide-react";
+import DashboardEntryLink from "./DashboardEntryLink";
 
 export default function ZeroGPhysicsSection() {
   return (
@@ -138,13 +138,12 @@ export default function ZeroGPhysicsSection() {
           <p className="text-xs sm:text-sm text-slate-300 font-sans">
             SideroSpace helps users explore selected NASA experiments and research evidence related to these questions.
           </p>
-          <Link
-            href="/dashboard"
+          <DashboardEntryLink
             className="flex items-center gap-1.5 text-xs font-mono font-semibold text-blue-300 hover:text-white shrink-0 border border-blue-500/30 px-4 py-2 rounded-lg bg-blue-500/10 hover:bg-blue-500/20 transition-all"
           >
             <span>Explore the Project</span>
             <ArrowRight className="h-3.5 w-3.5" />
-          </Link>
+          </DashboardEntryLink>
         </div>
       </div>
     </section>

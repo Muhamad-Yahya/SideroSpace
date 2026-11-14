@@ -14,6 +14,7 @@ import {
   ArrowRight,
   Cpu,
 } from "lucide-react";
+import DashboardEntryLink from "./DashboardEntryLink";
 
 interface SiteFeature {
   id: string;
@@ -337,13 +338,12 @@ export default function SiteFeaturesDeck() {
         </div>
 
         <div className="mt-10 flex justify-center">
-          <Link
-            href="/dashboard"
+          <DashboardEntryLink
             className="group inline-flex items-center gap-3 rounded-full border border-blue-300/50 bg-gradient-to-r from-blue-500/30 to-cyan-400/20 px-7 py-3.5 text-sm font-semibold text-white shadow-[0_0_24px_rgba(59,130,246,0.2)] backdrop-blur-md transition hover:-translate-y-0.5 hover:border-cyan-200/70 hover:shadow-[0_0_32px_rgba(59,130,246,0.4)]"
           >
             Visit Project
             <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-          </Link>
+          </DashboardEntryLink>
         </div>
       </div>
     </section>

@@ -1,7 +1,8 @@
 "use client";
 
-import Link from "next/link";
 import { ArrowRight, ExternalLink, Orbit } from "lucide-react";
+import Link from "next/link";
+import DashboardEntryLink from "./DashboardEntryLink";
 
 export default function CosmicLaunchCTA() {
   return (
@@ -28,14 +29,13 @@ export default function CosmicLaunchCTA() {
 
         {/* Action Buttons */}
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
-          <Link
-            href="/dashboard"
+          <DashboardEntryLink
             className="group relative flex items-center gap-3 rounded-full bg-blue-500 px-8 py-4 text-sm font-semibold tracking-wide text-white shadow-[0_0_30px_rgba(59,130,246,0.4)] border border-blue-400/40 transition-all duration-300 hover:bg-blue-400 hover:scale-[1.03] hover:shadow-[0_0_40px_rgba(59,130,246,0.6)]"
           >
             <Orbit className="h-4 w-4" />
             <span>Visit Project</span>
             <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-          </Link>
+          </DashboardEntryLink>
 
           <Link
             href="https://github.com/Muhamad-Yahya/SideroSpace"

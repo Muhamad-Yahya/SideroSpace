@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Volume2, VolumeX } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
+import DashboardEntryLink from "./DashboardEntryLink";
 
 export default function HeroSection() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -126,12 +127,11 @@ export default function HeroSection() {
 
           {/* Desktop project and soundtrack controls */}
           <div className="ml-auto hidden items-center gap-3 md:flex">
-            <Link
-              href="/dashboard"
+            <DashboardEntryLink
               className="rounded-full border border-blue-300/50 bg-gradient-to-r from-blue-500/30 to-cyan-400/20 px-7 py-3 text-sm font-semibold text-white shadow-[0_0_24px_rgba(59,130,246,0.2)] backdrop-blur-md transition hover:-translate-y-0.5 hover:border-cyan-200/70 hover:shadow-[0_0_32px_rgba(59,130,246,0.4)]"
             >
               Visit Project <span className="ml-2">↗</span>
-            </Link>
+            </DashboardEntryLink>
             <button
               type="button"
               onClick={toggleMusic}
@@ -185,13 +185,12 @@ export default function HeroSection() {
                   {item.label}
                 </Link>
               ))}
-              <Link
-                href="/dashboard"
+              <DashboardEntryLink
                 onClick={() => setMenuOpen(false)}
                 className="mt-2 rounded-full border border-blue-300/50 bg-gradient-to-r from-blue-500/30 to-cyan-400/20 px-6 py-3 text-center text-sm font-semibold text-white shadow-[0_0_24px_rgba(59,130,246,0.2)]"
               >
                 Visit Project ↗
-              </Link>
+              </DashboardEntryLink>
             </div>
           </div>
         )}
@@ -208,15 +207,14 @@ export default function HeroSection() {
         </p>
 
         <div className="mt-9 flex flex-col items-center gap-4 sm:flex-row">
-          <Link
-            href="/dashboard"
+          <DashboardEntryLink
             className="group flex items-center gap-3 rounded-full bg-blue-500 px-7 py-3.5 text-sm font-semibold text-white shadow-[0_0_25px_rgba(59,130,246,0.4)] border border-blue-400/40 transition-all duration-300 hover:-translate-y-1 hover:bg-blue-400 hover:shadow-[0_0_35px_rgba(59,130,246,0.6)]"
           >
             Explore the Project
             <span className="transition-transform duration-300 group-hover:translate-x-1">
               ↗
             </span>
-          </Link>
+          </DashboardEntryLink>
 
           <Link
             href="https://github.com/Muhamad-Yahya/SideroSpace"
