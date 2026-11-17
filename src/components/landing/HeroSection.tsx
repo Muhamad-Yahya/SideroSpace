@@ -76,7 +76,7 @@ export default function HeroSection() {
       <audio
         ref={audioRef}
         src="/Music/Hanz_Zimmer_-_S.T.A.Y._ost_Interstellar_(mp3.pm).mp3"
-        preload="auto"
+        preload="none"
       />
 
       {/* Background glow */}
